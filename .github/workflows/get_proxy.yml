@@ -9,9 +9,13 @@ on:
 jobs:
   download-filter-and-commit:
     runs-on: ubuntu-latest
+    permissions:
+      # Add this line to give the bot 'write' permission for repository contents.
+      contents: write
 
     steps:
       - name: Checkout repository
+        # Use v4 for a more stable and updated action.
         uses: actions/checkout@v4
 
       - name: Download alive.txt
@@ -42,8 +46,12 @@ jobs:
       - name: Commit and push if changes exist
         if: steps.git-check.outputs.changes_exist == 'true'
         run: |
+          # Set the bot's identity for the commit.
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
           # The file is already in the staging area from the previous step.
           git commit -m "Update proxy_ip.txt with latest ID and SG proxies"
+          
+          # Push the changes to the remote repository.
           git push
