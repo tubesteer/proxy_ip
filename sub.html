@@ -185,6 +185,9 @@
         transition: all 0.2s ease;
         position: relative;
         cursor: pointer;
+        /* Default column layout for small screens */
+        flex-direction: column;
+        align-items: flex-start;
       }
 
       .proxy-item-card:hover {
@@ -339,7 +342,7 @@
         padding: 1.2rem;
         overflow-x: auto;
         font-family: 'Fira Code', 'Courier New', monospace;
-        font-size: 0.9rem;
+        font-size: 0.8rem; /* Smaller font for code snippet */
         line-height: 1.5;
         white-space: pre-wrap;
         word-break: break-all;
@@ -374,6 +377,25 @@
         padding: 1rem;
       }
 
+      /* Responsive adjustments for two columns on larger screens */
+      @media (min-width: 640px) {
+        #proxy-list-container {
+          display: grid;
+          grid-template-columns: repeat(2, 1fr); /* Two columns */
+          gap: 0.75rem; /* Gap between columns and rows */
+        }
+
+        .proxy-item-card {
+          flex-direction: row !important; /* Row layout for larger screens */
+          align-items: center !important;
+          justify-content: space-between;
+        }
+        .proxy-item-card .flex-1 {
+          width: auto; /* Allow content to size naturally */
+          margin-bottom: 0 !important;
+        }
+      }
+
       @media (max-width: 640px) {
         .proxy-item-card {
           flex-direction: column !important;
@@ -388,10 +410,12 @@
           white-space: nowrap;
           overflow: hidden;
           text-overflow: ellipsis;
+          font-size: 1rem; /* Adjust font size for mobile cards */
         }
         .proxy-item-card .text-sm {
           white-space: normal;
           word-break: break-all;
+          font-size: 0.8rem; /* Adjust font size for mobile card details */
         }
         .btn-accent, .btn-outline-secondary {
           width: 100%;
@@ -493,7 +517,8 @@
             </div>
           </div>
 
-          <div id="proxy-list-container" class="space-y-3"></div>
+          <!-- Proxy list container now uses grid for two columns on larger screens -->
+          <div id="proxy-list-container" class="space-y-3 sm:space-y-0"></div>
 
           <div
             id="pagination-container"
@@ -908,6 +933,7 @@
                         <i class="far fa-copy mr-1"></i> Salin Semua
                     </button>
                 </div>
+                <!-- URL display area, now with smaller font and potentially scrollable -->
                 <div
                     id="all-connection-urls"
                     class="code-snippet-box"
@@ -940,7 +966,7 @@
       let proxyList = [];
       let filteredProxyList = [];
       let selectedProxies = []; // Stores full proxy objects for multi-selection
-      const defaultProxyUrl = "https://raw.githubusercontent.com/tubesteer/Changli/refs/heads/main/proxy_ip.txt"; // Ensure this URL is correct
+      const defaultProxyUrl = "https://raw.githubusercontent.com/tubesteer/proxy_ip/refs/heads/main/proxy_ip.txt"; // Ensure this URL is correct
       const serverDomains = ["tubesteer.dpdns.org"];
       let selectedServerDomain = serverDomains[0]; // Default to first domain
       const defaultUUID = "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"; // Keep default UUID
@@ -993,7 +1019,7 @@
       const copyAllUrlsBtn = document.getElementById("copy-all-urls");
 
 
-      // Function to render pagination controls (Moved to top for hoisting)
+      // Function to render pagination controls
       function renderPagination(totalPages) {
         console.log("Rendering pagination controls.");
         paginationContainer.innerHTML = "";
@@ -1091,7 +1117,7 @@
         paginationContainer.appendChild(nextBtn);
       }
 
-      // Function to check proxy status for display in list, including latency (Moved to top for hoisting)
+      // Function to check proxy status for display in list, including latency
       function checkProxyStatusInList(proxy, statusDot, latencyDisplayElement) {
         // console.log("Checking status for proxy:", proxy.ip);
         const statusURL = `https://yumiwolker.mayumiyui.workers.dev/check?target=${proxy.ip}:${proxy.port}`;
@@ -1127,7 +1153,7 @@
           });
       }
 
-      // Function to render the paginated proxy list (Moved to top for hoisting)
+      // Function to render the paginated proxy list
       function renderProxyList() {
         console.log("Rendering proxy list.");
         proxyListContainer.innerHTML = "";
