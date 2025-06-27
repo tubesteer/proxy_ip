@@ -1,0 +1,1729 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>X - Proxy</title>
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://github.com/user-attachments/assets/b5feabb7-3f20-4028-9436-e3f3307dd2ae"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --dark-bg: #1c1c1c;
+        --surface-bg: #2b2b2b;
+        --accent-color: #00e676; /* Bright Green */
+        --text-primary: #f0f0f0;
+        --text-secondary: #aaaaaa;
+        --border-color: #555555; /* For dashed borders */
+        --warning-red: #ef4444;
+        --success-green: #10b981;
+        --info-orange: #f59e0b;
+      }
+
+      * {
+        font-family: "Inter", sans-serif;
+      }
+
+      body {
+        background-color: var(--dark-bg);
+        color: var(--text-primary);
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 1rem;
+      }
+
+      .app-container {
+        background-color: var(--surface-bg);
+        border: 2px dashed var(--border-color);
+        border-radius: 16px;
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+        overflow: hidden;
+        width: 100%;
+        max-width: 550px;
+        position: relative;
+      }
+
+      .app-header {
+        background-color: var(--dark-bg);
+        border-bottom: 2px dashed var(--border-color);
+        padding: 2.5rem 0;
+        text-align: center;
+      }
+
+      .header-icon {
+        color: var(--accent-color);
+        text-shadow: 0 0 10px rgba(0, 230, 118, 0.6);
+      }
+
+      .header-title {
+        color: var(--text-primary);
+        font-weight: 700;
+        letter-spacing: 0.5px;
+      }
+
+      .content-wrapper {
+        padding: 1.75rem;
+      }
+
+      .section-heading-main {
+        color: var(--text-primary);
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+      }
+
+      .form-input-styled, .form-select-styled {
+        background-color: rgba(0, 0, 0, 0.2);
+        border: 1px dashed var(--border-color);
+        border-radius: 8px;
+        color: var(--text-primary);
+        padding: 0.8rem 1rem;
+        transition: all 0.2s ease;
+      }
+
+      .form-input-styled:focus, .form-select-styled:focus {
+        border-color: var(--accent-color);
+        box-shadow: 0 0 0 2px rgba(0, 230, 118, 0.3);
+        outline: none;
+      }
+
+      .form-input-styled[readonly] {
+        background-color: rgba(0, 0, 0, 0.1);
+        border-color: rgba(85, 85, 85, 0.5);
+        cursor: not-allowed;
+      }
+
+      .form-select-styled {
+        appearance: none;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23aaaaaa'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+        background-repeat: no-repeat;
+        background-position: right 0.8rem center;
+        background-size: 1rem;
+      }
+
+      .btn-accent {
+        background-color: var(--accent-color);
+        color: var(--dark-bg);
+        font-weight: 600;
+        padding: 0.8rem 1.5rem;
+        border-radius: 8px;
+        transition: all 0.2s ease;
+        box-shadow: 0 3px 10px rgba(0, 230, 118, 0.4);
+      }
+
+      .btn-accent:hover {
+        background-color: var(--accent-color);
+        opacity: 0.9;
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(0, 230, 118, 0.6);
+      }
+
+      .btn-outline-secondary {
+        background: transparent;
+        border: 1px dashed var(--border-color);
+        color: var(--text-secondary);
+        font-weight: 500;
+        padding: 0.8rem 1.5rem;
+        border-radius: 8px;
+        transition: all 0.2s ease;
+      }
+
+      .btn-outline-secondary:hover {
+        background-color: rgba(0, 0, 0, 0.1);
+        color: var(--accent-color);
+        border-color: var(--accent-color);
+      }
+
+      .protocol-tabs-container {
+        border-bottom: 1px solid var(--border-color);
+      }
+
+      .protocol-pill {
+        color: var(--text-secondary);
+        padding: 0.7rem 1rem;
+        font-weight: 500;
+        position: relative;
+        transition: all 0.2s ease;
+      }
+
+      .protocol-pill.active {
+        color: var(--accent-color);
+      }
+
+      .protocol-pill.active::after {
+        content: '';
+        position: absolute;
+        bottom: -1px;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: var(--accent-color);
+        border-radius: 1px;
+      }
+
+      .proxy-item-card {
+        background-color: rgba(0, 0, 0, 0.15);
+        border: 1px dashed var(--border-color);
+        border-radius: 10px;
+        padding: 1rem;
+        transition: all 0.2s ease;
+        position: relative;
+        cursor: pointer;
+      }
+
+      .proxy-item-card:hover {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-color: var(--accent-color);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0, 230, 118, 0.2);
+      }
+
+      .proxy-item-card.selected {
+        border-color: var(--accent-color);
+        background-color: rgba(0, 230, 118, 0.1);
+        box-shadow: 0 0 15px rgba(0, 230, 118, 0.5);
+      }
+
+      .status-dot {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-left: 0.5rem;
+        flex-shrink: 0;
+        border: 1px solid transparent;
+      }
+
+      .status-dot.active {
+        background-color: var(--success-green);
+        border-color: rgba(16, 185, 129, 0.4);
+      }
+
+      .status-dot.dead {
+        background-color: var(--warning-red);
+        border-color: rgba(239, 68, 68, 0.4);
+      }
+
+      .status-dot.unknown {
+        background-color: var(--info-orange);
+        border-color: rgba(245, 158, 11, 0.4);
+      }
+
+      .loading-animation {
+        border: 3px solid rgba(255, 255, 255, 0.2);
+        border-top: 3px solid var(--accent-color);
+        border-radius: 50%;
+        width: 35px;
+        height: 35px;
+        animation: spin 1s linear infinite;
+      }
+
+      .loading-animation-sm {
+        border: 2px solid rgba(255, 255, 255, 0.2);
+        border-top: 2px solid var(--accent-color);
+        border-radius: 50%;
+        width: 20px;
+        height: 20px;
+        animation: spin 1s linear infinite;
+      }
+
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+
+      .status-bubble-container {
+        padding: 0.8rem;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+        border: 1px dashed var(--border-color);
+      }
+
+      .status-bubble-container.loading { background-color: rgba(0, 230, 118, 0.08); }
+      .status-bubble-container.active { background-color: rgba(16, 185, 129, 0.08); }
+      .status-bubble-container.dead { background-color: rgba(239, 68, 68, 0.08); }
+      .status-bubble-container.unknown { background-color: rgba(245, 158, 11, 0.08); }
+
+      .status-icon-circle {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid;
+      }
+      .status-bubble-container.loading .status-icon-circle { border-color: var(--accent-color); }
+      .status-bubble-container.active .status-icon-circle { border-color: var(--success-green); }
+      .status-bubble-container.dead .status-icon-circle { border-color: var(--warning-red); }
+      .status-bubble-container.unknown .status-icon-circle { border-color: var(--info-orange); }
+
+      .status-text-accent { color: var(--accent-color); }
+      .status-text-active { color: var(--success-green); }
+      .status-text-dead { color: var(--warning-red); }
+      .status-text-unknown { color: var(--info-orange); }
+
+      .detail-pane-item {
+        background-color: rgba(0, 0, 0, 0.1);
+        border: 1px dashed rgba(85, 85, 85, 0.7);
+        border-radius: 8px;
+        padding: 0.8rem;
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+      }
+
+      .detail-pane-item i {
+        color: var(--accent-color);
+        opacity: 0.8;
+        width: 24px;
+        text-align: center;
+        font-size: 1rem;
+      }
+
+      .pagination-control-btn {
+        min-width: 38px;
+        height: 38px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 8px;
+        font-size: 0.9rem;
+        transition: all 0.2s ease;
+        background-color: rgba(0, 0, 0, 0.15);
+        border: 1px dashed var(--border-color);
+        color: var(--text-primary);
+      }
+
+      .pagination-control-btn.active {
+        background-color: var(--accent-color);
+        color: var(--dark-bg);
+        border: none;
+        font-weight: 600;
+        box-shadow: 0 2px 8px rgba(0, 230, 118, 0.5);
+      }
+
+      .pagination-control-btn:not(.active):not(.disabled):hover {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-color: var(--accent-color);
+        transform: translateY(-1px);
+      }
+
+      .pagination-control-btn.disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+
+      .code-snippet-box {
+        background-color: rgba(0, 0, 0, 0.25);
+        border: 1px dashed var(--border-color);
+        border-radius: 10px;
+        padding: 1.2rem;
+        overflow-x: auto;
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 0.9rem;
+        line-height: 1.5;
+        white-space: pre-wrap;
+        word-break: break-all;
+      }
+
+      .nav-back-btn {
+        color: var(--text-secondary);
+        transition: color 0.2s ease, transform 0.2s ease;
+      }
+
+      .nav-back-btn:hover {
+        color: var(--accent-color);
+        transform: translateX(-3px);
+      }
+
+      .modal-backdrop-overlay {
+        background-color: rgba(0, 0, 0, 0.85);
+        backdrop-filter: blur(6px);
+      }
+
+      .modal-content-styled {
+        background-color: var(--surface-bg);
+        border: 2px dashed var(--border-color);
+        border-radius: 16px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+      }
+
+      .multi-select-controls {
+        background-color: rgba(0, 0, 0, 0.2);
+        border: 1px dashed var(--border-color);
+        border-radius: 10px;
+        padding: 1rem;
+      }
+
+      @media (max-width: 640px) {
+        .proxy-item-card {
+          flex-direction: column !important;
+          align-items: flex-start !important;
+        }
+        .proxy-item-card .flex-1 {
+          width: 100%;
+          margin-bottom: 0.75rem !important;
+        }
+        .proxy-item-card .font-medium {
+          max-width: 100%;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        .proxy-item-card .text-sm {
+          white-space: normal;
+          word-break: break-all;
+        }
+        .btn-accent, .btn-outline-secondary {
+          width: 100%;
+          text-align: center;
+        }
+        .protocol-pill {
+          padding: 0.6rem 0.8rem;
+          font-size: 0.85rem;
+        }
+        .content-wrapper {
+          padding: 1.25rem;
+        }
+        .app-header {
+          padding: 2rem 0;
+        }
+        .header-title {
+          font-size: 2.5rem;
+        }
+        .multi-select-controls {
+          flex-direction: column;
+          gap: 0.75rem;
+        }
+        .proxy-item-card-content {
+          padding-top: 0;
+        }
+      }
+    </style>
+  </head>
+  <body class="font-sans">
+    <div class="app-container">
+      <div class="app-header">
+        <div class="flex items-center justify-center">
+          <div class="mr-4">
+            <i class="fas fa-satellite-dish text-5xl header-icon"></i>
+          </div>
+          <h1 class="text-4xl header-title">X-Proxy</h1>
+        </div>
+      </div>
+
+      <div class="content-wrapper">
+        <div id="proxy-list-section">
+          <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6">
+            <div class="flex items-center mb-4 sm:mb-0">
+              <i class="fas fa-server mr-3 text-2xl text-accent-color"></i>
+              <h2 class="text-2xl section-heading-main">Daftar Proxy</h2>
+            </div>
+            <div class="flex flex-col sm:flex-row w-full sm:w-auto space-y-3 sm:space-y-0 sm:space-x-3">
+              <button
+                id="refresh-btn"
+                class="btn-accent py-2.5 px-5 rounded-lg flex items-center justify-center text-sm"
+              >
+                <i class="fas fa-sync-alt mr-2"></i>Segarkan
+              </button>
+              <button
+                id="custom-url-btn"
+                class="btn-outline-secondary py-2.5 px-5 rounded-lg flex items-center justify-center text-sm"
+              >
+                <i class="fas fa-link mr-2"></i>URL Kustom
+              </button>
+            </div>
+          </div>
+
+          <div id="custom-url-input" class="mb-5 hidden">
+            <div class="flex">
+              <input
+                type="text"
+                id="proxy-url"
+                class="flex-1 form-input-styled rounded-l-lg text-sm"
+                placeholder="Masukkan URL daftar proxy kustom"
+                value="https://raw.githubusercontent.com/tubesteer/Changli/refs/heads/main/Data/alive.txt"
+              />
+              <button
+                id="load-custom-url"
+                class="btn-accent px-5 py-2.5 rounded-r-lg"
+              >
+                Muat
+              </button>
+            </div>
+          </div>
+
+          <div id="loading-indicator" class="text-center py-10 hidden">
+            <div class="loading-animation mx-auto mb-4"></div>
+            <p class="text-accent-color text-base">Memuat daftar proxy...</p>
+          </div>
+
+          <div class="mb-5">
+            <div class="relative">
+              <input
+                type="text"
+                id="search-input"
+                class="w-full pl-10 pr-4 py-2.5 form-input-styled rounded-lg text-base"
+                placeholder="Cari berdasarkan penyedia atau negara..."
+              />
+              <div
+                class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none"
+              >
+                <i class="fas fa-search text-text-secondary"></i>
+              </div>
+            </div>
+          </div>
+
+          <div id="proxy-list-container" class="space-y-3"></div>
+
+          <div
+            id="pagination-container"
+            class="flex justify-center items-center mt-6 space-x-2"
+          ></div>
+
+          <div
+            id="proxy-count-info"
+            class="text-center mt-3 text-sm text-text-secondary"
+          ></div>
+
+          <div id="no-proxies-message" class="text-center py-10 hidden">
+            <i
+              class="fas fa-exclamation-triangle text-warning-red text-4xl mb-3"
+            ></i>
+            <p class="text-text-secondary text-base">
+              Tidak ada proxy yang ditemukan. Silakan segarkan atau coba URL lain.
+            </p>
+          </div>
+
+          <div id="global-action-area" class="mt-6 hidden">
+            <div class="multi-select-controls flex items-center justify-between">
+              <span id="selected-count" class="text-sm text-accent-color">0 terpilih</span>
+              <button
+                id="show-account-creation-btn"
+                class="btn-accent py-2 px-4 rounded-lg flex items-center justify-center text-sm disabled:opacity-50 disabled:cursor-not-allowed"
+                disabled
+              >
+                <i class="fas fa-cogs mr-2"></i>Konfigurasi Akun
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div id="account-creation-section" class="mt-6 hidden">
+          <div class="pb-4">
+            <div class="flex justify-between items-center mb-6">
+              <div class="flex items-center">
+                <i class="fas fa-user-plus mr-3 text-2xl text-accent-color"></i>
+                <h2 class="text-2xl section-heading-main">Buat Akun</h2>
+              </div>
+              <button
+                id="back-to-list"
+                class="flex items-center text-text-secondary hover:text-accent-color transition-colors text-sm nav-back-btn"
+              >
+                <i class="fas fa-arrow-left mr-2"></i> Kembali ke Daftar
+              </button>
+            </div>
+
+            <div class="bg-dark-bg p-5 rounded-xl mb-6 border-dashed border-2 border-border-color shadow-lg">
+              <h3 class="text-xl font-semibold text-accent-color mb-4 flex items-center">
+                <i class="fas fa-info-circle mr-2"></i>
+                Pengaturan Konfigurasi Umum
+              </h3>
+              <p class="text-sm text-text-secondary mb-4">Pengaturan di bawah akan diterapkan ke <span id="summary-selected-count" class="font-bold text-accent-color">0</span> proxy yang terpilih.</p>
+
+              <!-- Simplified status display, no longer per-proxy in this view -->
+            </div>
+
+            <div
+              class="flex justify-center protocol-tabs-container mb-6 gap-2 sm:gap-4"
+            >
+              <button
+                class="protocol-pill active py-3 px-4 text-sm focus:outline-none"
+                data-target="vmess-form"
+              >
+                <i class="fas fa-shield-alt mr-2"></i>VMess
+              </button>
+              <button
+                class="protocol-pill py-3 px-4 text-sm focus:outline-none"
+                data-target="vless-form"
+              >
+                <i class="fas fa-bolt mr-2"></i>VLESS
+              </button>
+              <button
+                class="protocol-pill py-3 px-4 text-sm focus:outline-none"
+                data-target="trojan-form"
+              >
+                <i class="fas fa-user-secret mr-2"></i>Trojan
+              </button>
+              <button
+                class="protocol-pill py-3 px-4 text-sm focus:outline-none"
+                data-target="ss-form"
+              >
+                <i class="fas fa-mask mr-2"></i>SS
+              </button>
+            </div>
+
+            <div id="vmess-form" class="protocol-form">
+              <form id="vmess-account-form" class="space-y-5">
+                <div>
+                  <label
+                    for="vmess-security"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >TLS</label
+                  >
+                  <select
+                    id="vmess-security"
+                    name="security"
+                    class="w-full form-select-styled rounded-lg text-sm"
+                  >
+                    <option value="tls">TLS</option>
+                    <option value="none">NonTLS</option>
+                  </select>
+                </div>
+
+                <div>
+                  <label
+                    for="vmess-server-domain"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >Domain Server</label
+                  >
+                  <select
+                    id="vmess-server-domain"
+                    name="server-domain"
+                    class="w-full form-select-styled rounded-lg text-sm"
+                  ></select>
+                </div>
+
+                <div>
+                  <label
+                    for="vmess-bug"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >Bug Kustom
+                    <span class="text-xs text-text-secondary"
+                      >(opsional)</span
+                    ></label
+                  >
+                  <input
+                    type="text"
+                    id="vmess-bug"
+                    name="bug"
+                    class="w-full form-input-styled rounded-lg text-sm"
+                    placeholder="misal: bug.com"
+                  />
+                  <div
+                    id="vmess-wildcard-container"
+                    class="wildcard-toggle-area"
+                  >
+                    <div class="checkbox-container">
+                      <input
+                        type="checkbox"
+                        id="vmess-wildcard"
+                        name="wildcard"
+                      />
+                      <label for="vmess-wildcard"
+                        class="text-sm text-text-secondary">Gunakan Wildcard (bug.domain.com)</label
+                      >
+                    </div>
+                  </div>
+                </div>
+
+                <div class="pt-2">
+                  <button
+                    type="submit"
+                    class="w-full btn-accent py-3 px-4 rounded-lg flex items-center justify-center text-base"
+                  >
+                    <i class="fas fa-plus-circle mr-2"></i> Buat Akun VMess
+                  </button>
+                </div>
+              </form>
+            </div>
+
+            <div id="vless-form" class="protocol-form hidden">
+              <form id="vless-account-form" class="space-y-5">
+                <div>
+                  <label
+                    for="vless-security"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >TLS</label
+                  >
+                  <select
+                    id="vless-security"
+                    name="security"
+                    class="w-full form-select-styled rounded-lg text-sm"
+                  >
+                    <option value="tls">TLS</option>
+                    <option value="none">None</option>
+                  </select>
+                </div>
+
+                <div>
+                  <label
+                    for="vless-server-domain"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >Domain Server</label
+                  >
+                  <select
+                    id="vless-server-domain"
+                    name="server-domain"
+                    class="w-full form-select-styled rounded-lg text-sm"
+                  ></select>
+                </div>
+
+                <div>
+                  <label
+                    for="vless-bug"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >Bug Kustom
+                    <span class="text-xs text-text-secondary"
+                      >(opsional)</span
+                    ></label
+                  >
+                  <input
+                    type="text"
+                    id="vless-bug"
+                    name="bug"
+                    class="w-full form-input-styled rounded-lg text-sm"
+                    placeholder="misal: bug.com"
+                  />
+                  <div
+                    id="vless-wildcard-container"
+                    class="wildcard-toggle-area"
+                  >
+                    <div class="checkbox-container">
+                      <input
+                        type="checkbox"
+                        id="vless-wildcard"
+                        name="wildcard"
+                      />
+                      <label for="vless-wildcard"
+                        class="text-sm text-text-secondary">Gunakan Wildcard (bug.domain.com)</label
+                      >
+                    </div>
+                  </div>
+                </div>
+
+                <div class="pt-2">
+                  <button
+                    type="submit"
+                    class="w-full btn-accent py-3 px-4 rounded-lg flex items-center justify-center text-base"
+                  >
+                    <i class="fas fa-plus-circle mr-2"></i> Buat Akun VLESS
+                  </button>
+                </div>
+              </form>
+            </div>
+
+            <div id="trojan-form" class="protocol-form hidden">
+              <form id="trojan-account-form" class="space-y-5">
+                <div>
+                  <label
+                    for="trojan-security"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >TLS</label
+                  >
+                  <select
+                    id="trojan-security"
+                    name="security"
+                    class="w-full form-select-styled rounded-lg text-sm"
+                  >
+                    <option value="tls">TLS</option>
+                    <option value="none">NonTLS</option>
+                  </select>
+                </div>
+
+                <div>
+                  <label
+                    for="trojan-server-domain"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >Domain Server</label
+                  >
+                  <select
+                    id="trojan-server-domain"
+                    name="server-domain"
+                    class="w-full form-select-styled rounded-lg text-sm"
+                  ></select>
+                </div>
+
+                <div>
+                  <label
+                    for="trojan-bug"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >Bug Kustom
+                    <span class="text-xs text-text-secondary"
+                      >(opsional)</span
+                    ></label
+                  >
+                  <input
+                    type="text"
+                    id="trojan-bug"
+                    name="bug"
+                    class="w-full form-input-styled rounded-lg text-sm"
+                    placeholder="misal: bug.com"
+                  />
+                  <div
+                    id="trojan-wildcard-container"
+                    class="wildcard-toggle-area"
+                  >
+                    <div class="checkbox-container">
+                      <input
+                        type="checkbox"
+                        id="trojan-wildcard"
+                        name="wildcard"
+                      />
+                      <label for="trojan-wildcard"
+                        class="text-sm text-text-secondary">Gunakan Wildcard (bug.domain.com)</label
+                      >
+                    </div>
+                  </div>
+                </div>
+
+                <div class="pt-2">
+                  <button
+                    type="submit"
+                    class="w-full btn-accent py-3 px-4 rounded-lg flex items-center justify-center text-base"
+                  >
+                    <i class="fas fa-plus-circle mr-2"></i> Buat Akun Trojan
+                  </button>
+                </div>
+              </form>
+            </div>
+
+            <div id="ss-form" class="protocol-form hidden">
+              <form id="ss-account-form" class="space-y-5">
+                <div>
+                  <label
+                    for="ss-security"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >TLS</label
+                  >
+                  <select
+                    id="ss-security"
+                    name="security"
+                    class="w-full form-select-styled rounded-lg text-sm"
+                  >
+                    <option value="tls">TLS</option>
+                    <option value="none">None</option>
+                  </select>
+                </div>
+
+                <div>
+                  <label
+                    for="ss-server-domain"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >Domain Server</label
+                  >
+                  <select
+                    id="ss-server-domain"
+                    name="server-domain"
+                    class="w-full form-select-styled rounded-lg text-sm"
+                  ></select>
+                </div>
+
+                <div>
+                  <label
+                    for="ss-bug"
+                    class="block text-sm font-medium text-text-secondary mb-2"
+                    >Bug Kustom
+                    <span class="text-xs text-text-secondary"
+                      >(opsional)</span
+                    ></label
+                  >
+                  <input
+                      type="text"
+                      id="ss-bug"
+                      name="bug"
+                      class="w-full form-input-styled rounded-lg text-sm"
+                      placeholder="misal: bug.com"
+                  />
+                  <div id="ss-wildcard-container" class="wildcard-toggle-area">
+                    <div class="checkbox-container">
+                      <input
+                        type="checkbox"
+                        id="ss-wildcard"
+                        name="wildcard"
+                      />
+                      <label for="ss-wildcard"
+                        class="text-sm text-text-secondary">Gunakan Wildcard (bug.domain.com)</label
+                      >
+                    </div>
+                  </div>
+                </div>
+
+                <div class="pt-2">
+                  <button
+                    type="submit"
+                    class="w-full btn-accent py-3 px-4 rounded-lg flex items-center justify-center text-base"
+                  >
+                    <i class="fas fa-plus-circle mr-2"></i> Buat Akun Shadowsocks
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <div id="result-section" class="mt-6 hidden">
+          <div class="pb-4">
+            <div class="flex justify-between items-center mb-6">
+              <div class="flex items-center">
+                <i class="fas fa-check-circle mr-3 text-2xl text-success-green"></i>
+                <h2 class="text-2xl section-heading-main">Akun Dibuat</h2>
+              </div>
+              <button
+                id="back-to-form"
+                class="flex items-center text-text-secondary hover:text-accent-color transition-colors text-sm nav-back-btn"
+              >
+                <i class="fas fa-arrow-left mr-2"></i> Kembali
+              </button>
+            </div>
+
+            <div class="bg-dark-bg p-5 rounded-xl mb-6 border-dashed border-2 border-border-color shadow-lg">
+                <div class="flex justify-between items-center mb-4">
+                    <h3 class="text-xl font-semibold text-accent-color">
+                        URL Koneksi
+                    </h3>
+                    <button
+                        id="copy-all-urls"
+                        class="flex items-center text-text-secondary hover:text-accent-color text-xs transition-colors"
+                    >
+                        <i class="far fa-copy mr-1"></i> Salin Semua
+                    </button>
+                </div>
+                <div
+                    id="all-connection-urls"
+                    class="code-snippet-box"
+                ></div>
+            </div>
+
+            <div
+              class="mt-6 flex flex-col sm:flex-row space-y-3 sm:space-y-0 sm:space-x-3"
+            >
+              <button
+                id="create-new"
+                class="flex-1 btn-accent py-3 px-4 rounded-lg flex items-center justify-center text-base"
+              >
+                <i class="fas fa-plus-circle mr-2"></i> Buat Akun Lainnya
+              </button>
+              <button
+                id="back-to-list-from-result"
+                class="flex-1 btn-outline-secondary py-3 px-4 rounded-lg flex items-center justify-center text-base"
+              >
+                <i class="fas fa-list mr-2"></i> Kembali ke Daftar
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // Global variables
+      let proxyList = [];
+      let filteredProxyList = [];
+      let selectedProxies = []; // Stores full proxy objects for multi-selection
+      const defaultProxyUrl = "https://raw.githubusercontent.com/tubesteer/Changli/refs/heads/main/proxy_ip.txt"; // Ensure this URL is correct
+      const serverDomains = ["tubesteer.dpdns.org"];
+      let selectedServerDomain = serverDomains[0]; // Default to first domain
+      const defaultUUID = "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"; // Keep default UUID
+      const itemsPerPage = 15;
+      let currentPage = 1;
+
+      // Function to get active domain from window location or fallback
+      function getActiveDomain() {
+        try {
+          const currentHost = window.location.hostname;
+          const domainRegex = /^[a-zA-Z0-9.-]+$/;
+          if (currentHost && domainRegex.test(currentHost)) {
+            return currentHost;
+          } else {
+            throw new Error("Invalid or empty domain");
+          }
+        } catch (err) {
+          console.warn(
+            "Gagal ambil domain dari window.location, pakai default:",
+            serverDomains[0]
+          );
+          return serverDomains[0];
+        }
+      }
+
+      // DOM elements
+      const proxyListSection = document.getElementById("proxy-list-section");
+      const accountCreationSection = document.getElementById(
+        "account-creation-section"
+      );
+      const resultSection = document.getElementById("result-section");
+      const loadingIndicator = document.getElementById("loading-indicator");
+      const proxyListContainer = document.getElementById(
+        "proxy-list-container"
+      );
+      const noProxiesMessage = document.getElementById("no-proxies-message");
+      const customUrlInput = document.getElementById("custom-url-input");
+      const proxyUrlInput = document.getElementById("proxy-url");
+      const paginationContainer = document.getElementById(
+        "pagination-container"
+      );
+      const proxyCountInfo = document.getElementById("proxy-count-info");
+      const searchInput = document.getElementById("search-input");
+
+      const globalActionArea = document.getElementById("global-action-area");
+      const selectedCountSpan = document.getElementById("selected-count");
+      const showAccountCreationBtn = document.getElementById("show-account-creation-btn");
+      const summarySelectedCountSpan = document.getElementById("summary-selected-count");
+      const allConnectionUrlsDisplay = document.getElementById("all-connection-urls");
+      const copyAllUrlsBtn = document.getElementById("copy-all-urls");
+
+
+      // Function to render pagination controls (Moved to top for hoisting)
+      function renderPagination(totalPages) {
+        console.log("Rendering pagination controls.");
+        paginationContainer.innerHTML = "";
+
+        if (totalPages <= 1) {
+          return;
+        }
+
+        const prevBtn = document.createElement("button");
+        prevBtn.className = `pagination-control-btn ${
+          currentPage === 1 ? "disabled" : ""
+        }`;
+        prevBtn.innerHTML = '<i class="fas fa-chevron-left"></i>';
+        prevBtn.disabled = currentPage === 1;
+        prevBtn.addEventListener("click", () => {
+          if (currentPage > 1) {
+            currentPage--;
+            renderProxyList();
+          }
+        });
+        paginationContainer.appendChild(prevBtn);
+
+        const maxVisiblePages = window.innerWidth < 640 ? 3 : 5;
+        let startPage = Math.max(
+          1,
+          currentPage - Math.floor(maxVisiblePages / 2)
+        );
+        let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
+
+        if (endPage - startPage + 1 < maxVisiblePages) {
+          startPage = Math.max(1, endPage - maxVisiblePages + 1);
+        }
+
+        if (startPage > 1) {
+          const firstPageBtn = document.createElement("button");
+          firstPageBtn.className = "pagination-control-btn";
+          firstPageBtn.textContent = "1";
+          firstPageBtn.addEventListener("click", () => {
+            currentPage = 1;
+            renderProxyList();
+          });
+          paginationContainer.appendChild(firstPageBtn);
+
+          if (startPage > 2) {
+            const ellipsis = document.createElement("span");
+            ellipsis.className = "px-1 text-text-secondary";
+            ellipsis.textContent = "...";
+            paginationContainer.appendChild(ellipsis);
+          }
+        }
+
+        for (let i = startPage; i <= endPage; i++) {
+          const pageBtn = document.createElement("button");
+          pageBtn.className = `pagination-control-btn ${
+            i === currentPage ? "active" : ""
+          }`;
+          pageBtn.textContent = i.toString();
+          pageBtn.addEventListener("click", () => {
+            currentPage = i;
+            renderProxyList();
+          });
+          paginationContainer.appendChild(pageBtn);
+        }
+
+        if (endPage < totalPages) {
+          if (endPage < totalPages - 1) {
+            const ellipsis = document.createElement("span");
+            ellipsis.className = "px-1 text-text-secondary";
+            ellipsis.textContent = "...";
+            paginationContainer.appendChild(ellipsis);
+          }
+
+          const lastPageBtn = document.createElement("button");
+          lastPageBtn.className = "pagination-control-btn";
+          lastPageBtn.textContent = totalPages.toString();
+          lastPageBtn.addEventListener("click", () => {
+            currentPage = totalPages;
+            renderProxyList();
+          });
+          paginationContainer.appendChild(lastPageBtn);
+        }
+
+        const nextBtn = document.createElement("button");
+        nextBtn.className = `pagination-control-btn ${
+          currentPage === totalPages ? "disabled" : ""
+        }`;
+        nextBtn.innerHTML = '<i class="fas fa-chevron-right"></i>';
+        nextBtn.disabled = currentPage === totalPages;
+        nextBtn.addEventListener("click", () => {
+          if (currentPage < totalPages) {
+            currentPage++;
+            renderProxyList();
+          }
+        });
+        paginationContainer.appendChild(nextBtn);
+      }
+
+      // Function to check proxy status for display in list, including latency (Moved to top for hoisting)
+      function checkProxyStatusInList(proxy, statusDot, latencyDisplayElement) {
+        // console.log("Checking status for proxy:", proxy.ip);
+        const statusURL = `https://yumiwolker.mayumiyui.workers.dev/check?target=${proxy.ip}:${proxy.port}`;
+        latencyDisplayElement.querySelector('span').textContent = 'Memeriksa...'; // Initial loading state
+
+        const startTime = performance.now();
+
+        fetch(statusURL)
+          .then((response) => response.json())
+          .then((data) => {
+            const endTime = performance.now();
+            let latency = Math.floor(endTime - startTime);
+
+            if (data.proxyip === true) {
+              statusDot.className = "status-dot active";
+              statusDot.title = "Aktif";
+              latencyDisplayElement.querySelector('span').textContent = `${latency}ms`;
+              latencyDisplayElement.querySelector('span').className = "text-success-green";
+            } else {
+              statusDot.className = "status-dot dead";
+              statusDot.title = "Mati";
+              latencyDisplayElement.querySelector('span').textContent = "Mati";
+              latencyDisplayElement.querySelector('span').className = "text-warning-red";
+            }
+            // console.log(`Status for ${proxy.ip}: ${data.proxyip}, Latency: ${latency}ms`);
+          })
+          .catch((error) => {
+            statusDot.className = "status-dot unknown";
+            statusDot.title = "Tidak Diketahui";
+            latencyDisplayElement.querySelector('span').textContent = "N/A";
+            latencyDisplayElement.querySelector('span').className = "text-text-secondary";
+            console.error("Fetch error for proxy status:", proxy.ip, error);
+          });
+      }
+
+      // Function to render the paginated proxy list (Moved to top for hoisting)
+      function renderProxyList() {
+        console.log("Rendering proxy list.");
+        proxyListContainer.innerHTML = "";
+        selectedProxies = []; // Clear selections on re-render
+        updateGlobalActionArea(); // Update UI for global controls
+
+        if (filteredProxyList.length === 0) {
+          noProxiesMessage.classList.remove("hidden");
+          paginationContainer.innerHTML = "";
+          proxyCountInfo.textContent = "";
+          globalActionArea.classList.add("hidden");
+          console.log("No filtered proxies, showing no proxies message and hiding global actions.");
+          return;
+        }
+
+        noProxiesMessage.classList.add("hidden");
+        globalActionArea.classList.remove("hidden"); // Show global controls
+        console.log("Global action area visible.");
+
+
+        const totalPages = Math.ceil(filteredProxyList.length / itemsPerPage);
+        const startIndex = (currentPage - 1) * itemsPerPage;
+        const endIndex = Math.min(
+          startIndex + itemsPerPage,
+          filteredProxyList.length
+        );
+
+        const currentItems = filteredProxyList.slice(startIndex, endIndex);
+
+        currentItems.forEach((proxy, index) => {
+          const actualIndex = startIndex + index;
+          const card = document.createElement("div");
+          card.className = "proxy-item-card flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3";
+          card.setAttribute("data-index", actualIndex); // Add data-index for selection
+
+          const isSelected = selectedProxies.some(p => p.ip === proxy.ip && p.port === proxy.port);
+          if (isSelected) {
+              card.classList.add('selected');
+          }
+
+          card.innerHTML = `
+            <div class="flex-1 min-w-0 w-full proxy-item-card-content">
+              <div class="flex items-center">
+                <div class="font-medium text-lg truncate">${proxy.provider}</div>
+                <span id="proxy-status-${actualIndex}" class="status-dot"></span>
+              </div>
+              <div class="text-sm text-text-secondary mt-1 truncate">
+                ${proxy.country} | ${proxy.ip}:${proxy.port}
+              </div>
+              <div id="proxy-latency-display-${actualIndex}" class="text-xs text-text-secondary mt-1">
+                Latensi: <span class="text-info-orange">Memeriksa...</span>
+              </div>
+            </div>
+          `;
+          proxyListContainer.appendChild(card);
+
+          // Add click listener to the card for selection
+          card.addEventListener('click', function() {
+              console.log("Proxy card clicked. Index:", actualIndex);
+              toggleProxySelection(this, actualIndex);
+              updateGlobalActionArea();
+          });
+
+          const statusDot = document.getElementById(`proxy-status-${actualIndex}`);
+          const latencyDisplay = document.getElementById(`proxy-latency-display-${actualIndex}`);
+          checkProxyStatusInList(proxy, statusDot, latencyDisplay);
+        });
+
+        renderPagination(totalPages);
+
+        proxyCountInfo.textContent = `Menampilkan ${
+          startIndex + 1
+        }-${endIndex} dari ${filteredProxyList.length} proxy`;
+      }
+
+
+      // Initialize on DOMContentLoaded
+      document.addEventListener("DOMContentLoaded", function () {
+        console.log("DOM Content Loaded. Initializing app.");
+        // Display fallback proxy list immediately to ensure something is visible
+        displayFallbackProxyList();
+
+        // Then try to load the actual proxy list
+        loadProxyList(defaultProxyUrl);
+
+        // Event listeners for buttons
+        document
+          .getElementById("refresh-btn")
+          .addEventListener("click", function () {
+            console.log("Refresh button clicked.");
+            loadProxyList(defaultProxyUrl);
+          });
+
+        document
+          .getElementById("custom-url-btn")
+          .addEventListener("click", function () {
+            console.log("Custom URL button clicked.");
+            customUrlInput.classList.toggle("hidden");
+          });
+
+        document
+          .getElementById("load-custom-url")
+          .addEventListener("click", function () {
+            console.log("Load Custom URL button clicked.");
+            const url = proxyUrlInput.value.trim();
+            if (url) {
+              loadProxyList(url);
+            }
+          });
+
+        document
+          .getElementById("back-to-list")
+          .addEventListener("click", function () {
+            console.log("Back to List (from account creation) button clicked.");
+            showProxyListSection();
+            resetMultiSelection(); // Clear selected proxies when going back to list
+          });
+
+        document
+          .getElementById("back-to-form")
+          .addEventListener("click", function () {
+            console.log("Back to Form (from result) button clicked.");
+            resultSection.classList.add("hidden");
+            accountCreationSection.classList.remove("hidden");
+          });
+
+        document
+          .getElementById("create-new")
+          .addEventListener("click", function () {
+            console.log("Create New Account (from result) button clicked.");
+            resultSection.classList.add("hidden");
+            accountCreationSection.classList.remove("hidden");
+            // Clear previous generated URLs
+            allConnectionUrlsDisplay.textContent = '';
+          });
+
+        document
+          .getElementById("back-to-list-from-result")
+          .addEventListener("click", function () {
+            console.log("Back to List (from result) button clicked.");
+            showProxyListSection();
+            resetMultiSelection();
+            allConnectionUrlsDisplay.textContent = '';
+          });
+
+        // Search functionality
+        searchInput.addEventListener("input", function () {
+          console.log("Search input changed.");
+          const searchTerm = this.value.toLowerCase().trim();
+
+          if (searchTerm === "") {
+            filteredProxyList = [...proxyList];
+          } else {
+            filteredProxyList = proxyList.filter(
+              (proxy) =>
+                proxy.provider.toLowerCase().includes(searchTerm) ||
+                proxy.country.toLowerCase().includes(searchTerm)
+            );
+          }
+
+          currentPage = 1;
+          renderProxyList();
+        });
+
+        // Protocol tabs functionality
+        const protocolTabs = document.querySelectorAll(".protocol-pill");
+        const protocolForms = document.querySelectorAll(".protocol-form");
+
+        protocolTabs.forEach((tab) => {
+          tab.addEventListener("click", () => {
+            console.log(`Protocol tab clicked: ${tab.dataset.target}`);
+            protocolTabs.forEach((t) => {
+              t.classList.remove("active");
+            });
+
+            tab.classList.add("active");
+
+            protocolForms.forEach((form) => {
+              form.classList.add("hidden");
+            });
+
+            const targetId = tab.getAttribute("data-target");
+            document.getElementById(targetId).classList.remove("hidden");
+          });
+        });
+
+        // Populate server domain dropdowns
+        const serverDomainSelects = [
+          document.getElementById("vmess-server-domain"),
+          document.getElementById("vless-server-domain"),
+          document.getElementById("trojan-server-domain"),
+          document.getElementById("ss-server-domain"),
+        ];
+
+        serverDomainSelects.forEach((select) => {
+          if (select) {
+            select.innerHTML = "";
+            serverDomains.forEach((domain) => {
+              const option = document.createElement("option");
+              option.value = domain;
+              option.textContent = domain;
+              select.appendChild(option);
+            });
+            select.addEventListener("change", function () {
+              selectedServerDomain = this.value;
+              console.log("Server domain changed to:", selectedServerDomain);
+            });
+          }
+        });
+
+        // Global "Konfigurasi Akun" button
+        showAccountCreationBtn.addEventListener('click', function() {
+            console.log("Konfigurasi Akun button clicked. Selected proxies count:", selectedProxies.length);
+            if (selectedProxies.length > 0) {
+                showAccountCreationSection();
+                summarySelectedCountSpan.textContent = selectedProxies.length;
+            } else {
+                displayMessage("Pilih setidaknya satu proxy untuk dikonfigurasi.");
+            }
+        });
+
+
+        // Form submissions for each protocol
+        const forms = [
+          document.getElementById("vmess-account-form"),
+          document.getElementById("vless-account-form"),
+          document.getElementById("trojan-account-form"),
+          document.getElementById("ss-account-form"),
+        ];
+
+        // Custom Bug and Wildcard functionality
+        const bugInputs = [
+          document.getElementById("vmess-bug"),
+          document.getElementById("vless-bug"),
+          document.getElementById("trojan-bug"),
+          document.getElementById("ss-bug"),
+        ];
+
+        const wildcardContainers = [
+          document.getElementById("vmess-wildcard-container"),
+          document.getElementById("vless-wildcard-container"),
+          document.getElementById("trojan-wildcard-container"),
+          document.getElementById("ss-wildcard-container"),
+        ];
+
+        const wildcardCheckboxes = [
+          document.getElementById("vmess-wildcard"),
+          document.getElementById("vless-wildcard"),
+          document.getElementById("trojan-wildcard"),
+          document.getElementById("ss-wildcard"),
+        ];
+
+        // Add event listeners to bug inputs for wildcard display
+        bugInputs.forEach((input, index) => {
+          input.addEventListener("input", function () {
+            console.log("Bug input changed. Value:", this.value);
+            if (this.value.trim() !== "") {
+              wildcardContainers[index].classList.add("show");
+            } else {
+              wildcardContainers[index].classList.remove("show");
+              wildcardCheckboxes[index].checked = false;
+            }
+          });
+        });
+
+        forms.forEach((form) => {
+          form.addEventListener("submit", function (e) {
+            console.log(`Form submitted for: ${form.id}`);
+            e.preventDefault();
+
+            if (selectedProxies.length === 0) {
+                console.warn("No proxies selected, preventing form submission.");
+                displayMessage("Tidak ada proxy yang terpilih. Silakan kembali ke daftar dan pilih proxy.");
+                return;
+            }
+
+            const formData = new FormData(form);
+            const formType = form.id.split("-")[0];
+            console.log("Form type:", formType);
+
+            // Get common form parameters
+            const customBug = formData.get("bug") ? formData.get("bug").toString().trim() : "";
+            const useWildcard = formData.get("wildcard") === "on";
+            const security = formData.get("security");
+            const commonPort = security === "tls" ? 443 : 80;
+            const generatedUUID = defaultUUID; // Always use default UUID
+            const generatedPassword = defaultUUID; // Always use default password
+
+            const generatedUrls = [];
+
+            // Iterate over each selected proxy to generate its specific URL
+            selectedProxies.forEach(proxy => {
+                const proxyIp = proxy.ip;
+                const proxyPort = proxy.port;
+                const proxyCountry = proxy.country;
+                const proxyProvider = proxy.provider;
+
+                const name = `${proxyCountry} - ${proxyProvider} (${proxyIp}:${proxyPort})`;
+                const path = `/${proxyIp}-${proxyPort}`;
+                const selectedDomain = formData.get("server-domain") || serverDomains[0]; // Use form domain or default
+
+                let server = selectedDomain;
+                let host = selectedDomain;
+                let sni = selectedDomain;
+
+                if (customBug) {
+                    server = customBug;
+                    if (useWildcard) {
+                        host = `${customBug}.${selectedDomain}`;
+                        sni = `${customBug}.${selectedDomain}`;
+                    }
+                }
+
+                let connectionUrl = "";
+
+                if (formType === "vmess") {
+                    const vmessConfig = {
+                        v: "2",
+                        ps: name,
+                        add: server,
+                        port: commonPort,
+                        id: generatedUUID,
+                        aid: "0",
+                        net: "ws",
+                        type: "none",
+                        host: host,
+                        path: path,
+                        tls: security === "tls" ? "tls" : "",
+                        sni: sni,
+                        scy: "zero",
+                    };
+                    connectionUrl = "vmess://" + btoa(JSON.stringify(vmessConfig));
+                } else if (formType === "vless") {
+                    connectionUrl = `vless://${generatedUUID}@${server}:${commonPort}?encryption=none&security=${security}&type=ws&host=${host}&path=${encodeURIComponent(path)}&sni=${sni}#${encodeURIComponent(name)}`;
+                } else if (formType === "trojan") {
+                    connectionUrl = `trojan://${generatedPassword}@${server}:${commonPort}?security=${security}&type=ws&host=${host}&path=${encodeURIComponent(path)}&sni=${sni}#${encodeURIComponent(name)}`;
+                } else if (formType === "ss") {
+                    const method = "none";
+                    const userInfo = btoa(`${method}:${generatedPassword}`);
+                    connectionUrl = `ss://${userInfo}@${server}:${commonPort}?v2ray-plugin%3Btls%3Bmux=0%3Bmode=websocket%3Bpath=${encodeURIComponent(path)}%3Bsni=${sni}#${encodeURIComponent(name)}`;
+                }
+                generatedUrls.push(connectionUrl);
+                console.log("Generated URL for proxy:", proxy.ip, connectionUrl);
+            });
+
+            // Display all generated URLs in a single block
+            allConnectionUrlsDisplay.textContent = generatedUrls.join('\n');
+            console.log("All generated URLs displayed.");
+
+            // Show result section
+            accountCreationSection.classList.add("hidden");
+            resultSection.classList.remove("hidden");
+            console.log("Switched to result section.");
+          });
+        });
+
+
+        // Copy ALL URLs button functionality
+        copyAllUrlsBtn.addEventListener('click', function() {
+            console.log("Copy All URLs button clicked.");
+            const allUrlsText = allConnectionUrlsDisplay.textContent;
+            const tempInput = document.createElement("textarea");
+            tempInput.value = allUrlsText;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempInput);
+
+            this.innerHTML = '<i class="fas fa-check mr-1"></i> Disalin Semua!';
+            setTimeout(() => {
+                this.innerHTML = '<i class="far fa-copy mr-1"></i> Salin Semua';
+            }, 2000);
+            console.log("All URLs copied to clipboard.");
+        });
+      });
+
+      // Function to display a custom message (replaces alert)
+      function displayMessage(message) {
+        console.log("Displaying custom message:", message);
+        const messageContainer = document.createElement('div');
+        messageContainer.className = 'fixed inset-0 modal-backdrop-overlay flex items-center justify-center z-[2000]';
+        messageContainer.innerHTML = `
+          <div class="modal-content-styled p-8 rounded-lg shadow-xl max-w-sm text-center">
+            <p class="text-xl text-text-primary mb-5">${message}</p>
+            <button class="btn-accent py-2.5 px-5" onclick="this.parentNode.parentNode.remove()">Oke</button>
+          </div>
+        `;
+        document.body.appendChild(messageContainer);
+      }
+
+      // Function to display fallback proxy list initially
+      function displayFallbackProxyList() {
+        console.log("Displaying fallback proxy list.");
+        proxyList = [
+          {
+            ip: "103.6.207.108",
+            port: "8080",
+            country: "ID",
+            provider: "PT Pusat Media Indonesia",
+          },
+          {
+            ip: "45.8.107.73",
+            port: "80",
+            country: "US",
+            provider: "Cloudflare Inc",
+          },
+          {
+            ip: "172.67.181.52",
+            port: "443",
+            country: "US",
+            provider: "Cloudflare Inc",
+          },
+          {
+            ip: "104.21.69.85",
+            port: "443",
+            country: "US",
+            provider: "Cloudflare Inc",
+          },
+          {
+            ip: "185.219.132.181",
+            port: "8080",
+            country: "NL",
+            provider: "Netherlands Provider",
+          },
+          {
+            ip: "45.8.107.73",
+            port: "80",
+            country: "UK",
+            provider: "British Telecom",
+          },
+          {
+            ip: "172.67.182.77",
+            port: "443",
+            country: "JP",
+            provider: "Japan Telecom",
+          },
+          {
+            ip: "104.21.70.123",
+            port: "8080",
+            country: "SG",
+            provider: "Singapore Telecom",
+          },
+          {
+            ip: "185.219.133.45",
+            port: "3128",
+            country: "DE",
+            provider: "Deutsche Telekom",
+          },
+          {
+            ip: "45.8.105.26",
+            port: "80",
+            country: "FR",
+            provider: "Orange France",
+          },
+        ];
+
+        filteredProxyList = [...proxyList];
+        renderProxyList();
+      }
+
+      // Function to process raw proxy data text
+      function processProxyData(text) {
+        console.log("Processing proxy data.");
+        const lines = text.split(/\r?\n/).filter((line) => line.trim() !== "");
+        console.log(`Found ${lines.length} lines in proxy data`);
+
+        if (lines.length === 0) {
+          noProxiesMessage.classList.remove("hidden");
+          console.log("No lines found, showing no proxies message.");
+          return;
+        }
+
+        let delimiter = ",";
+
+        const firstLine = lines[0];
+        if (firstLine.includes("\t")) {
+          delimiter = "\t";
+        } else if (firstLine.includes("|")) {
+          delimiter = "|";
+        } else if (firstLine.includes(";")) {
+          delimiter = ";";
+        }
+
+        proxyList = lines
+          .map((line) => {
+            const parts = line.split(delimiter);
+            if (parts.length >= 2) {
+              return {
+                ip: parts[0].trim(),
+                port: parts[1].trim(),
+                country: parts.length >= 3 ? parts[2].trim() : "Unknown",
+                provider:
+                  parts.length >= 4 ? parts[3].trim() : "Unknown Provider",
+              };
+            }
+            return null;
+          })
+          .filter((proxy) => proxy && proxy.ip && proxy.port);
+
+        console.log(`Processed ${proxyList.length} valid proxies`);
+
+        if (proxyList.length === 0) {
+          noProxiesMessage.classList.remove("hidden");
+          displayFallbackProxyList(); // Fallback if no valid proxies from URL
+          console.log("No valid proxies processed, falling back to default.");
+          return;
+        }
+
+        currentPage = 1;
+        filteredProxyList = [...proxyList];
+
+        renderProxyList();
+      }
+
+      // Function to toggle proxy selection
+      function toggleProxySelection(cardElement, index) {
+          const proxy = filteredProxyList[index];
+          const isSelected = cardElement.classList.contains('selected');
+          console.log("Toggling selection for proxy:", proxy.ip, "Is currently selected:", isSelected);
+
+          if (isSelected) {
+              selectedProxies = selectedProxies.filter(p => !(p.ip === proxy.ip && p.port === proxy.port));
+              cardElement.classList.remove('selected');
+              console.log("Proxy deselected. Selected proxies count:", selectedProxies.length);
+          } else {
+              selectedProxies.push(proxy);
+              cardElement.classList.add('selected');
+              console.log("Proxy selected. Selected proxies count:", selectedProxies.length);
+          }
+      }
+
+      // Function to update the global action area (selected count, button state)
+      function updateGlobalActionArea() {
+          selectedCountSpan.textContent = `${selectedProxies.length} terpilih`;
+          if (selectedProxies.length > 0) {
+              showAccountCreationBtn.disabled = false;
+              console.log("Global action button enabled.");
+          } else {
+              showAccountCreationBtn.disabled = true;
+              console.log("Global action button disabled.");
+          }
+
+          // Update summary selected count on the account creation page
+          summarySelectedCountSpan.textContent = selectedProxies.length;
+      }
+
+      // Function to reset multi-selection state
+      function resetMultiSelection() {
+          console.log("Resetting multi-selection.");
+          selectedProxies = [];
+          document.querySelectorAll('.proxy-item-card.selected').forEach(card => card.classList.remove('selected'));
+          updateGlobalActionArea();
+      }
+
+      // Functions to switch between sections
+      function showProxyListSection() {
+        console.log("Showing proxy list section.");
+        proxyListSection.classList.remove("hidden");
+        accountCreationSection.classList.add("hidden");
+        resultSection.classList.add("hidden");
+      }
+
+      function showAccountCreationSection() {
+        console.log("Showing account creation section.");
+        proxyListSection.classList.add("hidden");
+        accountCreationSection.classList.remove("hidden");
+        resultSection.classList.add("hidden");
+      }
+
+      // Function to load proxy list from a given URL
+      function loadProxyList(url) {
+        console.log("Loading proxy list from URL:", url);
+        loadingIndicator.classList.remove("hidden");
+        proxyListContainer.innerHTML = "";
+        noProxiesMessage.classList.add("hidden");
+        globalActionArea.classList.add("hidden"); // Hide global controls during loading
+
+        fetch(url)
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error("Jaringan gagal merespons dengan OK");
+            }
+            return response.text();
+          })
+          .then((text) => {
+            processProxyData(text);
+            loadingIndicator.classList.add("hidden");
+            console.log("Proxy list loaded and processed successfully.");
+          })
+          .catch((error) => {
+            console.error("Fetch error during proxy list load:", error);
+            loadingIndicator.classList.add("hidden");
+            displayFallbackProxyList(); // Fallback on error
+            console.log("Falling back to default proxy list due to fetch error.");
+          });
+      }
+    </script>
+  </body>
+</html>
