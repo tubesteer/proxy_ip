@@ -1,0 +1,8 @@
+195.28.182.73,2053,UA,Friendhosting LTD
+130.0.239.147,8443,UA,IROKO Networks Corporation
+130.0.239.23,443,UA,IROKO Networks Corporation
+194.38.20.78,443,UA,Rices Privately owned enterprise
+130.0.239.147,2053,UA,IROKO Networks Corporation
+91.218.212.223,443,UA,TOV Dream Line Holding
+193.110.163.10,58443,UA,Global Ukraine Trade Ltd
+45.137.155.232,433,UA,STARK INDUSTRIES SOLUTIONS LTD
