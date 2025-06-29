@@ -1,2 +1,1 @@
-183.171.200.162,443,MY,Celcom Axiata Berhad
 38.60.193.247,13300,MY,Kaopu Cloud HK Limited
