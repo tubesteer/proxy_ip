@@ -1,98 +1,100 @@
-103.133.178.229,26010,HK,TGT IAC 22 Chun Cheong Street Tseung Kwan O Industrial Estate New Territories
 18.167.172.112,443,HK,Amazon Data Services Hong Kong
 18.162.156.23,12355,HK,Amazon Data Services Hong Kong
 74.119.193.226,2053,HK,WorkTitans BV
-74.119.193.226,8443,HK,WorkTitans BV
-38.207.133.204,10002,HK,Nearoute Limited
-103.251.89.149,29876,HK,HengTian HK DataCenter
-8.210.7.36,43891,HK,Alibaba Cloud Singapore Private Limited
-8.218.245.116,49701,HK,Alibaba Cloud Singapore Private Limited
+103.133.178.229,26010,HK,TGT IAC 22 Chun Cheong Street Tseung Kwan O Industrial Estate New Territories
 109.176.254.71,60002,HK,LAZYCLOUD LTD
-8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
 38.55.195.234,49850,HK,PEG TECH INC
-8.218.245.116,42805,HK,Alibaba Cloud Singapore Private Limited
-8.218.245.116,41528,HK,Alibaba Cloud Singapore Private Limited
-8.210.96.197,12902,HK,Alibaba Cloud Singapore Private Limited
-43.154.34.74,1935,HK,6 COLLYER QUAY
-113.254.239.245,11885,HK,HGC Global Communications Limited
-8.210.213.159,587,HK,Alibaba Cloud Singapore Private Limited
+8.210.7.36,43891,HK,Alibaba Cloud Singapore Private Limited
+38.207.133.204,10002,HK,Nearoute Limited
 38.6.219.16,8080,HK,PEG TECH INC
-118.141.64.192,36619,HK,HGC Global Communications Limited
+8.210.96.197,12902,HK,Alibaba Cloud Singapore Private Limited
+8.218.245.116,49701,HK,Alibaba Cloud Singapore Private Limited
 8.218.142.77,587,HK,Alibaba Cloud Singapore Private Limited
-43.154.196.20,65121,HK,6 COLLYER QUAY
+8.218.245.116,41528,HK,Alibaba Cloud Singapore Private Limited
+8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
+43.154.34.74,1935,HK,6 COLLYER QUAY
 43.154.124.136,26666,HK,6 COLLYER QUAY
-43.252.41.204,2443,HK,CommuniLink Internet Ltd
-47.240.20.7,3445,HK,Alibaba Cloud  HK
-191.96.242.70,34518,HK,Hytron Network Services Limited
-46.232.122.240,8000,HK,Dom Tehniki Ltd
-45.39.198.43,8080,HK,Internet Utilities NA LLC
-45.39.198.40,8080,HK,Internet Utilities NA LLC
-124.244.92.109,25203,HK,Hong Kong Broadband Network Ltd
-47.242.169.69,52721,HK,Alibaba Cloud LLC
-47.76.218.163,443,HK,Alibaba Cloud  HK
-47.240.15.210,4432,HK,Alibaba Cloud  HK
-47.79.20.64,443,HK,Alibaba Cloud LLC
-193.233.193.12,8443,HK,HUIZE TELECOM LIMITED
+43.154.196.20,65121,HK,6 COLLYER QUAY
+113.254.239.245,11885,HK,HGC Global Communications Limited
+118.141.64.192,36619,HK,HGC Global Communications Limited
 185.74.222.252,8443,HK,WorkTitans BV
-45.38.42.202,2053,HK,STARK INDUSTRIES SOLUTIONS LTD
-192.252.182.52,7602,HK,Integen Inc
-195.54.171.57,8443,HK,IROKO Networks Corporation
-89.213.239.16,8080,HK,AKILE LTD
-141.11.78.77,8080,HK,AKILE LTD
-141.11.149.195,12082,HK,AKILE LTD
-141.11.77.248,8080,HK,AKILE LTD
-141.11.148.60,8080,HK,AKILE LTD
-194.246.114.73,443,HK,WorkTitans BV
-193.233.193.12,2053,HK,HUIZE TELECOM LIMITED
-192.142.4.76,2053,HK,Ultahost Inc
+43.252.41.204,2443,HK,CommuniLink Internet Ltd
+8.218.245.116,42805,HK,Alibaba Cloud Singapore Private Limited
+8.210.213.159,587,HK,Alibaba Cloud Singapore Private Limited
+74.119.193.226,8443,HK,WorkTitans BV
+47.242.169.69,52721,HK,Alibaba Cloud LLC
+47.240.20.7,3445,HK,Alibaba Cloud  HK
+46.232.122.240,8000,HK,Dom Tehniki Ltd
+124.244.92.109,25203,HK,Hong Kong Broadband Network Ltd
+45.39.198.43,8080,HK,Internet Utilities NA LLC
 193.226.78.85,443,HK,Virtono Networks SRL
-141.98.234.14,2053,HK,GLOBAL INTERNET SOLUTIONS LLC
+141.11.77.248,8080,HK,AKILE LTD
+192.142.4.76,2053,HK,Ultahost Inc
+141.11.78.77,8080,HK,AKILE LTD
+141.11.148.60,8080,HK,AKILE LTD
+89.213.239.16,8080,HK,AKILE LTD
+141.11.149.195,12082,HK,AKILE LTD
+45.38.42.202,2053,HK,STARK INDUSTRIES SOLUTIONS LTD
+193.233.193.12,2053,HK,HUIZE TELECOM LIMITED
+193.233.193.12,8443,HK,HUIZE TELECOM LIMITED
+45.39.198.40,8080,HK,Internet Utilities NA LLC
+191.96.242.70,34518,HK,Hytron Network Services Limited
+192.252.182.52,7602,HK,Integen Inc
 154.91.34.39,8443,HK,Ruiou International Network Limited
+23.226.8.80,443,HK,UDomain Web Hosting Company Limited
+47.76.218.163,443,HK,Alibaba Cloud  HK
 154.18.161.172,18443,HK,Hytron Network Services Limited
+47.79.20.64,443,HK,Alibaba Cloud LLC
 157.254.32.87,443,HK,Private Customer
 62.192.175.43,12009,HK,Private Customer
-154.16.10.34,8080,HK,Digital Energy Technologies Limited
-23.226.8.80,443,HK,UDomain Web Hosting Company Limited
+47.240.15.210,4432,HK,Alibaba Cloud  HK
 156.254.115.247,8443,HK,StepGo Limited
-221.124.30.40,28015,HK,HGC Global Communications Limited
-218.188.151.102,10315,HK,HGC Global Communications Limited
+210.6.207.42,18622,HK,Hong Kong Broadband Network Ltd
+154.16.10.34,8080,HK,Digital Energy Technologies Limited
 221.124.204.150,10120,HK,HGC Global Communications Limited
-218.188.151.102,31564,HK,HGC Global Communications Limited
+195.54.171.57,8443,HK,IROKO Networks Corporation
+221.124.30.40,28015,HK,HGC Global Communications Limited
 163.53.246.130,443,HK,ROUTE
+221.124.30.40,16086,HK,HGC Global Communications Limited
+223.16.138.113,10201,HK,HGC Global Communications Limited
 218.188.151.102,26002,HK,HGC Global Communications Limited
 223.16.138.113,12457,HK,HGC Global Communications Limited
-223.18.222.60,15000,HK,HGC Global Communications Limited
-210.6.207.42,18622,HK,Hong Kong Broadband Network Ltd
-223.16.138.113,10201,HK,HGC Global Communications Limited
 223.16.138.113,10002,HK,HGC Global Communications Limited
-221.124.30.40,16086,HK,HGC Global Communications Limited
-221.125.10.8,57537,HK,HGC Global Communications Limited
-156.234.17.144,443,HK,YANCY LIMITED
-38.207.174.62,443,HK,VMISS Inc
-74.119.193.128,443,HK,WorkTitans BV
-154.83.86.52,55555,HK,Akile LTD
-45.149.186.112,8080,HK,AKILE LTD
 195.54.171.205,443,HK,IROKO Networks Corporation
+38.207.174.62,443,HK,VMISS Inc
+156.254.114.171,443,HK,StepGo Limited
+156.234.17.144,443,HK,YANCY LIMITED
+218.188.151.102,31564,HK,HGC Global Communications Limited
+218.188.151.102,10315,HK,HGC Global Communications Limited
+154.83.86.52,55555,HK,Akile LTD
+141.98.234.14,2053,HK,GLOBAL INTERNET SOLUTIONS LLC
+221.125.10.8,57537,HK,HGC Global Communications Limited
+45.149.186.112,8080,HK,AKILE LTD
+194.246.114.73,443,HK,WorkTitans BV
+141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
 218.188.151.102,12062,HK,HGC Global Communications Limited
+223.18.222.60,15000,HK,HGC Global Communications Limited
+74.119.193.128,443,HK,WorkTitans BV
 8.217.45.101,47243,HK,Alibaba Cloud Singapore Private Limited
-38.180.94.174,20627,HK,3NT SOLUTIONS LLP
-47.242.171.138,37021,HK,Alibaba Cloud LLC
 85.208.104.34,8080,HK,Internet Utilities Europe and Asia Limited
+38.180.94.174,20627,HK,3NT SOLUTIONS LLP
 36.50.90.241,47790,HK,Cloudflare Inc
 36.50.90.241,35951,HK,Cloudflare Inc
+47.57.13.107,443,HK,Alibaba Cloud Singapore Private Limited
+47.242.171.138,37021,HK,Alibaba Cloud LLC
 119.28.58.214,10011,HK,Tencent cloud computing Beijing Co Ltd
 154.12.176.201,587,HK,DMIT Cloud Service  Los Angeles
-103.247.28.240,37211,HK,VMISS Inc
-47.57.245.232,443,HK,Alibaba Cloud  US
-47.57.233.126,443,HK,Alibaba Cloud  US
 202.144.195.204,443,HK,Techavenue International Ltd
-43.132.244.52,21415,HK,6 COLLYER QUAY
-38.180.94.174,35521,HK,3NT SOLUTIONS LLP
-156.255.90.175,2053,HK,StepGo Limited
+103.247.28.240,37211,HK,VMISS Inc
+47.57.233.126,443,HK,Alibaba Cloud  US
+47.57.245.232,443,HK,Alibaba Cloud  US
 192.131.142.161,46639,HK,LEASEWEB HONG KONG LIMITED
-156.255.90.175,8443,HK,StepGo Limited
-156.59.91.176,443,HK,ZENLA1
-156.254.114.120,30011,HK,StepGo Limited
-194.156.99.186,443,HK,STARK INDUSTRIES SOLUTIONS LTD
-2.56.91.89,8443,HK,ihchk vps in Hong Kong
+43.132.244.52,21415,HK,6 COLLYER QUAY
+156.255.90.175,2053,HK,StepGo Limited
+38.180.94.174,35521,HK,3NT SOLUTIONS LLP
 2.56.91.89,2053,HK,ihchk vps in Hong Kong
+2.56.91.89,8443,HK,ihchk vps in Hong Kong
+156.59.91.176,443,HK,ZENLA1
+194.156.99.186,443,HK,STARK INDUSTRIES SOLUTIONS LTD
+156.255.90.175,8443,HK,StepGo Limited
+156.254.114.120,30011,HK,StepGo Limited
