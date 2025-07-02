@@ -1,28 +1,29 @@
-34.240.33.147,2053,IE,Amazon Data Services Ireland Limited
-34.240.33.147,8443,IE,Amazon Data Services Ireland Limited
-194.26.213.108,443,IE,MVPS LTD
-193.57.138.106,8443,IE,WorkTitans BV
-194.87.245.135,8443,IE,Reliable Communications sro
-192.210.183.104,443,IE,RackNerd LLC
-107.172.145.153,443,IE,RackNerd LLC
-194.87.245.135,2053,IE,Reliable Communications sro
-194.87.245.181,8443,IE,Reliable Communications sro
-52.19.138.237,2053,IE,Amazon Data Services Ireland Limited
-52.19.178.111,2053,IE,Amazon Data Services Ireland Limited
 63.32.194.15,8443,IE,Amazon Data Services Ireland Limited
 63.32.194.15,2053,IE,Amazon Data Services Ireland Limited
-52.213.11.150,443,IE,Amazon Data Services Ireland Limited
-54.246.42.63,2053,IE,Amazon Technologies Inc
-54.246.42.63,8443,IE,Amazon Technologies Inc
-52.19.138.237,8443,IE,Amazon Data Services Ireland Limited
-54.229.164.147,2053,IE,Amazoncom Inc
-54.229.164.147,8443,IE,Amazoncom Inc
+34.240.33.147,8443,IE,Amazon Data Services Ireland Limited
 40.113.60.248,8443,IE,Microsoft Corporation
-194.87.245.181,2053,IE,Reliable Communications sro
-40.113.60.248,2053,IE,Microsoft Corporation
-3.249.49.224,443,IE,Amazon Data Services Ireland Limited
-34.253.234.62,443,IE,Amazon Data Services Ireland Limited
+52.19.138.237,2053,IE,Amazon Data Services Ireland Limited
+54.246.42.63,2053,IE,Amazon Technologies Inc
+52.19.178.111,2053,IE,Amazon Data Services Ireland Limited
+52.19.138.237,8443,IE,Amazon Data Services Ireland Limited
+52.213.11.150,443,IE,Amazon Data Services Ireland Limited
 52.19.178.111,8443,IE,Amazon Data Services Ireland Limited
+34.253.234.62,443,IE,Amazon Data Services Ireland Limited
+40.113.60.248,2053,IE,Microsoft Corporation
+54.229.164.147,8443,IE,Amazoncom Inc
+54.229.164.147,2053,IE,Amazoncom Inc
+194.87.245.135,2053,IE,Reliable Communications sro
+107.172.145.153,443,IE,RackNerd LLC
+3.249.49.224,443,IE,Amazon Data Services Ireland Limited
 23.95.225.214,2053,IE,RackNerd LLC
+194.87.245.181,2053,IE,Reliable Communications sro
 172.245.97.149,443,IE,HostPapa
+194.87.245.181,8443,IE,Reliable Communications sro
+192.210.183.104,443,IE,RackNerd LLC
 23.95.225.214,8443,IE,RackNerd LLC
+194.26.213.108,443,IE,MVPS LTD
+54.246.42.63,8443,IE,Amazon Technologies Inc
+34.240.33.147,2053,IE,Amazon Data Services Ireland Limited
+193.57.138.106,8443,IE,WorkTitans BV
+194.87.245.135,8443,IE,Reliable Communications sro
+85.159.229.121,2053,IE,GLOBAL INTERNET SOLUTIONS LLC

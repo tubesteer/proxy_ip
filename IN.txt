@@ -1,30 +1,29 @@
 65.20.82.22,443,IN,Vultr Holdings LLC
-166.0.244.206,2053,IN,IPXO LLC
 65.20.74.136,2053,IN,Vultr Holdings LLC
+166.0.244.206,2053,IN,Internet Utilities NA LLC
+166.0.244.206,8443,IN,Internet Utilities NA LLC
 65.20.76.125,8443,IN,Vultr Holdings LLC
-166.0.244.206,8443,IN,IPXO LLC
-172.105.62.71,2443,IN,Linode
 141.148.209.227,8080,IN,Oracle Corporation
-64.227.184.166,8443,IN,DigitalOcean LLC
-3.111.217.79,8443,IN,Amazon Data Services India
-3.109.185.221,443,IN,Amazon Data Services India
-3.111.155.29,443,IN,Amazon Data Services India
-64.227.174.213,8443,IN,DigitalOcean LLC
-152.70.75.80,15805,IN,Oracle Corporation
-172.232.112.240,587,IN,Linode
-3.7.108.69,443,IN,Amazon Data Services India
-152.70.76.104,46000,IN,Oracle Corporation
-139.59.48.26,8443,IN,DigitalOcean LLC
-20.235.105.146,443,IN,Microsoft Corporation
-148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
-64.227.174.213,2053,IN,DigitalOcean LLC
-148.113.43.228,2053,IN,OVHTECH RD INDIA PRIVATE LIMITED
-146.56.48.138,23010,IN,Oracle Corporation  Global software solutions  California  USA
-128.199.18.189,2053,IN,DigitalOcean LLC
-115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
-134.195.137.107,22473,IN,ReadyDedis LLC
 65.1.147.200,35979,IN,Amazon Data Services India
+148.113.43.228,2053,IN,OVHTECH RD INDIA PRIVATE LIMITED
+64.227.184.166,8443,IN,DigitalOcean LLC
+148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
+134.195.137.107,22473,IN,ReadyDedis LLC
+64.227.174.213,2053,IN,DigitalOcean LLC
+64.227.174.213,8443,IN,DigitalOcean LLC
+3.111.217.79,8443,IN,Amazon Data Services India
+115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
+3.111.155.29,443,IN,Amazon Data Services India
+172.232.112.240,587,IN,Linode
+152.70.75.80,15805,IN,Oracle Corporation
+172.105.62.71,2443,IN,Linode
+152.70.76.104,46000,IN,Oracle Corporation
 13.233.5.49,443,IN,Amazon Data Services India
+3.7.108.69,443,IN,Amazon Data Services India
+139.59.48.26,8443,IN,DigitalOcean LLC
+128.199.18.189,2053,IN,DigitalOcean LLC
+146.56.48.138,23010,IN,Oracle Corporation  Global software solutions  California  USA
+3.109.185.221,443,IN,Amazon Data Services India
 147.75.230.207,443,IN,Aryaka Networks Inc
-147.75.230.33,443,IN,Aryaka Networks Inc
 147.75.230.160,443,IN,Aryaka Networks India Pvt Ltd
+147.75.230.33,443,IN,Aryaka Networks Inc
