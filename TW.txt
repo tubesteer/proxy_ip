@@ -1,22 +1,22 @@
 114.34.202.224,10004,TW,Chunghwa Telecom CoLtd
 182.155.79.69,11250,TW,Taiwan
+175.97.191.217,30100,TW,Taiwan Fixed Network COLTD
+220.135.202.250,81,TW,Chunghwa Telecom CoLtd
 118.163.37.32,81,TW,Chunghwa Telecom CoLtd
-210.61.97.241,81,TW,Chunghwa Telecom CoLtd
+182.155.79.69,12369,TW,Taiwan
 116.241.116.184,20242,TW,TBC
 116.241.116.184,30006,TW,TBC
 60.249.114.181,26398,TW,Chunghwa Telecom CoLtd
-60.249.114.181,10244,TW,Chunghwa Telecom CoLtd
-182.155.79.69,12369,TW,Taiwan
-60.249.114.181,21574,TW,Chunghwa Telecom CoLtd
-61.63.235.53,25957,TW,Savecom International Inc
-60.249.114.181,16022,TW,Chunghwa Telecom CoLtd
 60.249.114.181,11285,TW,Chunghwa Telecom CoLtd
-103.106.230.186,81,TW,Oneprovidercom  Taipei Infrastructure
-220.135.202.250,81,TW,Chunghwa Telecom CoLtd
-175.97.191.217,30100,TW,Taiwan Fixed Network COLTD
+210.61.97.241,81,TW,Chunghwa Telecom CoLtd
+60.249.114.181,21574,TW,Chunghwa Telecom CoLtd
+60.249.114.181,16022,TW,Chunghwa Telecom CoLtd
+61.63.235.53,25957,TW,Savecom International Inc
 220.132.77.244,58888,TW,Chunghwa Telecom CoLtd
-60.249.114.181,32003,TW,Chunghwa Telecom CoLtd
+60.249.114.181,10244,TW,Chunghwa Telecom CoLtd
+103.106.230.186,81,TW,Oneprovidercom  Taipei Infrastructure
 141.11.86.94,18333,TW,AKILE LTD
 188.253.6.53,25884,TW,Akari Networks Taipei
-60.249.114.181,12281,TW,Chunghwa Telecom CoLtd
 220.130.80.171,20655,TW,Chunghwa Telecom CoLtd
+60.249.114.181,32003,TW,Chunghwa Telecom CoLtd
+60.249.114.181,12281,TW,Chunghwa Telecom CoLtd
