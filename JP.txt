@@ -1,169 +1,171 @@
+103.75.118.144,2053,JP,Oneprovidercom  Japan Infrastructure
 103.106.228.126,2053,JP,oneprovidercom  Tokyo Infrastructure
 109.123.231.212,2053,JP,Contabo GmbH
+185.18.222.208,2053,JP,Jurgita Jurgaitiene trading as LOCOTORPI
 18.183.158.211,443,JP,Amazon Data Services Japan
 108.160.139.154,8443,JP,Vultr Holdings LLC
-103.75.118.144,2053,JP,Oneprovidercom  Japan Infrastructure
-108.61.247.158,8443,JP,Vultr Holdings LLC
-185.18.222.208,2053,JP,Jurgita Jurgaitiene trading as LOCOTORPI
+193.246.161.65,54310,JP,AKILE LTD
 185.184.223.47,443,JP,365 Group LLC
 45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
+108.61.247.158,8443,JP,Vultr Holdings LLC
 103.232.213.117,8080,JP,Kvmcloud Network Co Ltd
-193.246.161.65,54310,JP,AKILE LTD
-85.208.110.52,2053,JP,WorkTitans BV
 118.27.12.40,38443,JP,GMO Internet Group Inc
-85.208.110.52,8443,JP,WorkTitans BV
-8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
-45.76.192.129,24434,JP,Vultr Holdings LLC
-132.145.116.185,443,JP,Oracle Public Cloud
+84.247.152.46,10045,JP,Contabo GmbH
 8.221.143.218,587,JP,Alibaba Cloud Singapore Private Limited
-45.66.218.194,12959,JP,Virtual Machine Solutions LLC
-45.66.218.194,12965,JP,Virtual Machine Solutions LLC
-132.226.8.109,43257,JP,Oracle Public Cloud
-132.145.116.192,44009,JP,Oracle Public Cloud
+8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
 8.216.121.234,51922,JP,Alibaba Cloud Singapore Private Limited
 113.37.149.36,12553,JP,ARTERIA Networks Corporation
+85.208.110.52,2053,JP,WorkTitans BV
+85.208.110.52,8443,JP,WorkTitans BV
 121.85.55.59,19842,JP,OPTAGE Inc
-131.186.33.175,443,JP,Oracle Public Cloud
-132.145.126.40,32498,JP,Oracle Public Cloud
-84.247.152.46,10045,JP,Contabo GmbH
-45.89.109.86,2053,JP,WorkTitans BV
-45.89.109.83,2053,JP,WorkTitans BV
-45.89.109.84,8443,JP,WorkTitans BV
-45.89.109.87,8443,JP,WorkTitans BV
-45.89.109.29,8443,JP,WorkTitans BV
+45.66.218.194,12959,JP,Virtual Machine Solutions LLC
+45.76.192.129,24434,JP,Vultr Holdings LLC
+45.66.218.194,12965,JP,Virtual Machine Solutions LLC
+132.145.116.192,44009,JP,Oracle Public Cloud
 45.89.109.81,8443,JP,WorkTitans BV
-45.89.109.88,2053,JP,WorkTitans BV
-45.89.109.82,8443,JP,WorkTitans BV
-45.89.109.29,2053,JP,WorkTitans BV
-45.89.109.81,2053,JP,WorkTitans BV
-140.238.62.82,1443,JP,Oracle Public Cloud
-45.89.109.87,2053,JP,WorkTitans BV
-45.89.109.84,2053,JP,WorkTitans BV
-5.180.76.44,443,JP,CEGRGODigitalVM LLC
-149.28.21.106,443,JP,Vultr Holdings LLC
-140.235.37.81,443,JP,Sunoaki Network Customer
-160.16.56.195,443,JP,SAKURA Internet Inc
-138.2.18.82,8880,JP,Oracle Corporation
-138.3.222.33,443,JP,Oracle Network Information Services
-46.3.101.59,8443,JP,Dom Tehniki Ltd
-141.147.185.15,443,JP,Oracle Corporation
-141.147.185.63,443,JP,Oracle Corporation
-138.3.217.167,587,JP,Oracle Network Information Services
-20.243.85.49,10443,JP,Microsoft Corporation
-150.230.97.136,12508,JP,Oracle Corporation
+45.89.109.86,2053,JP,WorkTitans BV
 45.89.109.86,8443,JP,WorkTitans BV
-45.89.109.88,8443,JP,WorkTitans BV
-150.230.214.172,16957,JP,Oracle Corporation
-158.101.77.33,443,JP,Oracle Public Cloud
-45.89.109.80,8443,JP,WorkTitans BV
-45.89.109.83,8443,JP,WorkTitans BV
-150.230.97.136,12502,JP,Oracle Corporation
-158.101.89.113,50443,JP,Oracle Public Cloud
-172.104.127.132,443,JP,Linode
-168.138.213.1,50003,JP,Oracle Public Cloud
-49.212.133.94,443,JP,SAKURA Internet Inc
-91.194.160.45,8443,JP,WorkTitans BV
-140.83.57.86,54322,JP,imported inetnum object for OCPL1
-141.147.147.180,443,JP,Oracle Corporation
-217.142.226.116,443,JP,Oracle Svenska AB
-150.230.5.34,45681,JP,Oracle Corporation
-45.89.109.80,2053,JP,WorkTitans BV
-91.194.160.45,2053,JP,WorkTitans BV
-147.45.49.11,8443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+132.145.126.40,32498,JP,Oracle Public Cloud
+132.145.116.185,443,JP,Oracle Public Cloud
 138.2.10.149,45638,JP,Oracle Corporation
-140.83.60.81,18443,JP,imported inetnum object for OCPL1
-147.45.49.211,443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-147.45.49.11,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-140.83.63.113,443,JP,imported inetnum object for OCPL1
-152.70.82.70,1450,JP,Oracle Corporation
-64.176.37.22,443,JP,Vultr Holdings LLC
+45.89.109.87,8443,JP,WorkTitans BV
+132.226.8.109,43257,JP,Oracle Public Cloud
+45.89.109.88,2053,JP,WorkTitans BV
+45.89.109.88,8443,JP,WorkTitans BV
+45.89.109.82,2053,JP,WorkTitans BV
+140.238.62.82,1443,JP,Oracle Public Cloud
+45.89.109.82,8443,JP,WorkTitans BV
+45.89.109.80,2053,JP,WorkTitans BV
+5.180.76.44,443,JP,CEGRGODigitalVM LLC
 147.45.49.193,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-47.245.59.226,59215,JP,Alibaba Cloud  JP
+45.89.109.84,8443,JP,WorkTitans BV
+45.89.109.83,2053,JP,WorkTitans BV
+45.89.109.80,8443,JP,WorkTitans BV
+91.194.160.45,2053,JP,WorkTitans BV
+91.194.160.121,2053,JP,WorkTitans BV
+45.89.109.29,8443,JP,WorkTitans BV
+45.89.109.84,2053,JP,WorkTitans BV
+45.89.109.83,8443,JP,WorkTitans BV
+46.3.101.59,8443,JP,Dom Tehniki Ltd
+45.89.109.29,2053,JP,WorkTitans BV
+147.45.49.164,24443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+138.3.217.167,587,JP,Oracle Network Information Services
+140.235.37.81,443,JP,Sunoaki Network Customer
+138.2.18.82,8880,JP,Oracle Corporation
+149.28.21.106,443,JP,Vultr Holdings LLC
+141.147.185.63,443,JP,Oracle Corporation
+147.45.49.11,8443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+91.194.160.45,8443,JP,WorkTitans BV
+147.45.49.80,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+150.230.97.136,12508,JP,Oracle Corporation
+140.83.60.81,18443,JP,imported inetnum object for OCPL1
+141.147.185.15,443,JP,Oracle Corporation
+140.83.57.86,54322,JP,imported inetnum object for OCPL1
+147.45.49.11,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+47.79.33.117,11101,JP,Alibaba Cloud LLC
 47.79.33.117,52311,JP,Alibaba Cloud LLC
 47.79.90.37,49153,JP,Alibaba Cloud LLC
-147.45.49.164,24443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-147.45.49.80,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-91.194.160.121,2053,JP,WorkTitans BV
-141.147.162.125,443,JP,Oracle Corporation
-45.89.109.82,2053,JP,WorkTitans BV
-158.101.80.84,443,JP,Oracle Public Cloud
-202.144.194.31,9998,JP,IPTELECOM JAPAN
-153.121.45.101,443,JP,SAKURA Internet Inc
-47.79.33.117,11101,JP,Alibaba Cloud LLC
-217.142.250.28,443,JP,Oracle Svenska AB
-64.176.42.125,10001,JP,Vultr Holdings LLC
+150.230.97.136,12502,JP,Oracle Corporation
+49.212.133.94,443,JP,SAKURA Internet Inc
+47.245.59.226,59215,JP,Alibaba Cloud  JP
+131.186.33.175,443,JP,Oracle Public Cloud
+45.89.109.81,2053,JP,WorkTitans BV
+45.89.109.87,2053,JP,WorkTitans BV
+141.147.147.180,443,JP,Oracle Corporation
+138.3.222.33,443,JP,Oracle Network Information Services
+150.230.214.172,16957,JP,Oracle Corporation
+150.230.5.34,45681,JP,Oracle Corporation
+20.243.85.49,10443,JP,Microsoft Corporation
 91.194.160.64,443,JP,WorkTitans BV
-140.245.88.197,443,JP,Oracle Corporation
-23.106.143.190,39027,JP,IT7 Networks Inc
-138.3.222.124,46209,JP,Oracle Network Information Services
-154.31.113.72,443,JP,DMIT Cloud Service  Tokyo
-140.83.56.110,56417,JP,imported inetnum object for OCPL1
-219.117.2.190,57517,JP,Jupiter Telecommunications Co Ltd
-140.238.37.103,14782,JP,Oracle Public Cloud
-219.117.2.190,48401,JP,Jupiter Telecommunications Co Ltd
-140.83.59.158,15805,JP,imported inetnum object for OCPL1
+153.121.45.101,443,JP,SAKURA Internet Inc
+152.70.82.70,1450,JP,Oracle Corporation
+160.16.56.195,443,JP,SAKURA Internet Inc
 5.253.41.94,443,JP,WorkTitans BV
-140.83.57.183,22735,JP,imported inetnum object for OCPL1
+172.104.127.132,443,JP,Linode
+140.245.88.197,443,JP,Oracle Corporation
 3.112.21.102,443,JP,Amazon Data Services Japan
-139.162.127.39,18836,JP,Akamai Connected Cloud  Linode
+141.147.162.125,443,JP,Oracle Corporation
 131.186.63.89,11655,JP,Oracle Public Cloud
+23.106.143.190,39027,JP,IT7 Networks Inc
+217.142.226.116,443,JP,Oracle Svenska AB
+64.176.37.22,443,JP,Vultr Holdings LLC
+140.83.63.113,443,JP,imported inetnum object for OCPL1
+64.176.42.125,10001,JP,Vultr Holdings LLC
+140.83.59.158,15805,JP,imported inetnum object for OCPL1
+202.84.53.85,19999,JP,Azumino Network Community TV
+217.142.250.28,443,JP,Oracle Svenska AB
+168.138.213.1,50003,JP,Oracle Public Cloud
+158.101.89.113,50443,JP,Oracle Public Cloud
+140.83.56.110,56417,JP,imported inetnum object for OCPL1
+202.144.194.31,9998,JP,Techavenue International Ltd
+217.142.243.226,443,JP,Oracle Svenska AB
+219.117.2.190,48401,JP,Jupiter Telecommunications Co Ltd
+147.45.49.211,443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+140.238.37.103,14782,JP,Oracle Public Cloud
+158.101.80.84,443,JP,Oracle Public Cloud
+158.101.77.33,443,JP,Oracle Public Cloud
+219.117.2.190,57517,JP,Jupiter Telecommunications Co Ltd
+140.83.57.183,22735,JP,imported inetnum object for OCPL1
+139.162.127.39,18836,JP,Akamai Connected Cloud  Linode
+138.3.222.124,46209,JP,Oracle Network Information Services
 139.162.84.132,18836,JP,Akamai Connected Cloud  Linode
-103.20.199.118,12999,JP,IotMedia Lab
-38.180.28.163,2053,JP,3NT SOLUTIONS LLP
-38.180.28.163,8443,JP,3NT SOLUTIONS LLP
-43.133.10.236,33405,JP,6 COLLYER QUAY
-82.163.16.69,8080,JP,AKILE LTD
-217.142.243.98,51321,JP,Oracle Corporation
-168.138.46.115,43138,JP,Oracle Public Cloud
-158.101.146.3,54516,JP,Oracle Public Cloud
-141.147.152.229,23333,JP,Oracle Corporation
-168.138.193.174,11959,JP,Oracle Public Cloud
-64.176.40.224,3533,JP,The Constant Company LLC
-64.110.104.30,443,JP,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Public Cloud
-217.142.236.93,443,JP,Oracle Svenska AB
-152.69.192.40,57005,JP,Oracle Corporation
-168.138.46.67,443,JP,Oracle Public Cloud
-192.243.127.224,443,JP,IT7 Networks Inc
 91.194.160.79,8443,JP,WorkTitans BV
-172.105.233.112,18836,JP,Akamai Connected Cloud  Linode
-141.147.161.249,51037,JP,Oracle Corporation
+38.180.28.163,8443,JP,3NT SOLUTIONS LLP
+38.180.28.163,2053,JP,3NT SOLUTIONS LLP
 91.194.160.79,2053,JP,WorkTitans BV
-176.97.70.51,2053,JP,3nt solutions LLP
-168.138.192.16,54584,JP,Oracle Public Cloud
-158.101.157.75,57105,JP,Oracle Public Cloud
+54.248.121.219,443,JP,Amazon Technologies Inc
+154.31.113.72,443,JP,DMIT Cloud Service  Tokyo
+217.142.243.98,51321,JP,Oracle Corporation
+64.176.40.224,3533,JP,The Constant Company LLC
+82.163.16.69,8080,JP,AKILE LTD
+43.133.10.236,33405,JP,6 COLLYER QUAY
+64.110.104.30,443,JP,Oracle Corporation
+217.142.236.93,443,JP,Oracle Svenska AB
+103.20.199.118,12999,JP,IotMedia Lab
+141.147.152.229,23333,JP,Oracle Corporation
 45.76.198.248,443,JP,Vultr Holdings LLC
-141.147.183.49,29876,JP,Oracle Corporation
-141.147.144.15,13357,JP,Oracle Corporation
-152.69.199.70,8443,JP,Cloudflare London LLC
-103.238.129.215,42734,JP,IPX
+158.101.146.3,54516,JP,Oracle Public Cloud
+168.138.46.115,43138,JP,Oracle Public Cloud
+168.138.198.7,27560,JP,Oracle Public Cloud
+176.97.70.51,2053,JP,3nt solutions LLP
+168.138.193.174,11959,JP,Oracle Public Cloud
+152.69.192.40,57005,JP,Oracle Corporation
+172.105.233.112,18836,JP,Akamai Connected Cloud  Linode
+168.138.192.16,54584,JP,Oracle Public Cloud
+141.147.161.249,51037,JP,Oracle Corporation
+168.138.46.67,443,JP,Oracle Public Cloud
 158.101.152.6,2919,JP,Oracle Public Cloud
-212.52.0.61,1846,JP,Prinode AB
-64.176.39.147,16387,JP,The Constant Company LLC
-138.2.10.217,27446,JP,Oracle Corporation
+141.147.183.49,29876,JP,Oracle Corporation
 8.216.81.183,3939,JP,Alibaba Cloud Singapore Private Limited
-198.13.42.58,32954,JP,Vultr Holdings LLC
-217.142.230.253,587,JP,Oracle Corporation
+158.101.157.75,57105,JP,Oracle Public Cloud
+212.52.0.61,1846,JP,Prinode AB
+103.238.129.215,42734,JP,IPX
+138.2.10.217,27446,JP,Oracle Corporation
 139.162.127.55,18836,JP,Akamai Connected Cloud  Linode
+198.13.42.58,32954,JP,Vultr Holdings LLC
+141.147.144.15,13357,JP,Oracle Corporation
 149.28.30.146,44243,JP,Vultr Holdings LLC
-158.101.146.3,44872,JP,Oracle Public Cloud
-140.83.57.114,25965,JP,imported inetnum object for OCPL1
+152.69.199.70,8443,JP,Cloudflare London LLC
+64.176.39.147,16387,JP,The Constant Company LLC
 138.2.32.76,15821,JP,Oracle Corporation
-138.2.12.103,14453,JP,Cloudflare London LLC
-139.162.102.152,7002,JP,Akamai Connected Cloud  Linode
+140.83.57.114,25965,JP,imported inetnum object for OCPL1
+217.142.230.253,587,JP,Oracle Corporation
 158.101.154.245,47001,JP,Oracle Public Cloud
+138.2.12.103,14453,JP,Cloudflare London LLC
+158.101.146.3,44872,JP,Oracle Public Cloud
 168.138.201.35,36637,JP,Cloudflare London LLC
+139.162.102.152,7002,JP,Akamai Connected Cloud  Linode
 38.180.29.115,443,JP,3NT SOLUTIONS LLP
 168.138.197.147,12345,JP,Oracle Public Cloud
+138.2.48.109,26412,JP,Oracle Corporation
 45.77.25.6,48828,JP,Vultr Holdings LLC
 45.77.25.6,27854,JP,Vultr Holdings LLC
 140.83.37.134,46478,JP,imported inetnum object for OCPL1
 217.142.250.195,587,JP,Oracle Corporation
-138.2.48.109,26412,JP,Oracle Corporation
 140.83.57.20,13118,JP,imported inetnum object for OCPL1
 150.230.204.21,10243,JP,Oracle Corporation
-152.70.82.101,18650,JP,Oracle Corporation
 138.2.59.96,10129,JP,Oracle Corporation
-141.98.197.101,11665,JP,xTom Japan Corporation
+152.70.82.101,18650,JP,Oracle Corporation
 138.2.49.197,587,JP,Oracle Corporation
 64.110.101.90,55007,JP,Oracle Corporation
+141.98.197.101,11665,JP,xTom Japan Corporation
