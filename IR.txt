@@ -3,10 +3,10 @@
 91.92.206.174,465,IR,DELTA LeasedLine Network
 91.92.206.174,27784,IR,DELTA LeasedLine Network
 185.206.93.129,4343,IR,AbrArvan IaaS
-87.107.54.78,4343,IR,ParsShabakehAzarakhsh
 178.253.23.199,8443,IR,TimeWeb
-94.182.209.5,30000,IR,SHTLNETDED
 5.160.52.32,30003,IR,Respina
+87.107.54.78,4343,IR,ParsShabakehAzarakhsh
+94.182.209.5,30000,IR,SHTLNETDED
 85.198.11.18,8899,IR,Hetzner Online GmbH
-31.214.175.108,8443,IR,Turunc smart bilgisayar Teknoloji ve dis ticaret limited
 178.239.146.246,8443,IR,The Infrastructure Group BV
+31.214.175.108,8443,IR,Turunc smart bilgisayar Teknoloji ve dis ticaret limited
