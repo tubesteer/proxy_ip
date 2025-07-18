@@ -1,10 +1,9 @@
 94.241.174.229,443,IR,JSC TIMEWEB
-83.147.247.249,2053,IR,JSC TIMEWEB
-91.92.206.174,27784,IR,DELTA LeasedLine Network
-178.253.23.199,8443,IR,TimeWeb
 185.206.93.129,4343,IR,AbrArvan IaaS
-87.107.54.78,4343,IR,ParsShabakehAzarakhsh
+178.253.23.199,8443,IR,TimeWeb
 94.182.209.5,30000,IR,SHTLNETDED
+83.147.247.249,2053,IR,JSC TIMEWEB
 85.198.11.18,8899,IR,Hetzner Online GmbH
-31.214.175.108,8443,IR,Turunc smart bilgisayar Teknoloji ve dis ticaret limited
+91.92.206.174,27784,IR,DELTA LeasedLine Network
 91.92.206.174,465,IR,DELTA LeasedLine Network
+31.214.175.108,8443,IR,Turunc smart bilgisayar Teknoloji ve dis ticaret limited
