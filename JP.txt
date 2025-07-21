@@ -1,7 +1,7 @@
-45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
-141.147.152.229,23333,JP,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-150.230.204.21,10243,JP,Oracle Corporation
-141.98.197.101,11665,JP,xTom Japan Corporation
+103.106.228.126,2053,JP,oneprovidercom  Tokyo Infrastructure
+18.183.158.211,443,JP,Amazon Data Services Japan
+193.246.161.65,54310,JP,AKILE LTD
+103.232.213.117,8080,JP,Kvmcloud Network Co Ltd
+103.75.118.144,2053,JP,Oneprovidercom  Japan Infrastructure
 138.2.49.197,587,JP,Oracle Corporation
 64.110.101.90,55007,JP,Oracle Corporation

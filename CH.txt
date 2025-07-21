@@ -1,2 +1,2 @@
-194.87.97.6,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
 194.87.97.6,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
+194.87.97.6,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
