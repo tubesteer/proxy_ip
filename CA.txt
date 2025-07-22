@@ -1,2 +1,4 @@
+35.182.7.190,443,CA,Securly Inc
+35.183.163.195,443,CA,Securly Inc
 35.183.163.195,80,CA,Securly Inc
-35.182.7.190,80,CA,Securly Inc
+3.97.173.206,80,CA,Securly Inc
