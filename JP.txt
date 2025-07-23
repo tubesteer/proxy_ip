@@ -1,14 +1,9 @@
-103.106.228.126,2053,JP,oneprovidercom  Tokyo Infrastructure
-18.183.158.211,443,JP,Amazon Data Services Japan
-85.208.110.52,8443,JP,WorkTitans BV
-103.75.118.144,2053,JP,Oneprovidercom  Japan Infrastructure
-185.184.223.47,443,JP,365 Group LLC
-108.160.139.154,8443,JP,Vultr Holdings LLC
 185.18.222.208,2053,JP,Jurgita Jurgaitiene trading as LOCOTORPI
-85.208.110.52,2053,JP,WorkTitans BV
-8.216.121.234,51922,JP,Alibaba Cloud Singapore Private Limited
-8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
+185.184.223.47,443,JP,365 Group LLC
+109.123.231.212,2053,JP,Contabo GmbH
 8.221.143.218,587,JP,Alibaba Cloud Singapore Private Limited
-193.246.161.65,54310,JP,AKILE LTD
-43.133.10.236,33405,JP,6 COLLYER QUAY
-64.176.40.224,3533,JP,The Constant Company LLC
+8.216.121.234,51922,JP,Alibaba Cloud Singapore Private Limited
+45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
+121.85.55.59,19842,JP,OPTAGE Inc
+118.27.12.40,38443,JP,GMO Internet Group Inc
+8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO

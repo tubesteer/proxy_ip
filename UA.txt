@@ -1,4 +1,2 @@
-130.0.239.147,2053,UA,IROKO Networks Corporation
-195.28.182.73,2053,UA,Friendhosting LTD
 130.0.239.147,8443,UA,IROKO Networks Corporation
-193.110.163.10,58443,UA,Astelnet LLC
+130.0.239.147,2053,UA,IROKO Networks Corporation
