@@ -1,9 +1,35 @@
-185.18.222.208,2053,JP,Jurgita Jurgaitiene trading as LOCOTORPI
-185.184.223.47,443,JP,365 Group LLC
-109.123.231.212,2053,JP,Contabo GmbH
-8.221.143.218,587,JP,Alibaba Cloud Singapore Private Limited
-8.216.121.234,51922,JP,Alibaba Cloud Singapore Private Limited
-45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
-121.85.55.59,19842,JP,OPTAGE Inc
-118.27.12.40,38443,JP,GMO Internet Group Inc
-8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
+103.106.228.126,2053,JP,oneprovidercom  Tokyo Infrastructure
+18.183.158.211,443,JP,Amazon Data Services Japan
+217.142.236.93,443,JP,Oracle Svenska AB
+152.69.192.40,57005,JP,Oracle Corporation
+158.101.146.3,54516,JP,Oracle Public Cloud
+168.138.192.16,54584,JP,Oracle Public Cloud
+168.138.193.174,11959,JP,Oracle Public Cloud
+168.138.46.67,443,JP,Oracle Public Cloud
+168.138.46.115,43138,JP,Oracle Public Cloud
+172.105.233.112,18836,JP,Akamai Connected Cloud  Linode
+176.97.70.51,2053,JP,3nt solutions LLP
+158.101.157.75,57105,JP,Oracle Public Cloud
+158.101.152.6,2919,JP,Oracle Public Cloud
+45.76.198.248,443,JP,Vultr Holdings LLC
+141.147.183.49,29876,JP,Oracle Corporation
+212.52.0.61,1846,JP,Prinode AB
+138.2.10.217,27446,JP,Oracle Corporation
+64.176.39.147,16387,JP,The Constant Company LLC
+198.13.42.58,32954,JP,Vultr Holdings LLC
+139.162.127.55,18836,JP,Akamai Connected Cloud  Linode
+138.2.12.103,14453,JP,Cloudflare London LLC
+139.162.102.152,7002,JP,Akamai Connected Cloud  Linode
+158.101.154.245,47001,JP,Oracle Public Cloud
+168.138.201.35,36637,JP,Cloudflare London LLC
+45.77.25.6,48828,JP,Vultr Holdings LLC
+45.77.25.6,27854,JP,Vultr Holdings LLC
+168.138.197.147,12345,JP,Oracle Public Cloud
+140.83.37.134,46478,JP,imported inetnum object for OCPL1
+217.142.243.98,51321,JP,Oracle Corporation
+168.138.198.7,27560,JP,Oracle Public Cloud
+150.230.204.21,10243,JP,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+138.2.49.197,587,JP,Oracle Corporation
+64.110.101.90,55007,JP,Oracle Corporation
+141.98.197.101,11665,JP,xTom Japan Corporation
