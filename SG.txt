@@ -1,23 +1,11 @@
 77.221.133.147,443,SG,IHC network in Amsterdam NL Iron Hosting Centre Ltd London UK
-185.81.28.95,30503,SG,AKILE LTD
-38.181.70.7,16240,SG,Eons Data Communications Limited
-8.219.59.132,48964,SG,Alibaba Cloud Singapore Private Limited
-43.134.167.135,9950,SG,6 COLLYER QUAY
-8.222.159.134,12314,SG,Alibaba Cloud Singapore Private Limited
-8.222.159.134,12483,SG,Alibaba Cloud Singapore Private Limited
-13.250.131.37,443,SG,Amazon Data Services Singapore
-8.222.132.249,10036,SG,Alibaba Cloud Singapore Private Limited
-8.219.59.132,48130,SG,Alibaba Cloud Singapore Private Limited
-8.219.126.137,491,SG,Alibaba Cloud Singapore Private Limited
-45.76.179.81,443,SG,Vultr Holdings LLC
-129.150.35.29,587,SG,Oracle Corporation
-83.142.30.4,2096,SG,Zappie Host LLC
-138.2.81.243,45319,SG,Oracle Corporation
-138.2.107.107,443,SG,Oracle Corporation
 110.34.164.39,28758,SG,VPLS SIN1
-138.2.69.236,23334,SG,Oracle Corporation
-138.2.95.33,17465,SG,Oracle Corporation
-139.162.51.138,2053,SG,1391620016
-139.180.191.96,31001,SG,SGPVULTRCUST
 43.128.95.110,40029,SG,6 COLLYER QUAY
+43.134.167.135,9950,SG,6 COLLYER QUAY
 43.156.107.236,12131,SG,6 COLLYER QUAY
+8.219.126.137,491,SG,Alibaba Cloud Singapore Private Limited
+8.219.59.132,48964,SG,Alibaba Cloud Singapore Private Limited
+8.222.159.134,12483,SG,Alibaba Cloud Singapore Private Limited
+8.222.159.134,12314,SG,Alibaba Cloud Singapore Private Limited
+8.219.59.132,48130,SG,Alibaba Cloud Singapore Private Limited
+104.248.145.216,443,SG,DigitalOcean LLC
