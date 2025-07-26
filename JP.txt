@@ -1,6 +1,15 @@
+45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
+103.232.213.117,8080,JP,Kvmcloud Network Co Ltd
+108.160.139.154,8443,JP,Vultr Holdings LLC
+193.246.161.65,54310,JP,AKILE LTD
+18.183.158.211,443,JP,Amazon Data Services Japan
 85.208.110.52,8443,JP,WorkTitans BV
+8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
+8.216.121.234,51922,JP,Alibaba Cloud Singapore Private Limited
+8.221.143.218,587,JP,Alibaba Cloud Singapore Private Limited
+84.247.152.46,10045,JP,Contabo GmbH
+185.18.222.208,2053,JP,Jurgita Jurgaitiene trading as LOCOTORPI
+113.37.149.36,12553,JP,ARTERIA Networks Corporation
 141.147.152.229,23333,JP,Oracle Corporation
-150.230.204.21,10243,JP,Oracle Corporation
-141.98.197.101,11665,JP,xTom Japan Corporation
-64.110.101.90,55007,JP,Oracle Corporation
+43.133.10.236,33405,JP,6 COLLYER QUAY
 138.2.49.197,587,JP,Oracle Corporation
