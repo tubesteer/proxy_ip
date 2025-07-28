@@ -1,7 +1,6 @@
 114.34.202.224,10004,TW,Chunghwa Telecom CoLtd
-210.61.97.241,81,TW,Chunghwa Telecom CoLtd
-182.155.79.69,12369,TW,Taiwan
-116.241.116.184,30006,TW,TBC
+141.11.86.94,18333,TW,AKILE LTD
+182.155.79.69,11250,TW,Taiwan
+220.135.202.250,81,TW,Chunghwa Telecom CoLtd
 118.163.37.32,81,TW,Chunghwa Telecom CoLtd
-116.241.116.184,20242,TW,TBC
-103.106.230.186,81,TW,Oneprovidercom  Taipei Infrastructure
+61.63.235.53,25957,TW,Savecom International Inc

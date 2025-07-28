@@ -1,35 +1,71 @@
-45.76.179.81,443,SG,Vultr Holdings LLC
+77.221.133.147,443,SG,IHC network in Amsterdam NL Iron Hosting Centre Ltd London UK
+38.181.70.7,16240,SG,Eons Data Communications Limited
+43.156.107.236,12131,SG,6 COLLYER QUAY
+8.222.159.134,12314,SG,Alibaba Cloud Singapore Private Limited
+43.134.167.135,9950,SG,6 COLLYER QUAY
+43.128.95.110,40029,SG,6 COLLYER QUAY
+8.219.59.132,48964,SG,Alibaba Cloud Singapore Private Limited
+110.34.164.39,28758,SG,VPLS SIN1
+146.235.18.248,45137,SG,Oracle Corporation
+129.150.35.29,587,SG,Oracle Corporation
+13.250.131.37,443,SG,Amazon Data Services Singapore
+138.2.107.107,443,SG,Oracle Corporation
+138.2.69.236,23334,SG,Oracle Corporation
+138.2.81.243,45319,SG,Oracle Corporation
+138.2.95.33,17465,SG,Oracle Corporation
+139.162.51.138,2053,SG,1391620016
+139.180.191.96,31001,SG,SGPVULTRCUST
+139.162.51.138,8443,SG,1391620016
+47.236.119.190,51342,SG,Alibaba Cloud LLC
+47.130.35.116,8888,SG,Amazon Data Services Singapore
+47.245.95.160,1443,SG,Alibaba Cloud LLC
+143.198.196.196,2053,SG,DigitalOcean LLC
+143.198.196.196,8443,SG,DigitalOcean LLC
+194.36.179.5,2053,SG,FIRST SERVER LIMITED
+91.192.81.154,2053,SG,Melbikomas UAB
+15.235.199.103,2053,SG,OVH Singapore PTE LTD
+15.235.199.103,8443,SG,OVH Singapore PTE LTD
+206.206.77.53,443,SG,REGXA LLC
+51.79.134.207,443,SG,OVH SAS
+47.245.85.72,443,SG,Alibaba Cloud LLC
+8.222.237.72,443,SG,Alibaba Cloud Singapore Private Limited
+143.198.92.220,443,SG,DigitalOcean LLC
+8.219.170.224,443,SG,Alibaba Cloud Singapore Private Limited
+5.223.49.4,2053,SG,Hetzner Online GmbH
+8.219.155.21,443,SG,Alibaba Cloud Singapore Private Limited
 213.35.108.135,12596,SG,Oracle Svenska AB
 213.35.100.31,47112,SG,Oracle Svenska AB
-3.1.116.161,8443,SG,Amazon Data Services Singapore
 213.35.107.73,443,SG,Oracle Svenska AB
+3.1.116.161,8443,SG,Amazon Data Services Singapore
 3.1.116.161,2053,SG,Amazon Data Services Singapore
 146.235.19.79,28983,SG,Oracle Corporation
-43.156.181.203,443,SG,16 COLLYER QUAY
 143.42.66.91,443,SG,Viewqwest Pte Ltd
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
 164.52.2.98,443,SG,UCULSG
-43.156.116.194,443,SG,6 COLLYER QUAY
-164.52.2.100,443,SG,UCULSG
+43.156.181.203,443,SG,16 COLLYER QUAY
+129.150.49.58,18650,SG,Oracle Corporation
 164.52.2.99,443,SG,UCULSG
 104.248.145.216,443,SG,DigitalOcean LLC
-168.138.171.70,23280,SG,Oracle Public Cloud
 138.2.89.64,32962,SG,Oracle Corporation
-13.250.14.76,443,SG,Amazon Data Services Singapore
-5.34.176.119,81,SG,Green Floid LLC
-185.114.78.230,443,SG,Aryaka Networks India Pvt Ltd
-194.36.179.17,8443,SG,FIRST SERVER LIMITED
-31.192.238.71,2053,SG,PDK LLC
+168.138.165.174,443,SG,Oracle Public Cloud
+164.52.2.100,443,SG,UCULSG
 31.192.238.71,8443,SG,PDK LLC
-161.117.249.114,2025,SG,1 Raffles Place  5900 One Raffles Place
-129.150.49.58,18650,SG,Oracle Corporation
+13.250.14.76,443,SG,Amazon Data Services Singapore
+31.192.238.71,2053,SG,PDK LLC
+43.156.116.194,443,SG,6 COLLYER QUAY
 138.2.95.61,1111,SG,Oracle Corporation
-129.150.36.188,53435,SG,Oracle Corporation
-138.2.77.179,30018,SG,Oracle Corporation
-168.138.170.211,53702,SG,Oracle Public Cloud
-129.150.58.86,57621,SG,Oracle Corporation
+161.117.249.114,2025,SG,1 Raffles Place  5900 One Raffles Place
+185.114.78.230,443,SG,Aryaka Networks India Pvt Ltd
+5.34.176.119,81,SG,Green Floid LLC
 54.169.229.188,443,SG,Amazoncom Inc
-83.142.30.5,2096,SG,Zappie Host LLC
-45.32.100.46,13802,SG,Vultr Holdings LLC
-168.138.184.172,443,SG,Oracle Public Cloud
+139.180.215.77,57878,SG,SGPVULTRCUST
+178.128.80.43,443,SG,DigitalOcean LLC
+168.138.170.211,53702,SG,Oracle Public Cloud
+194.127.193.240,50791,SG,Greencloud LLC
+168.138.171.70,23280,SG,Oracle Public Cloud
+8.219.1.169,443,SG,Alibaba Cloud Singapore Private Limited
 8.222.220.81,25435,SG,Alibaba Cloud Singapore Private Limited
 8.219.58.164,57373,SG,Alibaba Cloud Singapore Private Limited
+83.142.30.5,2096,SG,Zappie Host LLC
+45.76.183.217,49292,SG,Vultr Holdings LLC
