@@ -1,2 +1,4 @@
 89.110.108.189,8443,NL,Amsterdam Netherlands
+89.110.69.67,8443,NL,Amsterdam Netherlands
+89.110.80.120,443,NL,Amsterdam Netherlands
 85.234.107.140,2053,NL,JSC TIMEWEB

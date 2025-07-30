@@ -1,1 +1,4 @@
-152.70.75.80,15805,IN,Oracle Corporation
+65.20.74.136,2053,IN,Vultr Holdings LLC
+65.20.82.22,443,IN,Vultr Holdings LLC
+65.20.76.125,8443,IN,The Constant Company LLC
+172.105.62.71,2443,IN,Linode

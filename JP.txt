@@ -1,1 +1,20 @@
+141.147.185.15,443,JP,Oracle Corporation
+140.83.57.86,54322,JP,imported inetnum object for OCPL1
+141.147.147.180,443,JP,Oracle Corporation
+141.147.185.63,443,JP,Oracle Corporation
+47.245.59.226,59215,JP,Alibaba Cloud  JP
+47.79.33.117,11101,JP,Alibaba Cloud LLC
+47.79.33.117,52311,JP,Alibaba Cloud LLC
+47.79.90.37,49153,JP,Alibaba Cloud LLC
+49.212.133.94,443,JP,SAKURA Internet Inc
+91.194.160.45,8443,JP,WorkTitans BV
+91.194.160.121,2053,JP,WorkTitans BV
+141.147.161.249,51037,JP,Oracle Corporation
+168.138.192.16,54584,JP,Oracle Public Cloud
 168.138.193.174,11959,JP,Oracle Public Cloud
+168.138.46.67,443,JP,Oracle Public Cloud
+168.138.46.115,43138,JP,Oracle Public Cloud
+176.97.70.51,2053,JP,3nt solutions LLP
+158.101.157.75,57105,JP,Oracle Public Cloud
+158.101.152.6,2919,JP,Oracle Public Cloud
+45.76.198.248,443,JP,Vultr Holdings LLC
