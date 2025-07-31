@@ -1,4 +1,7 @@
-94.241.174.229,443,IR,JSC TIMEWEB
+185.206.93.129,4343,IR,AbrArvan IaaS
 178.253.23.199,8443,IR,TimeWeb
+94.241.174.229,443,IR,JSC TIMEWEB
 85.198.11.18,8899,IR,Hetzner Online GmbH
 31.214.175.108,8443,IR,Turunc smart bilgisayar Teknoloji ve dis ticaret limited
+87.107.54.78,4343,IR,ParsShabakehAzarakhsh
+94.182.209.5,30000,IR,Aria Shatel PJSC
