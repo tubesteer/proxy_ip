@@ -1,21 +1,22 @@
 65.20.74.136,2053,IN,Vultr Holdings LLC
 65.20.76.125,8443,IN,Vultr Holdings LLC
-172.105.62.71,2443,IN,Linode
-3.111.217.79,8443,IN,Amazon Data Services India
-64.227.174.213,8443,IN,DigitalOcean LLC
-146.56.48.138,23010,IN,Oracle Corporation  Global software solutions  California  USA
 65.20.82.22,443,IN,Vultr Holdings LLC
-172.232.112.240,587,IN,Linode
-3.109.185.221,443,IN,Amazon Data Services India
+172.105.62.71,2443,IN,Linode
+166.0.244.206,8443,IN,Internet Utilities NA LLC
+64.227.174.213,8443,IN,DigitalOcean LLC
+3.111.217.79,8443,IN,Amazon Data Services India
 64.227.174.213,2053,IN,DigitalOcean LLC
-128.199.18.189,2053,IN,DigitalOcean LLC
 134.195.137.107,22473,IN,ReadyDedis LLC
-148.113.43.228,2053,IN,OVHTECH RD INDIA PRIVATE LIMITED
-148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
-152.70.76.104,46000,IN,Oracle Corporation
 20.235.105.146,443,IN,Microsoft Corporation
+148.113.43.228,2053,IN,OVHTECH RD INDIA PRIVATE LIMITED
+3.109.185.221,443,IN,Amazon Data Services India
+148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
 115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
+146.56.48.138,23010,IN,Oracle Corporation  Global software solutions  California  USA
+128.199.18.189,2053,IN,DigitalOcean LLC
+152.70.76.104,46000,IN,Oracle Corporation
 152.70.75.80,15805,IN,Oracle Corporation
-147.75.230.160,443,IN,Aryaka Networks India Pvt Ltd
 147.75.230.207,443,IN,Aryaka Networks Inc
+147.75.230.160,443,IN,Aryaka Networks India Pvt Ltd
+172.232.112.240,587,IN,Linode
 147.75.230.33,443,IN,Aryaka Networks Inc
