@@ -1,1 +1,1 @@
-185.49.165.167,8443,GE,Odrex Software LLC
+185.143.179.94,443,GE,LLC Ordunet
