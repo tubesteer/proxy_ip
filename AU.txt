@@ -1,33 +1,31 @@
-170.64.192.191,31257,AU,DigitalOcean LLC
-125.7.24.251,443,AU,Macquarie Telecom
-51.161.134.202,2053,AU,OVH Australia PTY LTD
-45.77.236.204,443,AU,Vultr Holdings LLC
-170.64.227.71,443,AU,DigitalOcean LLC
-209.38.16.180,4002,AU,DigitalOcean LLC
-170.64.235.163,8443,AU,DigitalOcean LLC
-170.64.187.193,443,AU,DigitalOcean LLC
-134.199.155.93,2087,AU,DigitalOcean LLC
-20.167.42.198,8443,AU,Microsoft Corporation
-20.167.42.198,2053,AU,Microsoft Corporation
 192.9.190.80,23862,AU,Oracle Corporation
-134.199.156.145,2053,AU,DigitalOcean LLC
-152.67.101.72,23010,AU,Oracle Public Cloud
-152.69.174.99,25248,AU,Oracle Corporation
+45.77.236.204,443,AU,Vultr Holdings LLC
+20.167.42.198,2053,AU,Microsoft Corporation
+170.64.187.193,443,AU,DigitalOcean LLC
+20.167.42.198,8443,AU,Microsoft Corporation
+170.64.192.191,31257,AU,DigitalOcean LLC
+170.64.227.71,443,AU,DigitalOcean LLC
 3.26.228.153,443,AU,Amazon Corporate Services Pty Ltd
-51.161.134.202,8443,AU,OVH Australia PTY LTD
-192.9.180.162,443,AU,Oracle Corporation
+134.199.155.93,2087,AU,DigitalOcean LLC
+170.64.234.61,443,AU,DigitalOcean LLC
+152.67.101.72,23010,AU,Oracle Public Cloud
+170.64.235.163,8443,AU,DigitalOcean LLC
+134.199.156.145,2053,AU,DigitalOcean LLC
+51.161.134.202,2053,AU,OVH Australia PTY LTD
 192.9.183.128,45673,AU,Oracle Corporation
+16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
 54.206.247.171,443,AU,Amazoncom Inc
-152.67.125.161,443,AU,Oracle Public Cloud
+192.9.180.162,443,AU,Oracle Corporation
+51.161.134.202,8443,AU,OVH Australia PTY LTD
+152.69.174.99,25248,AU,Oracle Corporation
 152.67.125.174,443,AU,Oracle Public Cloud
-152.67.99.162,443,AU,Oracle Public Cloud
+152.67.125.161,443,AU,Oracle Public Cloud
 192.9.184.12,1010,AU,Oracle Corporation
-152.67.102.161,19286,AU,Oracle Public Cloud
-152.69.189.39,2053,AU,Oracle Corporation
+192.9.184.12,1013,AU,Oracle Corporation
+168.138.13.201,443,AU,Oracle Public Cloud
 152.69.189.39,8443,AU,Oracle Corporation
 130.162.193.183,15401,AU,Oracle Public Cloud
-16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
-192.9.184.12,1013,AU,Oracle Corporation
+152.69.189.39,2053,AU,Oracle Corporation
+125.7.24.251,443,AU,Macquarie Telecom
 170.64.152.77,7443,AU,DigitalOcean LLC
-170.64.234.61,443,AU,DigitalOcean LLC
-168.138.13.201,443,AU,Oracle Public Cloud
+152.67.99.162,443,AU,Oracle Public Cloud

@@ -1,2 +1,2 @@
-103.81.172.34,443,BD,ADN Telecom Ltd
 103.115.253.253,443,BD,Star Internet Service
+103.81.172.34,443,BD,ADN Telecom Ltd
