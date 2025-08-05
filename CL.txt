@@ -1,2 +1,2 @@
-129.151.104.245,8443,CL,Oracle Corporation
 68.211.120.92,443,CL,Microsoft Corporation
+129.151.104.245,8443,CL,Oracle Corporation
