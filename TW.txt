@@ -1,24 +1,23 @@
-141.11.86.94,18333,TW,AKILE LTD
-141.11.86.94,45888,TW,AKILE LTD
-167.253.153.247,443,TW,ST Network LLC
-149.104.120.254,443,TW,Kaopu Cloud HK Limited
-34.81.185.105,443,TW,Google LLC
-1.162.131.104,443,TW,Chunghwa Telecom CoLtd
-45.207.158.29,2083,TW,Akile LTD
-210.61.97.241,81,TW,Chunghwa Telecom CoLtd
-34.81.177.170,443,TW,Google LLC
 118.163.37.32,81,TW,Chunghwa Telecom CoLtd
-182.155.79.69,12369,TW,Taiwan
-1.161.54.113,443,TW,Chunghwa Telecom CoLtd
-114.42.205.164,443,TW,Chunghwa Telecom CoLtd
-125.227.219.97,443,TW,Chunghwa Telecom CoLtd
-188.253.6.53,25884,TW,Akari Networks Taipei
-213.210.5.61,8443,TW,ByteVirt LLC
-103.106.230.186,81,TW,Oneprovidercom  Taipei Infrastructure
-122.117.174.80,443,TW,Chunghwa Telecom CoLtd
-220.130.80.171,20655,TW,Chunghwa Telecom CoLtd
 182.155.79.69,11250,TW,Taiwan
+210.61.97.241,81,TW,Chunghwa Telecom CoLtd
 220.132.77.244,58888,TW,Chunghwa Telecom CoLtd
 61.63.235.53,25957,TW,Savecom International Inc
+149.104.120.254,443,TW,Kaopu Cloud HK Limited
+45.207.158.29,2083,TW,Akile LTD
+167.253.153.247,443,TW,ST Network LLC
+34.81.177.170,443,TW,Google LLC
+1.162.131.104,443,TW,Chunghwa Telecom CoLtd
+182.155.79.69,12369,TW,Taiwan
+103.106.230.186,81,TW,Oneprovidercom  Taipei Infrastructure
+213.210.5.61,8443,TW,ByteVirt LLC
+34.81.185.105,443,TW,Google LLC
+188.253.6.53,25884,TW,Akari Networks Taipei
 114.34.202.224,10004,TW,Chunghwa Telecom CoLtd
+220.130.80.171,20655,TW,Chunghwa Telecom CoLtd
+1.161.54.113,443,TW,Chunghwa Telecom CoLtd
 220.135.202.250,81,TW,Chunghwa Telecom CoLtd
+141.11.86.94,18333,TW,AKILE LTD
+141.11.86.94,45888,TW,AKILE LTD
+125.227.219.97,443,TW,Chunghwa Telecom CoLtd
+122.117.174.80,443,TW,Chunghwa Telecom CoLtd
