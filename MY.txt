@@ -1,13 +1,13 @@
-38.60.193.247,13300,MY,Kaopu Cloud HK Limited
-47.254.235.252,443,MY,Alibaba Cloud  MY
 20.17.104.31,443,MY,Microsoft Corporation
-47.250.139.59,443,MY,Alibaba Cloud LLC
-47.250.37.87,443,MY,Alibaba Cloud  MY
-47.250.139.249,443,MY,Alibaba Cloud LLC
-47.254.255.125,443,MY,Alibaba Cloud  MY
+38.60.193.247,13300,MY,Kaopu Cloud HK Limited
 20.17.107.137,443,MY,Microsoft Corporation
-47.250.132.147,443,MY,Alibaba Cloud LLC
-23.27.53.140,443,MY,Evoxtcom
 47.250.59.132,443,MY,Alibaba Cloud  MY
 47.254.206.121,443,MY,Alibaba Cloud  MY
+47.250.139.59,443,MY,Alibaba Cloud LLC
+47.250.37.87,443,MY,Alibaba Cloud  MY
+47.250.132.147,443,MY,Alibaba Cloud LLC
+47.250.139.249,443,MY,Alibaba Cloud LLC
+23.27.53.140,443,MY,Evoxtcom
 58.27.117.24,443,MY,TMNET
+47.254.235.252,443,MY,Alibaba Cloud  MY
+47.254.255.125,443,MY,Alibaba Cloud  MY
