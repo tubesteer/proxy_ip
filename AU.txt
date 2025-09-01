@@ -1,33 +1,33 @@
-170.64.240.100,443,AU,Digital Ocean Inc
-170.64.152.77,7443,AU,DigitalOcean LLC
-20.167.42.198,8443,AU,Microsoft Corporation
-172.105.174.237,587,AU,Akamai Connected Cloud  Linode
 125.7.24.251,443,AU,Macquarie Telecom
-45.77.236.204,443,AU,Vultr Holdings LLC
-152.69.174.99,25248,AU,Oracle Corporation
+16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
 20.167.42.198,2053,AU,Microsoft Corporation
-160.22.78.191,443,AU,Onidel Pty Ltd
-175.45.183.67,443,AU,Mammoth Media Pty Ltd
-170.64.227.71,443,AU,DigitalOcean LLC
-170.64.234.61,443,AU,DigitalOcean LLC
-192.9.190.80,23862,AU,Oracle Corporation
-134.199.156.145,2053,AU,DigitalOcean LLC
+45.77.236.204,443,AU,Vultr Holdings LLC
 54.206.247.171,443,AU,Amazoncom Inc
-51.161.134.202,8443,AU,OVH Australia PTY LTD
-192.9.183.128,45673,AU,Oracle Corporation
+170.64.234.61,443,AU,DigitalOcean LLC
+175.45.183.67,443,AU,Mammoth Media Pty Ltd
+170.64.152.77,7443,AU,DigitalOcean LLC
+170.64.240.100,443,AU,Digital Ocean Inc
+170.64.146.66,443,AU,DigitalOcean LLC
+112.213.34.242,443,AU,Mammoth Media Pty Ltd
+152.69.174.99,25248,AU,Oracle Corporation
+152.67.101.72,23010,AU,Oracle Public Cloud
 152.67.125.174,443,AU,Oracle Public Cloud
-192.9.180.162,443,AU,Oracle Corporation
-152.67.125.161,443,AU,Oracle Public Cloud
 192.9.184.12,1013,AU,Oracle Corporation
+152.67.125.161,443,AU,Oracle Public Cloud
+192.9.184.12,1010,AU,Oracle Corporation
+192.9.183.128,45673,AU,Oracle Corporation
+51.161.134.202,8443,AU,OVH Australia PTY LTD
+51.161.134.202,2053,AU,OVH Australia PTY LTD
+192.9.180.162,443,AU,Oracle Corporation
 152.69.189.39,2053,AU,Oracle Corporation
 152.69.189.39,8443,AU,Oracle Corporation
-192.9.184.12,1010,AU,Oracle Corporation
-116.255.18.117,443,AU,SUPERLOOP AUSTRALIA PTY LTD
-168.138.13.201,443,AU,Oracle Public Cloud
-51.161.134.202,2053,AU,OVH Australia PTY LTD
 130.162.193.183,15401,AU,Oracle Public Cloud
-170.64.146.66,443,AU,DigitalOcean LLC
-170.64.146.66,8443,AU,DigitalOcean LLC
-152.67.101.72,23010,AU,Oracle Public Cloud
+168.138.13.201,443,AU,Oracle Public Cloud
+158.179.27.211,443,AU,oracle
+116.255.18.117,443,AU,SUPERLOOP AUSTRALIA PTY LTD
+160.22.78.191,443,AU,Onidel Pty Ltd
+20.167.42.198,8443,AU,Microsoft Corporation
+170.64.227.71,443,AU,DigitalOcean LLC
 152.67.99.162,443,AU,Oracle Public Cloud
-16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
+170.64.146.66,8443,AU,DigitalOcean LLC
+192.9.190.80,23862,AU,Oracle Corporation
