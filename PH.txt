@@ -1,6 +1,6 @@
-209.146.25.162,443,PH,IPS Inc
 61.245.11.69,2053,PH,RnR IX NETWORK
-122.2.198.74,443,PH,IPG
-8.220.134.136,443,PH,Alibaba Cloud Singapore Private Limited
+209.146.25.162,443,PH,IPS Inc
 38.54.81.111,443,PH,Kaopu Cloud HK Limited
+122.2.198.74,443,PH,IPG
 38.54.36.7,443,PH,Kaopu Cloud HK Limited
+8.220.134.136,443,PH,Alibaba Cloud Singapore Private Limited
