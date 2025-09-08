@@ -1,6 +1,6 @@
+45.129.186.120,443,BY,AdminVPS OOO
+93.85.88.60,8443,BY,Republican Unitary Telecommunication Enterprise Beltelecom
+185.66.71.149,2053,BY,LLC Supportby
 185.251.38.232,443,BY,Yedinyye Resheniya LLC
 45.129.186.233,443,BY,AdminVPS OOO
-45.129.186.120,443,BY,AdminVPS OOO
-185.66.71.149,2053,BY,LLC Supportby
 93.85.88.60,2053,BY,Republican Unitary Telecommunication Enterprise Beltelecom
-93.85.88.60,8443,BY,Republican Unitary Telecommunication Enterprise Beltelecom
