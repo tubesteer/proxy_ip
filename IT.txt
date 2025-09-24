@@ -1,33 +1,33 @@
-158.180.233.125,55137,IT,Oracle Corporation
-185.247.184.186,2053,IT,GLOBAL INTERNET SOLUTIONS LLC
-91.201.67.6,443,IT,Melbikomas UAB
 185.47.172.172,8443,IT,OMC COMPUTERS  COMMUNICATIONS LTD
+185.247.184.186,2053,IT,GLOBAL INTERNET SOLUTIONS LLC
+185.247.184.186,8443,IT,GLOBAL INTERNET SOLUTIONS LLC
+158.180.233.125,55137,IT,Oracle Corporation
 147.45.51.167,8443,IT,GLOBAL CONNECTIVITY SOLUTIONS LLP
-77.81.234.27,8443,IT,Aruba SpA  Cloud Services Farm2
-94.177.199.119,8443,IT,Aruba SpA  Cloud Services Farm2
-172.232.206.9,443,IT,Linode
-212.237.30.220,443,IT,Aruba SpA  Cloud Services Farm2
+129.152.2.127,1488,IT,Oracle Corporation
+80.211.48.113,443,IT,Aruba SpA  Cloud Services DC1
+38.180.22.20,1001,IT,3NT SOLUTIONS LLP
+87.120.237.36,81,IT,GCore Labs SA
+94.177.199.119,2053,IT,Aruba SpA  Cloud Services Farm2
+80.211.238.61,443,IT,Aruba SpA  Cloud Services Farm2
 4.232.64.201,443,IT,Microsoft Corporation
+212.237.30.220,443,IT,Aruba SpA  Cloud Services Farm2
+103.241.66.123,443,IT,OMC COMPUTERS  COMMUNICATIONS LTD
+176.126.83.146,8443,IT,Oneprovidercom  Florence Infrastructure
+80.211.231.169,443,IT,Aruba SpA  Cloud Services Farm2
+188.213.168.52,443,IT,Aruba SpA  Cloud Services Farm2
+94.177.199.45,443,IT,Aruba SpA  Cloud Services Farm2
 195.231.81.101,443,IT,Aruba SpA  Cloud Services IT3
 5.249.146.98,443,IT,Aruba SpA  Cloud Services Farm2
-38.180.22.20,1001,IT,3NT SOLUTIONS LLP
-103.241.66.123,443,IT,OMC COMPUTERS  COMMUNICATIONS LTD
-188.213.168.52,443,IT,Aruba SpA  Cloud Services Farm2
-94.177.199.119,2053,IT,Aruba SpA  Cloud Services Farm2
-80.211.48.113,443,IT,Aruba SpA  Cloud Services DC1
-80.211.231.169,443,IT,Aruba SpA  Cloud Services Farm2
-77.81.234.27,2053,IT,Aruba SpA  Cloud Services Farm2
-80.211.238.61,443,IT,Aruba SpA  Cloud Services Farm2
-87.120.237.36,81,IT,GCore Labs SA
-176.126.83.146,8443,IT,Oneprovidercom  Florence Infrastructure
-129.152.2.127,1488,IT,Oracle Corporation
+176.126.83.146,2053,IT,Oneprovidercom  Florence Infrastructure
+77.81.234.27,8443,IT,Aruba SpA  Cloud Services Farm2
+91.201.67.6,443,IT,Melbikomas UAB
+94.177.199.119,8443,IT,Aruba SpA  Cloud Services Farm2
+194.165.59.20,443,IT,WorkTitans BV
+80.211.170.53,443,IT,Aruba SpA  Cloud Services DC1
 5.253.43.216,443,IT,WorkTitans BV
 213.218.212.24,443,IT,GCI Network Solutions Limited
-185.247.184.186,8443,IT,GLOBAL INTERNET SOLUTIONS LLC
-194.165.59.20,443,IT,WorkTitans BV
+77.81.234.27,2053,IT,Aruba SpA  Cloud Services Farm2
+172.232.206.9,443,IT,Linode
 195.231.38.220,443,IT,Aruba SpA  Cloud Services IT3
-80.211.170.53,443,IT,Aruba SpA  Cloud Services DC1
-176.126.83.146,2053,IT,Oneprovidercom  Florence Infrastructure
-213.218.212.102,2053,IT,GCI Network Solutions Limited
 82.118.16.109,443,IT,GREEN FLOID LLC
-94.177.199.45,443,IT,Aruba SpA  Cloud Services Farm2
+213.218.212.102,2053,IT,GCI Network Solutions Limited
