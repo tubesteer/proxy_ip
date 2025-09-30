@@ -1,8 +1,9 @@
-103.193.11.251,443,BD,Chandgaon Net Communication
-103.115.253.253,443,BD,Star Internet Service
-103.48.16.37,443,BD,Bangladesh Computer Council
 103.159.170.124,443,BD,MD AKASH AS ONLINE
 103.86.109.38,443,BD,Expert Online
-103.118.153.162,443,BD,Next Gen Online
-45.115.14.249,443,BD,ITEL Limited
+103.117.192.10,443,BD,DigiCon Telecommunication Ltd
 103.81.172.34,443,BD,ADN Telecom Ltd
+103.48.16.37,443,BD,Bangladesh Computer Council
+45.115.14.249,443,BD,ITEL Limited
+103.115.253.253,443,BD,Star Internet Service
+103.118.153.162,443,BD,Next Gen Online
+103.193.11.251,443,BD,Chandgaon Net Communication
