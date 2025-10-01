@@ -1,4 +1,6 @@
+107.189.12.152,443,LU,FranTech Solutions
 45.80.209.25,81,LU,GCore Labs Customer assignment
+104.244.79.140,2053,LU,BuyVM
 107.189.13.168,2053,LU,FranTech Solutions
+104.244.73.212,443,LU,BuyVM
 45.12.144.89,443,LU,WorkTitans BV
-104.244.73.212,443,LU,Cloudflare London LLC
