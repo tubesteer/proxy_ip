@@ -3,4 +3,3 @@
 209.146.25.162,443,PH,IPS Inc
 38.54.81.111,443,PH,Kaopu Cloud HK Limited
 122.2.198.74,443,PH,IPG
-38.54.36.7,443,PH,Kaopu Cloud HK Limited
