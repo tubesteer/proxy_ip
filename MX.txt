@@ -1,3 +1,2 @@
 201.149.15.14,21585,MX,Megacable Comunicaciones de Mexico SA de CV
-216.238.81.141,443,MX,The Constant Company LLC
 140.84.178.238,23010,MX,Oracle Corporation
