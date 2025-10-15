@@ -1,2 +1,1 @@
-46.101.95.9,2087,GB,DigitalOcean LLC
 109.107.159.197,8443,GB,GCore Labs SA
