@@ -1,1 +1,1 @@
-190.116.26.106,8443,PE,America Movil Peru SAC
+190.119.132.61,443,PE,America Movil Peru SAC

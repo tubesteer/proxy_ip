@@ -1,1 +1,2 @@
-45.15.170.202,443,AL,WorkTitans BV
+64.188.104.12,443,AL,Senko Digital Ltd
+103.167.234.120,443,AL,AlbHost SHPK
