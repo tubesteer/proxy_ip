@@ -1,18 +1,17 @@
-149.104.120.254,443,TW,Kaopu Cloud HK Limited
-114.34.202.224,10004,TW,Chunghwa Telecom CoLtd
-45.207.158.29,2053,TW,Akile LTD
-60.249.114.181,10244,TW,Chunghwa Telecom CoLtd
 188.253.117.154,443,TW,Akari Networks Taipei
-213.210.4.49,443,TW,ByteVirt LLC
-45.207.158.29,2083,TW,Akile LTD
-123.253.111.136,443,TW,Tokyo
-60.249.114.181,11285,TW,Chunghwa Telecom CoLtd
-210.61.97.241,81,TW,Chunghwa Telecom CoLtd
-60.249.114.181,21574,TW,Chunghwa Telecom CoLtd
-60.249.114.181,26398,TW,Chunghwa Telecom CoLtd
-60.249.114.181,16022,TW,Chunghwa Telecom CoLtd
-60.249.114.181,32003,TW,Chunghwa Telecom CoLtd
 45.207.158.29,8443,TW,Akile LTD
-122.117.174.80,443,TW,Chunghwa Telecom CoLtd
-60.249.114.181,12281,TW,Chunghwa Telecom CoLtd
+213.210.4.49,443,TW,ByteVirt LLC
 103.137.63.205,31564,TW,Pittqiao Network Information CoLtd
+114.34.202.224,10004,TW,Chunghwa Telecom CoLtd
+45.207.158.29,2083,TW,Akile LTD
+210.61.97.241,81,TW,Chunghwa Telecom CoLtd
+149.104.120.254,443,TW,Kaopu Cloud HK Limited
+122.117.174.80,443,TW,Chunghwa Telecom CoLtd
+123.253.111.136,443,TW,Tokyo
+45.207.158.29,2053,TW,Akile LTD
+60.249.114.181,12281,TW,Chunghwa Telecom CoLtd
+60.249.114.181,16022,TW,Chunghwa Telecom CoLtd
+60.249.114.181,26398,TW,Chunghwa Telecom CoLtd
+60.249.114.181,10244,TW,Chunghwa Telecom CoLtd
+60.249.114.181,32003,TW,Chunghwa Telecom CoLtd
+60.249.114.181,21574,TW,Chunghwa Telecom CoLtd
