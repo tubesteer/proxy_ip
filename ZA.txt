@@ -1,2 +1,1 @@
-102.210.243.7,443,ZA,Light Bridge Internet Pty Ltd
 102.130.120.40,443,ZA,Light Bridge Internet Pty Ltd
