@@ -1,14 +1,14 @@
-47.250.139.249,443,MY,Alibaba Cloud LLC
-58.27.117.24,443,MY,TMNET
-47.254.255.125,443,MY,Alibaba Cloud  MY
-163.61.102.13,443,MY,Terabix Technologies Sdn Bhd
+38.60.193.247,13300,MY,Kaopu Cloud HK Limited
 47.254.235.252,443,MY,Alibaba Cloud  MY
 47.254.206.121,443,MY,Alibaba Cloud  MY
 47.250.59.132,443,MY,Alibaba Cloud  MY
-47.250.37.87,443,MY,Alibaba Cloud  MY
+47.254.255.125,443,MY,Alibaba Cloud  MY
 47.250.139.59,443,MY,Alibaba Cloud LLC
+47.250.37.87,443,MY,Alibaba Cloud  MY
 47.250.132.147,443,MY,Alibaba Cloud LLC
 155.254.60.225,443,MY,Evoxt Enterprise
+47.250.139.249,443,MY,Alibaba Cloud LLC
+163.61.102.13,443,MY,Terabix Technologies Sdn Bhd
 45.89.107.118,443,MY,WorkTitans BV
 45.159.51.121,32199,MY,Kaopu Cloud HK Limited
-38.60.193.247,13300,MY,Kaopu Cloud HK Limited
+58.27.117.24,443,MY,TMNET
