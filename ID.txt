@@ -1,4 +1,4 @@
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
 43.218.77.16,443,ID,Amazoncom Inc
 43.218.77.16,1443,ID,Amazoncom Inc
-103.6.207.108,8080,ID,PT Pusat Media Indonesia
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
