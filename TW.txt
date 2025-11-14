@@ -1,9 +1,9 @@
+114.34.202.224,10004,TW,HiNet Taiwan
 213.210.4.49,443,TW,ByteVirt LLC
 188.253.117.154,443,TW,Akari Networks Taipei
 45.207.158.29,2053,TW,Akile LTD
-45.207.158.29,8443,TW,Akile LTD
-149.104.120.254,443,TW,Kaopu Cloud HK Limited
-114.34.202.224,10004,TW,Chunghwa Telecom CoLtd
-122.117.174.80,443,TW,Chunghwa Telecom CoLtd
 210.61.97.241,81,TW,Chunghwa Telecom CoLtd
+149.104.120.254,443,TW,Kaopu Cloud HK Limited
+122.117.174.80,443,TW,Chunghwa Telecom CoLtd
+45.207.158.29,8443,TW,Akile LTD
 45.207.158.29,2083,TW,Akile LTD
