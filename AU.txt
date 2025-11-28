@@ -1,19 +1,17 @@
-20.167.42.198,8443,AU,Microsoft Corporation
-125.7.24.251,443,AU,Macquarie Telecom
-45.77.236.204,443,AU,Vultr Holdings LLC
 192.9.190.80,23862,AU,Oracle Corporation
+45.77.236.204,443,AU,Vultr Holdings LLC
+125.7.24.251,443,AU,Macquarie Telecom
+20.167.42.198,8443,AU,Microsoft Corporation
 152.69.174.99,25248,AU,Oracle Corporation
-152.67.125.174,443,AU,Oracle Public Cloud
-152.67.99.162,443,AU,Oracle Public Cloud
-152.67.125.161,443,AU,Oracle Public Cloud
 152.67.101.72,23010,AU,Oracle Public Cloud
+152.67.99.162,443,AU,Oracle Public Cloud
 170.64.152.77,7443,AU,DigitalOcean LLC
-20.167.42.198,2053,AU,Microsoft Corporation
+152.67.125.161,443,AU,Oracle Public Cloud
 194.195.252.133,443,AU,Akamai Connected Cloud  Linode
-207.148.80.190,443,AU,The Constant Company LLC
-16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
+152.67.125.174,443,AU,Oracle Public Cloud
+20.167.42.198,2053,AU,Microsoft Corporation
 192.9.183.128,45673,AU,Oracle Corporation
+16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
 130.162.193.183,15401,AU,Oracle Public Cloud
-207.211.153.234,443,AU,Oracle Corporation
-170.64.227.71,443,AU,DigitalOcean LLC
 175.45.183.67,443,AU,Mammoth Media Pty Ltd
+170.64.227.71,443,AU,DigitalOcean LLC
