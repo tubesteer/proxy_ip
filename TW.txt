@@ -1,3 +1,3 @@
-213.210.4.49,443,TW,ByteVirt LLC
 114.34.202.224,10004,TW,HiNet Taiwan
+213.210.4.49,443,TW,ByteVirt LLC
 210.61.97.241,81,TW,Chunghwa Telecom CoLtd
