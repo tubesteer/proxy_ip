@@ -1,24 +1,22 @@
-193.123.90.82,12648,AE,Oracle Corporation
-139.185.34.131,443,AE,Oracle Corporation
-40.120.108.47,443,AE,Microsoft Corporation
-85.237.211.59,8443,AE,Private Customer
-193.123.81.105,443,AE,Oracle Corporation
-20.157.74.92,443,AE,Microsoft Corporation
-141.145.151.219,443,AE,Oracle Corporation
 152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-139.185.50.5,14594,AE,Oracle Corporation
+193.123.90.82,12648,AE,Oracle Corporation
+85.237.211.59,2053,AE,Private Customer
 84.235.245.18,34501,AE,Oracle Svenska AB
 84.235.245.65,2096,AE,Oracle Svenska AB
-40.120.108.47,2083,AE,Microsoft Corporation
-217.195.200.52,443,AE,GCore Labs Customer assignment
-109.61.42.20,443,AE,GCore Labs Customer assignment
-109.61.42.105,443,AE,GCore Labs Customer assignment
+20.174.15.226,443,AE,Microsoft Corporation
+193.123.81.105,443,AE,Oracle Corporation
+139.185.50.5,14594,AE,Oracle Corporation
+40.120.108.47,443,AE,Microsoft Corporation
+139.185.34.131,443,AE,Oracle Corporation
+20.157.74.92,443,AE,Microsoft Corporation
 217.195.200.138,443,AE,GCore Labs Customer assignment
+109.61.42.105,443,AE,GCore Labs Customer assignment
+40.120.108.47,2083,AE,Microsoft Corporation
+85.237.211.59,8443,AE,Private Customer
+3.29.240.49,443,AE,Amazon Data Services UAE
 3.29.76.68,443,AE,Amazon Data Services UAE
-85.237.211.59,2053,AE,Private Customer
+141.145.151.219,443,AE,Oracle Corporation
+90.156.221.54,443,AE,ITGLOBAL COM DMCC
 176.97.66.175,443,AE,3nt solutions LLP
 176.97.67.38,443,AE,3nt solutions LLP
-185.209.49.17,8443,AE,ITGLOBAL COM DMCC
-90.156.221.54,443,AE,ITGLOBAL COM DMCC
-20.174.15.226,443,AE,Microsoft Corporation
-3.29.240.49,443,AE,Amazon Data Services UAE
+109.61.42.20,443,AE,GCore Labs Customer assignment
