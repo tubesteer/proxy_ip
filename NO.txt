@@ -1,4 +1,4 @@
-194.5.98.105,2053,NO,WebHorizon Norway
-195.54.170.148,443,NO,IROKO Networks Corporation
-51.120.240.39,443,NO,Microsoft Limited
 194.5.98.105,8443,NO,WebHorizon Norway
+194.5.98.105,2053,NO,WebHorizon Norway
+51.120.240.39,443,NO,Microsoft Limited
+195.54.170.148,443,NO,IROKO Networks Corporation
