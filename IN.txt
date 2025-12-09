@@ -1,35 +1,33 @@
-20.235.105.146,443,IN,Microsoft Corporation
-148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
-216.10.243.159,443,IN,P.D.R Solutions FZC
-172.232.112.240,587,IN,Linode
-148.113.43.228,2053,IN,OVHTECH RD INDIA PRIVATE LIMITED
-166.0.244.206,2053,IN,Internet Utilities NA LLC
-64.227.174.213,2053,IN,DigitalOcean, LLC
-98.70.26.236,443,IN,Microsoft Corporation
-43.205.45.56,443,IN,Amazon.com, Inc.
-64.227.174.213,8443,IN,DigitalOcean, LLC
-134.209.148.128,443,IN,DigitalOcean, LLC
 172.105.62.71,2443,IN,Linode
-134.195.137.107,22473,IN,ReadyDedis, LLC
-45.88.183.55,2053,IN,WorkTitans B.V.
-65.20.83.36,443,IN,Vultr Holdings LLC
-166.0.244.206,8443,IN,Internet Utilities NA LLC
-43.230.203.218,443,IN,Tier4Cloud
-146.56.48.138,23010,IN,Oracle Corporation , Global software solutions , California , USA
-98.70.1.250,443,IN,Microsoft Corporation
+148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
+20.235.105.146,443,IN,Microsoft Corporation
+172.232.112.240,587,IN,Linode
 152.70.76.104,46000,IN,Oracle Corporation
-20.235.220.189,443,IN,Microsoft Corporation
-20.207.237.5,443,IN,Microsoft Corporation
 152.70.75.80,15805,IN,Oracle Corporation
-4.240.110.47,443,IN,Microsoft Corporation
+64.227.174.213,2053,IN,DigitalOcean, LLC
+20.235.220.189,443,IN,Microsoft Corporation
+64.227.174.213,8443,IN,DigitalOcean, LLC
+65.20.83.36,443,IN,Vultr Holdings LLC
+98.70.26.236,443,IN,Microsoft Corporation
+134.209.148.128,443,IN,DigitalOcean, LLC
 13.127.255.237,443,IN,Amazon.com, Inc.
+202.83.24.75,443,IN,Broad Band Internet Service Provider, India
+43.205.45.56,443,IN,Amazon.com, Inc.
+43.230.203.218,443,IN,Tier4Cloud
+98.70.1.250,443,IN,Microsoft Corporation
+148.113.43.228,2053,IN,OVHTECH RD INDIA PRIVATE LIMITED
+35.154.123.52,443,IN,Amazon.com, Inc.
+140.238.225.218,80,IN,Cloudflare London, LLC
+64.227.158.180,443,IN,DigitalOcean, LLC
 139.84.163.149,443,IN,Vultr Holdings, LLC
 98.70.151.163,443,IN,Microsoft Corporation
-192.46.213.36,8443,IN,Akamai Connected Cloud  Linode
-64.227.158.180,443,IN,DigitalOcean, LLC
-219.65.73.81,443,IN,Reliance Jio Infocomm Limited
-202.83.24.75,443,IN,Broad Band Internet Service Provider, India
-35.154.123.52,443,IN,Amazon.com, Inc.
 45.88.183.130,443,IN,WorkTitans B.V.
+45.88.183.55,2053,IN,WorkTitans B.V.
+192.46.213.36,8443,IN,Akamai Connected Cloud  Linode
 13.200.192.197,443,IN,Amazon Data Services India
-140.238.225.218,80,IN,Cloudflare London, LLC
+20.207.237.5,443,IN,Microsoft Corporation
+134.195.137.107,22473,IN,ReadyDedis, LLC
+4.240.110.47,443,IN,Microsoft Corporation
+166.0.244.206,8443,IN,Internet Utilities NA LLC
+219.65.73.81,443,IN,Reliance Jio Infocomm Limited
+146.56.48.138,23010,IN,Oracle Corporation , Global software solutions , California , USA
