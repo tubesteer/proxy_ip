@@ -1,2 +1,2 @@
+114.34.202.224,10004,TW,Chunghwa Telecom Co.,Ltd.
 210.61.97.241,81,TW,Chunghwa Telecom Co.,Ltd.
-114.34.202.224,10004,TW,HiNet Taiwan
