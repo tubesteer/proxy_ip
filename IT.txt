@@ -2,29 +2,29 @@
 80.211.238.61,443,IT,Aruba S.p.A. - Cloud Services Farm2
 195.231.81.101,443,IT,Aruba S.p.A. - Cloud Services IT3
 77.81.234.27,8443,IT,Aruba S.p.A. - Cloud Services Farm2
-5.249.146.98,443,IT,Aruba S.p.A. - Cloud Services Farm2
-77.81.234.27,2053,IT,Aruba S.p.A. - Cloud Services Farm2
-188.213.168.52,443,IT,Aruba S.p.A. - Cloud Services Farm2
-176.126.83.146,8443,IT,Oneprovider.com - Florence Infrastructure
-80.211.231.169,443,IT,Aruba S.p.A. - Cloud Services Farm2
-94.177.199.45,443,IT,Aruba S.p.A. - Cloud Services Farm2
-212.237.30.220,443,IT,Aruba S.p.A. - Cloud Services Farm2
-94.177.199.119,8443,IT,Aruba S.p.A. - Cloud Services Farm2
-87.120.237.36,81,IT,G-Core Labs S.A.
-45.92.70.218,8443,IT,G-Core Labs S.A.
-151.91.39.191,443,IT,FCA INFORMATION TECHNOLOGY, EXCELLENCE AND METHODS S.P.A.
-103.241.66.123,443,IT,O.M.C. COMPUTERS  COMMUNICATIONS LTD
 185.247.184.186,8443,IT,GLOBAL INTERNET SOLUTIONS LLC
-185.198.235.246,2083,IT,Baxet Group Inc.
-80.211.48.113,443,IT,Aruba S.p.A. - Cloud Services DC1
 94.177.199.119,2053,IT,Aruba S.p.A. - Cloud Services Farm2
-185.247.184.186,2053,IT,GLOBAL INTERNET SOLUTIONS LLC
-80.211.170.53,443,IT,Aruba S.p.A. - Cloud Services DC1
+176.126.83.146,8443,IT,Oneprovider.com - Florence Infrastructure
+94.177.199.45,443,IT,Aruba S.p.A. - Cloud Services Farm2
+195.231.38.220,443,IT,Aruba S.p.A. - Cloud Services IT3
+194.165.59.20,443,IT,WorkTitans B.V.
 176.126.83.146,2053,IT,Oneprovider.com - Florence Infrastructure
 38.180.22.20,1001,IT,3NT SOLUTIONS LLP
 129.152.2.127,1488,IT,Oracle Corporation
-5.253.43.216,443,IT,WorkTitans B.V.
-194.165.59.20,443,IT,WorkTitans B.V.
+80.211.170.53,443,IT,Aruba S.p.A. - Cloud Services DC1
+151.91.39.191,443,IT,FCA INFORMATION TECHNOLOGY, EXCELLENCE AND METHODS S.P.A.
+87.120.237.36,81,IT,G-Core Labs S.A.
+103.241.66.123,443,IT,O.M.C. COMPUTERS  COMMUNICATIONS LTD
+94.177.199.119,8443,IT,Aruba S.p.A. - Cloud Services Farm2
+185.247.184.186,2053,IT,GLOBAL INTERNET SOLUTIONS LLC
+77.81.234.27,2053,IT,Aruba S.p.A. - Cloud Services Farm2
 158.180.231.216,443,IT,Oracle Corporation
-195.231.38.220,443,IT,Aruba S.p.A. - Cloud Services IT3
+188.213.168.52,443,IT,Aruba S.p.A. - Cloud Services Farm2
+5.253.43.216,443,IT,WorkTitans B.V.
+212.237.30.220,443,IT,Aruba S.p.A. - Cloud Services Farm2
+80.211.48.113,443,IT,Aruba S.p.A. - Cloud Services DC1
+80.211.231.169,443,IT,Aruba S.p.A. - Cloud Services Farm2
+5.249.146.98,443,IT,Aruba S.p.A. - Cloud Services Farm2
+185.198.235.246,2083,IT,Baxet Group Inc.
 178.175.231.13,443,IT,MYNET S.R.L.
+45.92.70.218,8443,IT,G-Core Labs S.A.
