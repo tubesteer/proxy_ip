@@ -1,8 +1,8 @@
-5.252.23.190,81,SK,WorkTitans B.V.
 5.252.23.245,443,SK,WorkTitans B.V.
-5.35.103.185,8443,SK,Digital City FZE
-91.242.163.179,2053,SK,PE Denis Podolskii
-91.242.163.220,443,SK,PE Denis Podolskii
-89.46.42.106,443,SK,VPS1 in Slovakia
 45.89.54.75,443,SK,WorkTitans B.V.
+5.35.103.185,8443,SK,Digital City FZE
+91.242.163.220,443,SK,PE Denis Podolskii
+91.242.163.179,2053,SK,PE Denis Podolskii
+5.252.23.190,81,SK,WorkTitans B.V.
 89.46.42.174,443,SK,VPS1 in Slovakia
+89.46.42.106,443,SK,VPS1 in Slovakia
