@@ -1,4 +1,4 @@
 45.150.188.157,2053,KE,Servercore Network
-102.214.69.26,2053,KE,Servercore Africa Ltd
-45.150.188.157,8443,KE,Servercore Network
 102.214.69.26,8443,KE,Servercore Africa Ltd
+45.150.188.157,8443,KE,Servercore Network
+102.214.69.26,2053,KE,Servercore Africa Ltd
