@@ -1,22 +1,22 @@
-2.189.130.101,2087,IR,Toloe Rayaneh Loghman
-2.189.130.106,2087,IR,Toloe Rayaneh Loghman
 185.173.107.37,443,IR,NOAVARAN SHABAKEH SABZ MEHREGAN Ltd.
+2.189.130.101,2087,IR,Toloe Rayaneh Loghman
+2.189.130.103,2087,IR,Toloe Rayaneh Loghman
+95.38.106.170,2096,IR,Respina
+193.228.90.99,443,IR,Internet Utilities Europe and Asia Limited
+37.152.182.54,8443,IR,Noyan Abr Arvan Co.  Private Joint Stock
 2.189.130.107,2087,IR,Toloe Rayaneh Loghman
+95.38.106.166,2096,IR,Respina
+2.189.130.102,2087,IR,Toloe Rayaneh Loghman
 95.38.101.154,2096,IR,Fanava Group
 185.88.152.6,8443,IR,Bertina-DC
-185.88.152.6,2096,IR,Bertina-DC
-2.189.130.103,2087,IR,Toloe Rayaneh Loghman
-2.189.130.105,2087,IR,Toloe Rayaneh Loghman
-37.152.179.221,8443,IR,Noyan Abr Arvan Co.  Private Joint Stock
-85.9.101.37,443,IR,Pishgaman Data Center Service
-95.38.106.170,2096,IR,Respina
-78.157.50.155,2083,IR,Dade Samane Fanava Company PJS
-2.189.130.104,2087,IR,Toloe Rayaneh Loghman
-2.189.130.102,2087,IR,Toloe Rayaneh Loghman
-95.38.106.166,2096,IR,Respina
 94.183.156.142,443,IR,mahancloud24gmail.com
-62.60.193.93,2087,IR,Respina Networks  Beyond PJSC
-193.134.101.63,8443,IR,Tejarat Pardaz Mahan Novin Co. Ltd
-193.228.90.99,443,IR,Internet Utilities Europe and Asia Limited
+2.189.130.105,2087,IR,Toloe Rayaneh Loghman
+2.189.130.104,2087,IR,Toloe Rayaneh Loghman
+37.152.179.221,8443,IR,Noyan Abr Arvan Co.  Private Joint Stock
+185.88.152.6,2096,IR,Bertina-DC
+85.9.101.37,443,IR,Pishgaman Data Center Service
 185.222.163.6,443,IR,Mizban Dadeh Roham Co
-37.152.182.54,8443,IR,Noyan Abr Arvan Co.  Private Joint Stock
+2.189.130.106,2087,IR,Toloe Rayaneh Loghman
+193.134.101.63,8443,IR,Tejarat Pardaz Mahan Novin Co. Ltd
+78.157.50.155,2083,IR,Dade Samane Fanava Company PJS
+62.60.193.93,2087,IR,Respina Networks  Beyond PJSC
