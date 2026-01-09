@@ -1,29 +1,28 @@
-172.105.62.71,2443,IN,Linode
-45.88.183.130,443,IN,WorkTitans B.V.
-20.235.105.146,443,IN,Microsoft Corporation
-216.10.243.159,443,IN,P.D.R Solutions FZC
-148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
 148.113.43.228,2053,IN,OVHTECH RD INDIA PRIVATE LIMITED
 152.70.76.104,46000,IN,Oracle Corporation
 20.235.220.189,443,IN,Microsoft Corporation
-45.88.183.55,2053,IN,WorkTitans B.V.
+64.227.174.213,8443,IN,DigitalOcean, LLC
+148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
+64.227.158.180,443,IN,DigitalOcean, LLC
+45.88.183.130,443,IN,WorkTitans B.V.
+146.56.48.138,23010,IN,Oracle Corporation , Global software solutions , California , USA
 134.209.148.128,443,IN,DigitalOcean, LLC
-202.83.24.75,443,IN,Broad Band Internet Service Provider, India
+152.70.75.80,15805,IN,Oracle Corporation
 20.207.237.5,443,IN,Microsoft Corporation
 140.238.225.218,80,IN,Cloudflare London, LLC
-64.227.158.180,443,IN,DigitalOcean, LLC
-172.232.112.240,587,IN,Linode
-152.70.75.80,15805,IN,Oracle Corporation
-43.205.45.56,443,IN,Amazon.com, Inc.
-134.195.137.107,22473,IN,ReadyDedis, LLC
-4.240.110.47,443,IN,Microsoft Corporation
-146.56.48.138,23010,IN,Oracle Corporation , Global software solutions , California , USA
-64.227.174.213,8443,IN,DigitalOcean, LLC
 98.70.1.250,443,IN,Microsoft Corporation
-98.70.151.163,443,IN,Microsoft Corporation
-139.84.163.149,443,IN,Vultr Holdings, LLC
-219.65.73.81,443,IN,Reliance Jio Infocomm Limited
+4.240.110.47,443,IN,Microsoft Corporation
 35.154.123.52,443,IN,Amazon.com, Inc.
-98.70.26.236,443,IN,Microsoft Corporation
+216.10.243.159,443,IN,P.D.R Solutions FZC
+20.235.105.146,443,IN,Microsoft Corporation
+172.232.112.240,587,IN,Linode
+172.105.62.71,2443,IN,Linode
 64.227.174.213,2053,IN,DigitalOcean, LLC
-192.46.213.36,8443,IN,Akamai Connected Cloud  Linode
+139.84.163.149,443,IN,Vultr Holdings, LLC
+45.88.183.55,2053,IN,WorkTitans B.V.
+13.200.192.197,443,IN,Amazon Data Services India
+219.65.73.81,443,IN,Reliance Jio Infocomm Limited
+202.83.24.75,443,IN,Broad Band Internet Service Provider, India
+98.70.26.236,443,IN,Microsoft Corporation
+134.195.137.107,22473,IN,ReadyDedis, LLC
+98.70.151.163,443,IN,Microsoft Corporation
