@@ -1,60 +1,59 @@
-45.149.186.112,8080,HK,HYTRON NETWORK HK
-8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
+18.162.156.23,12355,HK,Amazon Data Services Hong Kong
+156.230.12.71,443,HK,263 Shanghai Communications Ltd.
 46.232.122.240,8000,HK,Dom Tehniki Ltd
-141.11.149.195,12082,HK,AKILE LTD
-85.208.104.34,8080,HK,Internet Utilities Europe and Asia Limited
-47.76.218.163,443,HK,Alibaba Cloud - HK
+45.149.186.112,8080,HK,AKILE LTD
+219.76.13.167,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
+5.180.98.146,22827,HK,TEN
+219.76.13.183,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 47.79.20.64,443,HK,Alibaba Cloud LLC
 223.16.138.113,10002,HK,HGC Global Communications Limited
-8.218.245.116,49701,HK,Alibaba Cloud Singapore Private Limited
-219.76.13.177,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
-2.56.91.89,2053,HK,ihc.hk vps in Hong Kong
 219.76.13.180,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
+47.76.218.163,443,HK,Alibaba Cloud - HK
+43.132.244.52,21415,HK,6 COLLYER QUAY
+8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
+156.255.90.175,8443,HK,StepGo Limited
 8.210.96.197,12902,HK,Aliyun Computing Co.LTD
-156.230.12.71,443,HK,263 Shanghai Communications Ltd.
-154.16.10.34,8080,HK,Digital Energy Technologies Limited
-36.50.90.241,47790,HK,IoT Innovation Technologies Company Limited
-36.50.90.241,35951,HK,IoT Innovation Technologies Company Limited
+2.56.91.89,2053,HK,ihc.hk vps in Hong Kong
+8.218.245.116,49701,HK,Alibaba Cloud Singapore Private Limited
+141.11.149.195,12082,HK,AKILE LTD
 154.21.201.83,443,HK,NetLab
-141.11.91.67,8080,HK,HYTRON NETWORK HK
-219.76.13.167,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
-219.76.13.169,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
-8.210.29.68,443,HK,Aliyun Computing Co.LTD
+8.218.245.116,41528,HK,Alibaba Cloud Singapore Private Limited
+154.16.10.34,8080,HK,Digital Energy Technologies Limited
+192.142.4.76,2053,HK,Ultahost Inc
+36.50.90.241,47790,HK,IoT Innovation Technologies Company Limited
+85.208.104.34,8080,HK,Internet Utilities Europe and Asia Limited
 223.16.138.113,10201,HK,HGC Global Communications Limited
 210.6.207.42,18622,HK,Hong Kong Broadband Network Ltd
-8.218.245.116,41528,HK,Alibaba Cloud Singapore Private Limited
-219.76.13.183,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
-118.141.64.192,36619,HK,HGC Global Communications Limited
-192.131.142.161,46639,HK,365 Group LLC
-43.132.244.52,21415,HK,6 COLLYER QUAY
-192.142.4.76,2053,HK,Ultahost Inc
-219.76.13.166,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
-5.180.98.146,22827,HK,TEN
+219.76.13.177,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
+36.50.90.241,35951,HK,IoT Innovation Technologies Company Limited
+219.76.13.169,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
+156.255.90.175,2053,HK,StepGo Limited
+223.16.138.113,12457,HK,HGC Global Communications Limited
+45.38.42.198,2053,HK,EGIHosting
+141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
+101.79.165.113,443,HK,CDNetworks
 152.32.215.105,8443,HK,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 210.3.159.133,443,HK,HGC Global Communications Limited
-20.255.49.160,443,HK,Microsoft Corporation
-45.38.42.198,2053,HK,EGIHosting
-47.240.15.210,4432,HK,Alibaba Cloud - HK
-46.8.78.122,8443,HK,CGI GLOBAL LIMITED
-43.198.204.35,443,HK,Amazon.com, Inc.
-156.255.90.175,2053,HK,StepGo Limited
-2.56.91.89,8443,HK,ihc.hk vps in Hong Kong
-223.16.138.113,12457,HK,HGC Global Communications Limited
-103.194.107.166,443,HK,Antbox Networks Limited
-154.38.116.8,443,HK,STARCLOUD GLOBAL PTE. LTD.
-221.125.10.8,57537,HK,HGC Global Communications Limited
-151.242.153.8,443,HK,EDGENAT CLOUD LLC
-154.18.161.172,18443,HK,Hytron Network Services Limited
-192.142.4.33,8443,HK,Ultahost Inc
-18.162.156.23,12355,HK,Amazon Data Services Hong Kong
-156.255.90.175,8443,HK,StepGo Limited
-103.219.194.233,30005,HK,BAGE CLOUD LLC
-101.79.165.113,443,HK,CDNetworks
+219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 192.252.182.52,7602,HK,Integen, Inc
-47.82.92.52,443,HK,Alibaba Cloud Singapore Private Limited
-194.156.99.182,8443,HK,FreeNet L.L.C-FZ
-8.212.27.131,443,HK,Alibaba Cloud Singapore Private Limited
+47.240.15.210,4432,HK,Alibaba Cloud - HK
+118.141.64.192,36619,HK,HGC Global Communications Limited
+2.56.91.89,8443,HK,ihc.hk vps in Hong Kong
 46.20.109.64,443,HK,Nearoute Limited
-43.154.124.136,26666,HK,6 COLLYER QUAY
+43.198.204.35,443,HK,Amazon.com, Inc.
+103.219.194.233,30005,HK,BAGE CLOUD LLC
+154.18.161.172,18443,HK,Hytron Network Services Limited
+192.131.142.161,46639,HK,365 Group LLC
+103.194.107.166,443,HK,Antbox Networks Limited
+192.142.4.33,8443,HK,Ultahost Inc
 47.242.145.136,8001,HK,ALIBABA CLOUD - HK
 58.176.95.46,443,HK,Hong Kong Broadband Network Ltd
+221.125.10.8,57537,HK,HGC Global Communications Limited
+8.212.27.131,443,HK,Alibaba Cloud Singapore Private Limited
+194.156.99.182,8443,HK,FreeNet L.L.C-FZ
+154.38.116.8,443,HK,STARCLOUD GLOBAL PTE. LTD.
+47.82.92.52,443,HK,Alibaba Cloud Singapore Private Limited
+219.76.13.166,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
+43.154.124.136,26666,HK,6 COLLYER QUAY
+151.242.153.8,443,HK,EDGENAT CLOUD LLC
+46.8.78.122,8443,HK,CGI GLOBAL LIMITED
