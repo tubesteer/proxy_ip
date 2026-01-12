@@ -1,13 +1,13 @@
-193.57.139.78,81,RS,WorkTitans B.V.
-94.230.184.94,8443,RS,Serbia BroadBand-Srpske Kablovske mreze d.o.o.
-94.230.184.94,2053,RS,Serbia BroadBand-Srpske Kablovske mreze d.o.o.
-45.89.55.70,8443,RS,WorkTitans B.V.
-2.56.172.107,443,RS,WorkTitans B.V.
-109.92.179.156,12170,RS,Telekom Srbija ADSL users
-45.89.55.200,8443,RS,WorkTitans B.V.
 38.180.17.36,443,RS,3NT SOLUTIONS LLP
+94.230.184.94,2053,RS,Serbia BroadBand-Srpske Kablovske mreze d.o.o.
+94.230.184.94,8443,RS,Serbia BroadBand-Srpske Kablovske mreze d.o.o.
+109.92.179.156,12170,RS,Telekom Srbija ADSL users
 38.180.239.224,2053,RS,3NT SOLUTIONS LLP
 45.89.55.205,443,RS,WorkTitans B.V.
-45.89.55.70,443,RS,WorkTitans B.V.
 89.46.236.145,443,RS,EDIS IPv6 Infrastructure in Serbia
+193.57.139.78,81,RS,WorkTitans B.V.
+45.89.55.70,8443,RS,WorkTitans B.V.
+45.89.55.200,8443,RS,WorkTitans B.V.
+2.56.172.107,443,RS,WorkTitans B.V.
 38.180.100.80,443,RS,3NT SOLUTIONS LLP
+45.89.55.70,443,RS,WorkTitans B.V.

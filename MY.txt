@@ -1,10 +1,10 @@
-38.60.193.247,13300,MY,Kaopu Cloud HK Limited
 47.250.132.147,443,MY,Alibaba Cloud LLC
-47.250.139.59,443,MY,Alibaba Cloud LLC
+47.254.255.125,443,MY,Alibaba Cloud - MY
+45.89.107.118,443,MY,WorkTitans B.V.
+47.250.59.132,443,MY,Alibaba Cloud - MY
 155.254.60.225,443,MY,Evoxt Enterprise
 47.250.139.249,443,MY,Alibaba Cloud LLC
-47.250.59.132,443,MY,Alibaba Cloud - MY
-45.89.107.118,443,MY,WorkTitans B.V.
-58.27.117.24,443,MY,TMNET
 45.159.51.121,32199,MY,Kaopu Cloud HK Limited
-47.254.255.125,443,MY,Alibaba Cloud - MY
+38.60.193.247,13300,MY,Kaopu Cloud HK Limited
+58.27.117.24,443,MY,TMNET
+47.250.139.59,443,MY,Alibaba Cloud LLC
