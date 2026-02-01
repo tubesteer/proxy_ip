@@ -1,6 +1,6 @@
+91.92.206.174,27784,IR,Telecommunication Company of Tehran
+37.152.182.54,8443,IR,Noyan Abr Arvan Co.  Private Joint Stock
+37.152.179.221,8443,IR,Noyan Abr Arvan Co.  Private Joint Stock
 95.38.106.166,2096,IR,Respina
 95.38.101.154,2096,IR,Fanava Group
-37.152.179.221,8443,IR,Noyan Abr Arvan Co.  Private Joint Stock
-37.152.182.54,8443,IR,Noyan Abr Arvan Co.  Private Joint Stock
-91.92.206.174,27784,IR,Telecommunication Company of Tehran
 185.222.163.6,443,IR,Mizban Dadeh Roham Co
