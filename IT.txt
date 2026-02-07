@@ -1,20 +1,20 @@
-80.211.238.61,443,IT,Aruba SpA  Cloud Services Farm2
-185.47.172.172,8443,IT,OMC COMPUTERS  COMMUNICATIONS LTD
-87.120.237.36,81,IT,GCore Labs SA
 129.152.2.127,1488,IT,Oracle Corporation
-80.211.48.113,443,IT,Aruba SpA  Cloud Services DC1
-5.249.146.98,443,IT,Aruba SpA  Cloud Services Farm2
-176.126.83.146,8443,IT,Oneprovidercom  Florence Infrastructure
-188.213.168.52,443,IT,Aruba SpA  Cloud Services Farm2
-38.180.22.20,1001,IT,3NT SOLUTIONS LLP
-195.231.81.101,443,IT,Aruba SpA  Cloud Services IT3
-5.253.43.216,443,IT,WorkTitans BV
-176.126.83.146,2053,IT,Oneprovidercom  Florence Infrastructure
-195.231.38.220,443,IT,Aruba SpA  Cloud Services IT3
-194.165.59.20,443,IT,WorkTitans BV
-80.211.231.169,443,IT,Aruba SpA  Cloud Services Farm2
-151.91.39.191,443,IT,FIAT 15191
-94.177.199.45,443,IT,Aruba SpA  Cloud Services Farm2
+151.91.39.191,443,IT,Stellantis Auto SAS
 158.180.231.216,443,IT,Oracle Corporation
+176.126.83.146,8443,IT,Oneprovidercom  Florence Infrastructure
+176.126.83.146,2053,IT,Oneprovidercom  Florence Infrastructure
+185.47.172.172,8443,IT,OMC COMPUTERS  COMMUNICATIONS LTD
+188.213.168.52,443,IT,Aruba SpA  Cloud Services Farm2
+194.165.59.20,443,IT,WorkTitans BV
+195.231.38.220,443,IT,Aruba SpA  Cloud Services IT3
+195.231.81.101,443,IT,Aruba SpA  Cloud Services IT3
+38.180.22.20,1001,IT,3NT SOLUTIONS LLP
+45.92.70.218,8443,IT,GCore Labs Customer assignment
+5.249.146.98,443,IT,Aruba SpA  Cloud Services Farm2
+5.253.43.216,443,IT,WorkTitans BV
 80.211.170.53,443,IT,Aruba SpA  Cloud Services DC1
-45.92.70.218,8443,IT,GCore Labs SA
+80.211.231.169,443,IT,Aruba SpA  Cloud Services Farm2
+80.211.238.61,443,IT,Aruba SpA  Cloud Services Farm2
+80.211.48.113,443,IT,Aruba SpA  Cloud Services DC1
+87.120.237.36,81,IT,GCore Labs SA
+94.177.199.45,443,IT,Aruba SpA  Cloud Services Farm2
