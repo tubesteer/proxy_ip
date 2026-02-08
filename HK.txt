@@ -30,15 +30,15 @@
 219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.183,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 221.125.10.8,57537,HK,HGC Global Communications Limited
+223.16.138.113,10201,HK,HGC Global Communications Limited
 223.16.138.113,10002,HK,HGC Global Communications Limited
 223.16.138.113,12457,HK,HGC Global Communications Limited
-223.16.138.113,10201,HK,HGC Global Communications Limited
-36.50.90.241,47790,HK,IoT Innovation Technologies Company Limited
 36.50.90.241,35951,HK,IoT Innovation Technologies Company Limited
+36.50.90.241,47790,HK,IoT Innovation Technologies Company Limited
 43.132.244.52,21415,HK,6 COLLYER QUAY
 43.154.124.136,26666,HK,6 COLLYER QUAY
 43.198.204.35,443,HK,Amazoncom Inc
-45.149.186.112,8080,HK,AKILE LTD
+45.149.186.112,8080,HK,HYTRON NETWORK HK
 45.38.42.198,2053,HK,EGIHosting
 46.8.78.122,8443,HK,CGI GLOBAL LIMITED
 47.240.15.210,4432,HK,Alibaba Cloud  HK
@@ -47,6 +47,7 @@
 47.82.92.52,443,HK,Alibaba Cloud LLC
 5.180.98.146,22827,HK,TEN
 58.176.95.46,443,HK,Hong Kong Broadband Network Ltd
+8.210.29.68,443,HK,Aliyun Computing CoLTD
 8.210.96.197,12902,HK,Aliyun Computing CoLTD
 8.212.27.131,443,HK,Alibaba Cloud Singapore Private Limited
 8.218.245.116,41528,HK,Alibaba Cloud Singapore Private Limited
