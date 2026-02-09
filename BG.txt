@@ -1,8 +1,8 @@
 146.19.80.84,443,BG,WorkTitans BV
 185.141.61.113,2053,BG,Redcluster LTD
 185.148.146.9,443,BG,Belcloud LTD
-185.162.10.111,2053,BG,Hosting Provider EuroHoster Ltd
 185.162.10.111,8443,BG,Hosting Provider EuroHoster Ltd
+185.162.10.111,2053,BG,Hosting Provider EuroHoster Ltd
 185.190.250.26,7445,BG,Friendhosting LTD
 185.203.116.174,443,BG,Belcloud LTD
 185.204.53.58,443,BG,Hosting Provider EuroHoster Ltd
@@ -25,6 +25,7 @@
 82.118.230.220,443,BG,DA International Group Ltd
 91.210.166.102,443,BG,Friendhosting LTD
 91.210.166.145,443,BG,Friendhosting LTD
+91.210.166.15,443,BG,Friendhosting LTD
 91.210.166.82,443,BG,Friendhosting LTD
 91.215.153.85,443,BG,Friendhosting LTD
 91.215.154.48,443,BG,Friendhosting LTD
@@ -36,6 +37,6 @@
 91.227.77.78,8443,BG,BlueVPS OU
 93.157.106.107,443,BG,ALEXHOST SRL
 94.156.35.144,18836,BG,Belcloud LTD
-94.72.140.22,8443,BG,DA International Group Ltd  AlphaVPS
 94.72.140.22,2053,BG,DA International Group Ltd  AlphaVPS
+94.72.140.22,8443,BG,DA International Group Ltd  AlphaVPS
 95.164.21.123,443,BG,WorkTitans BV

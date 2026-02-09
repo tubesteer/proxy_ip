@@ -8,7 +8,6 @@
 148.113.43.228,2053,IN,OVHTECH RD INDIA PRIVATE LIMITED
 152.70.75.80,15805,IN,Oracle Corporation
 152.70.76.104,46000,IN,Oracle Corporation
-172.105.62.71,2443,IN,Linode
 172.232.112.240,587,IN,Linode
 20.207.237.5,443,IN,Microsoft Corporation
 20.235.105.146,443,IN,Microsoft Corporation
@@ -24,3 +23,4 @@
 64.227.174.213,2053,IN,DigitalOcean LLC
 64.227.174.213,8443,IN,DigitalOcean LLC
 98.70.151.163,443,IN,Microsoft Corporation
+98.70.26.236,443,IN,Microsoft Corporation

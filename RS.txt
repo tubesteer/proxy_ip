@@ -4,8 +4,8 @@
 38.180.239.224,2053,RS,3NT SOLUTIONS LLP
 45.89.55.200,8443,RS,WorkTitans BV
 45.89.55.205,443,RS,WorkTitans BV
-45.89.55.70,443,RS,WorkTitans BV
 45.89.55.70,8443,RS,WorkTitans BV
+45.89.55.70,443,RS,WorkTitans BV
 89.46.236.145,443,RS,EDIS IPv6 Infrastructure in Serbia
 94.230.184.94,8443,RS,Serbia BroadBandSrpske Kablovske mreze doo
 94.230.184.94,2053,RS,Serbia BroadBandSrpske Kablovske mreze doo

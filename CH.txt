@@ -21,16 +21,17 @@
 194.135.22.181,443,CH,GLB Bulut Teknolojisi Limited Sirketi
 194.156.102.142,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 194.87.18.92,443,CH,Baxet Group Inc
-194.87.97.6,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
 194.87.97.6,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
+194.87.97.6,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
 195.141.59.27,443,CH,Trueb AG
 195.15.254.118,443,CH,Infomaniak Network SA
-37.143.131.234,8443,CH,Oneprovidercom  Zurich Infrastructure
 37.143.131.234,2053,CH,Oneprovidercom  Zurich Infrastructure
+37.143.131.234,8443,CH,Oneprovidercom  Zurich Infrastructure
 38.180.161.32,443,CH,3NT SOLUTIONS LLP
 38.180.84.86,443,CH,3NT SOLUTIONS LLP
 38.180.85.203,443,CH,3NT SOLUTIONS LLP
 38.244.144.150,443,CH,3NT SOLUTIONS LLP
+45.134.133.139,443,CH,eDurable SA
 45.143.200.104,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.143.200.127,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.143.200.141,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -63,8 +64,8 @@
 91.192.102.55,443,CH,Datasource AG
 91.245.225.17,443,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.245.225.69,443,CH,GLB Bulut Teknolojisi Limited Sirketi
-91.245.225.79,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.245.225.79,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
+91.245.225.79,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.90.193.138,443,CH,Friendhosting LTD
 91.90.193.159,443,CH,Friendhosting LTD
 91.90.193.19,443,CH,Friendhosting LTD
@@ -72,5 +73,5 @@
 94.131.12.15,443,CH,WorkTitans BV
 94.131.12.56,443,CH,WorkTitans BV
 94.247.42.207,443,CH,servinga GmbH
-95.183.51.10,2053,CH,Solar Communications GmbH
 95.183.51.10,8443,CH,Solar Communications GmbH
+95.183.51.10,2053,CH,Solar Communications GmbH
