@@ -5,9 +5,9 @@
 111.118.118.177,12399,KR,HYUNDAI HCN Kyongbuk Systems CoLtd
 112.166.95.230,50001,KR,Korea Telecom
 115.94.122.118,50001,KR,LG Uplus
-116.93.199.28,12136,KR,SK Broadband Co Ltd
-116.93.199.28,30012,KR,SK Broadband Co Ltd
 116.93.199.28,12020,KR,SK Broadband Co Ltd
+116.93.199.28,30012,KR,SK Broadband Co Ltd
+116.93.199.28,12136,KR,SK Broadband Co Ltd
 118.223.252.190,50001,KR,SK Broadband Co Ltd
 119.197.86.171,50001,KR,Korea Telecom
 123.111.169.70,443,KR,SK Broadband Co Ltd
@@ -37,7 +37,6 @@
 146.56.140.79,20309,KR,Cloudflare Inc
 146.56.182.217,54266,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.42.21,7777,KR,Cloudflare London LLC
-146.56.46.84,443,KR,Oracle Public Cloud
 146.56.99.22,20443,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.99.255,56789,KR,Oracle Corporation  Global software solutions  California  USA
 150.109.236.191,25565,KR,16 COLLYER QUAY
@@ -49,12 +48,11 @@
 158.180.72.60,443,KR,oracle
 158.247.250.157,81,KR,The Constant Company LLC
 175.202.135.114,12427,KR,Korea Telecom
+185.214.103.86,57569,KR,Invermae Solutions SL
 192.46.231.158,443,KR,Akamai Connected Cloud  Linode
 193.122.107.234,443,KR,Oracle Public Cloud
-193.122.115.67,4434,KR,Oracle Public Cloud
 193.122.126.64,53777,KR,Oracle Public Cloud
 193.123.253.225,4333,KR,Oracle Corporation
-211.197.161.123,10041,KR,Korea Telecom
 211.219.241.28,31337,KR,KT
 211.48.77.114,12312,KR,Korea Telecom
 217.142.138.61,37914,KR,Oracle Svenska AB
