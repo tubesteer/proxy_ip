@@ -1,11 +1,12 @@
 1.249.45.86,12112,KR,SK Broadband Co Ltd
 103.86.44.120,65432,KR,MOACK DC
+106.245.63.110,50001,KR,LG DACOM Corporation
 106.248.211.16,30075,KR,LG DACOM Corporation
 111.118.118.177,12399,KR,HYUNDAI HCN Kyongbuk Systems CoLtd
 112.166.95.230,50001,KR,Korea Telecom
-116.93.199.28,30012,KR,SK Broadband Co Ltd
-116.93.199.28,12020,KR,SK Broadband Co Ltd
 116.93.199.28,12136,KR,SK Broadband Co Ltd
+116.93.199.28,12020,KR,SK Broadband Co Ltd
+116.93.199.28,30012,KR,SK Broadband Co Ltd
 118.223.252.190,50001,KR,SK Broadband Co Ltd
 119.197.86.171,50001,KR,Korea Telecom
 123.111.169.70,443,KR,SK Broadband Co Ltd
@@ -38,7 +39,6 @@
 146.56.99.22,20443,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.99.255,56789,KR,Oracle Corporation  Global software solutions  California  USA
 150.109.236.191,25565,KR,16 COLLYER QUAY
-152.67.209.237,22053,KR,Oracle Public Cloud
 152.67.211.114,58337,KR,Oracle Public Cloud
 152.69.229.175,22558,KR,Oracle Corporation
 152.70.236.195,30001,KR,Oracle Corporation

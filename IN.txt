@@ -12,7 +12,6 @@
 20.207.237.5,443,IN,Microsoft Corporation
 20.235.105.146,443,IN,Microsoft Corporation
 20.235.220.189,443,IN,Microsoft Corporation
-202.83.24.75,443,IN,Broad Band Internet Service Provider India
 216.10.243.159,443,IN,PDR Solutions FZC
 219.65.73.81,443,IN,Reliance Jio Infocomm Limited
 35.154.123.52,443,IN,Amazoncom Inc
