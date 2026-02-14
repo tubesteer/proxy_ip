@@ -12,6 +12,6 @@
 77.91.72.13,443,HU,WorkTitans BV
 86.104.75.180,2053,HU,WorkTitans BV
 86.104.75.180,443,HU,WorkTitans BV
-91.219.236.202,2053,HU,ServerAstra Kft
 91.219.236.202,8443,HU,ServerAstra Kft
+91.219.236.202,2053,HU,ServerAstra Kft
 91.219.237.49,443,HU,ServerAstra Kft

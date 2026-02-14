@@ -1,5 +1,6 @@
 1.249.45.86,12112,KR,SK Broadband Co Ltd
 103.86.44.120,65432,KR,MOACK DC
+106.245.63.110,50001,KR,LG DACOM Corporation
 106.248.211.16,30075,KR,LG DACOM Corporation
 111.118.118.177,12399,KR,HYUNDAI HCN Kyongbuk Systems CoLtd
 112.166.95.230,50001,KR,Korea Telecom
@@ -31,8 +32,8 @@
 144.24.87.69,50001,KR,Oracle Corporation
 144.24.90.107,443,KR,Oracle Corporation
 146.56.140.79,22561,KR,Cloudflare London LLC
-146.56.140.79,44699,KR,Cloudflare London LLC
 146.56.140.79,20309,KR,Cloudflare Inc
+146.56.140.79,44699,KR,Cloudflare London LLC
 146.56.182.217,54266,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.42.21,7777,KR,Cloudflare London LLC
 146.56.99.22,20443,KR,Oracle Corporation  Global software solutions  California  USA
@@ -56,10 +57,8 @@
 211.48.77.114,12312,KR,Korea Telecom
 217.142.138.61,37914,KR,Oracle Svenska AB
 221.139.87.28,443,KR,SK Broadband Co Ltd
-221.162.120.94,50001,KR,KT
 222.114.57.191,50001,KR,Korea Telecom
 222.97.1.10,50000,KR,KT
-43.155.186.100,446,KR,6 COLLYER QUAY
 52.141.25.42,443,KR,Microsoft Corporation
 58.143.198.82,18097,KR,DLIVE Bukbu Cable TV
 59.24.1.109,50001,KR,Korea Telecom
