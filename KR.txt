@@ -31,9 +31,9 @@
 144.24.84.212,49888,KR,Oracle Corp UK Ltd
 144.24.87.69,50001,KR,Oracle Corporation
 144.24.90.107,443,KR,Oracle Corporation
-146.56.140.79,22561,KR,Cloudflare London LLC
-146.56.140.79,20309,KR,Cloudflare Inc
 146.56.140.79,44699,KR,Cloudflare London LLC
+146.56.140.79,20309,KR,Cloudflare Inc
+146.56.140.79,22561,KR,Cloudflare London LLC
 146.56.182.217,54266,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.42.21,7777,KR,Cloudflare London LLC
 146.56.99.22,20443,KR,Oracle Corporation  Global software solutions  California  USA
