@@ -10,22 +10,22 @@
 194.87.245.181,2053,IE,Baxet Group Inc
 194.87.245.253,443,IE,Cloudflare London LLC
 198.55.102.125,443,IE,VPS ACE
-198.55.103.157,2053,IE,VPS ACE
 198.55.103.157,8443,IE,VPS ACE
+198.55.103.157,2053,IE,VPS ACE
 198.55.103.168,443,IE,Cloudflare London LLC
 23.95.225.214,8443,IE,RackNerd LLC
 23.95.225.214,2053,IE,RackNerd LLC
-52.19.138.237,2053,IE,Amazon Data Services Ireland Limited
 52.19.138.237,8443,IE,Amazon Data Services Ireland Limited
-52.19.7.141,8443,IE,Amazon Data Services Ireland Limited
+52.19.138.237,2053,IE,Amazon Data Services Ireland Limited
 52.19.7.141,2053,IE,Amazon Data Services Ireland Limited
+52.19.7.141,8443,IE,Amazon Data Services Ireland Limited
 54.216.143.197,443,IE,Amazoncom Inc
 54.220.80.89,2053,IE,Amazoncom Inc
-54.229.164.147,2053,IE,Amazoncom Inc
 54.229.164.147,8443,IE,Amazoncom Inc
+54.229.164.147,2053,IE,Amazoncom Inc
 54.246.82.250,443,IE,Amazon Technologies Inc
 54.247.36.82,443,IE,Amazon Data Services Ireland Limited
 54.77.206.41,443,IE,Amazon Technologies Inc
-63.32.194.15,2053,IE,Amazon Data Services Ireland Limited
 63.32.194.15,8443,IE,Amazon Data Services Ireland Limited
+63.32.194.15,2053,IE,Amazon Data Services Ireland Limited
 85.159.229.122,443,IE,GLOBAL INTERNET SOLUTIONS LLC

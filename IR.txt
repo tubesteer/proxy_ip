@@ -1,5 +1,4 @@
 185.126.1.175,2083,IR,Pishgaman Data Center Service
-185.206.93.129,4343,IR,AbrArvan IaaS
 185.222.163.6,443,IR,Mizban Dadeh Roham Co
 193.105.6.84,443,IR,Novinhost01idc
 193.228.90.99,443,IR,Internet Utilities Europe and Asia Limited
