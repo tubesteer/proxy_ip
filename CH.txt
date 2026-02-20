@@ -12,8 +12,8 @@
 176.120.66.177,8443,CH,WorkTitans BV
 179.43.176.216,443,CH,PRIVATE LAYER INC
 179.43.180.231,443,CH,PRIVATE LAYER INC
-185.195.69.119,8443,CH,Datasource AG
 185.195.69.119,2053,CH,Datasource AG
+185.195.69.119,8443,CH,Datasource AG
 185.195.69.19,443,CH,Datasource AG
 185.195.69.200,8443,CH,Datasource AG
 185.195.69.200,2053,CH,Datasource AG
@@ -25,8 +25,8 @@
 194.87.97.6,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
 195.141.59.27,443,CH,Trueb AG
 195.15.254.118,443,CH,Infomaniak Network SA
-37.143.131.234,8443,CH,Oneprovidercom  Zurich Infrastructure
 37.143.131.234,2053,CH,Oneprovidercom  Zurich Infrastructure
+37.143.131.234,8443,CH,Oneprovidercom  Zurich Infrastructure
 38.180.84.46,443,CH,3NT SOLUTIONS LLP
 38.180.84.86,443,CH,3NT SOLUTIONS LLP
 38.180.85.203,443,CH,3NT SOLUTIONS LLP
@@ -62,13 +62,13 @@
 91.192.102.55,443,CH,Datasource AG
 91.245.225.17,443,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.245.225.69,443,CH,GLB Bulut Teknolojisi Limited Sirketi
-91.245.225.79,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.245.225.79,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
+91.245.225.79,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.90.193.138,443,CH,Friendhosting LTD
 91.90.193.159,443,CH,Friendhosting LTD
 91.90.193.19,443,CH,Friendhosting LTD
 91.90.193.24,443,CH,Friendhosting LTD
 94.131.12.15,443,CH,WorkTitans BV
 94.131.12.56,443,CH,WorkTitans BV
-95.183.51.10,8443,CH,Solar Communications GmbH
 95.183.51.10,2053,CH,Solar Communications GmbH
+95.183.51.10,8443,CH,Solar Communications GmbH
