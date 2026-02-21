@@ -4,10 +4,9 @@
 159.253.19.232,443,EE,Network for hosting services
 159.253.21.237,4434,EE,Network for hosting services
 159.253.23.238,443,EE,IPv6 network for hosting services
-176.124.32.164,8443,EE,BlueVPS OU
 176.97.74.132,2053,EE,IROKO Networks Corporation
-176.97.74.41,2053,EE,IROKO Networks Corporation
 176.97.74.41,8443,EE,IROKO Networks Corporation
+176.97.74.41,2053,EE,IROKO Networks Corporation
 176.97.74.51,2053,EE,IROKO Networks Corporation
 176.97.74.90,443,EE,IROKO Networks Corporation
 185.123.53.53,443,EE,BlueVPS OU
@@ -32,8 +31,6 @@
 194.26.141.30,443,EE,BlueVPS OU
 37.252.5.75,443,EE,IROKO Networks Corporation
 38.180.216.120,443,EE,3NT SOLUTIONS LLP
-38.180.216.128,2053,EE,3NT SOLUTIONS LLP
-38.180.216.128,8443,EE,3NT SOLUTIONS LLP
 38.180.248.167,8443,EE,3NT SOLUTIONS LLP
 38.180.248.29,443,EE,3NT SOLUTIONS LLP
 38.244.154.149,443,EE,3NT SOLUTIONS LLP
@@ -53,8 +50,8 @@
 46.36.221.147,8443,EE,Network for hosting services
 46.36.221.147,2053,EE,Network for hosting services
 46.36.223.141,443,EE,Network for hosting services
-5.101.179.212,8443,EE,Network for hosting services
 5.101.179.212,2053,EE,Network for hosting services
+5.101.179.212,8443,EE,Network for hosting services
 5.101.180.125,2053,EE,Network for hosting services
 5.101.180.125,8443,EE,Network for hosting services
 5.101.180.145,443,EE,Network for hosting services
@@ -66,7 +63,6 @@
 69.12.83.246,8443,EE,HostPapa
 69.12.83.248,8443,EE,RAKAR INVESTMENTS HOLDING BV
 69.12.83.249,8443,EE,RAKAR INVESTMENTS HOLDING BV
-77.72.85.186,8443,EE,BlueVPS OU
 80.77.25.142,443,EE,servingacom  Estonia
 80.79.121.46,443,EE,Aktsiaselts WaveCom
 80.79.123.100,443,EE,Aktsiaselts WaveCom

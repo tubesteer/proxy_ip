@@ -18,7 +18,7 @@
 43.205.45.56,443,IN,Amazoncom Inc
 45.88.183.55,2053,IN,WorkTitans BV
 64.227.158.180,443,IN,DigitalOcean LLC
-64.227.174.213,2053,IN,DigitalOcean LLC
 64.227.174.213,8443,IN,DigitalOcean LLC
+64.227.174.213,2053,IN,DigitalOcean LLC
 98.70.151.163,443,IN,Microsoft Corporation
 98.70.26.236,443,IN,Microsoft Corporation
