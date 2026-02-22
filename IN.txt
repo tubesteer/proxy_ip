@@ -3,14 +3,15 @@
 134.209.148.128,443,IN,DigitalOcean LLC
 140.238.225.218,80,IN,Cloudflare London LLC
 146.56.48.138,23010,IN,Oracle Corporation  Global software solutions  California  USA
-148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
 148.113.43.228,2053,IN,OVHTECH RD INDIA PRIVATE LIMITED
+148.113.43.228,8443,IN,OVHTECH RD INDIA PRIVATE LIMITED
 152.70.75.80,15805,IN,Oracle Corporation
 152.70.76.104,46000,IN,Oracle Corporation
 172.232.112.240,587,IN,Linode
 20.207.237.5,443,IN,Microsoft Corporation
 20.235.105.146,443,IN,Microsoft Corporation
 20.235.220.189,443,IN,Microsoft Corporation
+202.83.24.75,443,IN,Broad Band Internet Service Provider India
 216.10.243.159,443,IN,PDR Solutions FZC
 219.65.73.81,443,IN,Reliance Jio Infocomm Limited
 35.154.123.52,443,IN,Amazoncom Inc
