@@ -1,15 +1,15 @@
 129.152.2.127,1488,IT,Oracle Corporation
 151.91.39.191,443,IT,Stellantis Auto SAS
 158.180.231.216,443,IT,Oracle Corporation
-176.126.83.146,2053,IT,Oneprovidercom  Florence Infrastructure
 176.126.83.146,8443,IT,Oneprovidercom  Florence Infrastructure
+176.126.83.146,2053,IT,Oneprovidercom  Florence Infrastructure
 185.47.172.172,8443,IT,OMC COMPUTERS  COMMUNICATIONS LTD
 188.213.168.52,443,IT,Aruba SpA  Cloud Services Farm2
 194.165.59.20,443,IT,WorkTitans BV
 195.231.38.220,443,IT,Aruba SpA  Cloud Services IT3
 195.231.81.101,443,IT,Aruba SpA  Cloud Services IT3
 38.180.22.20,1001,IT,3NT SOLUTIONS LLP
-45.92.70.218,8443,IT,GCore Labs Customer assignment
+45.92.70.218,8443,IT,GCore Labs SA
 5.249.146.98,443,IT,Aruba SpA  Cloud Services Farm2
 5.253.43.216,443,IT,WorkTitans BV
 80.211.170.53,443,IT,Aruba SpA  Cloud Services DC1
