@@ -13,8 +13,8 @@
 185.195.69.119,2053,CH,Datasource AG
 185.195.69.119,8443,CH,Datasource AG
 185.195.69.19,443,CH,Datasource AG
-185.195.69.200,8443,CH,Datasource AG
 185.195.69.200,2053,CH,Datasource AG
+185.195.69.200,8443,CH,Datasource AG
 185.195.69.209,2053,CH,Datasource AG
 194.135.22.181,443,CH,GLB Bulut Teknolojisi Limited Sirketi
 194.156.102.142,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -67,5 +67,5 @@
 91.90.193.24,443,CH,Friendhosting LTD
 94.131.12.15,443,CH,WorkTitans BV
 94.131.12.56,443,CH,WorkTitans BV
-95.183.51.10,2053,CH,Solar Communications GmbH
 95.183.51.10,8443,CH,Solar Communications GmbH
+95.183.51.10,2053,CH,Solar Communications GmbH
