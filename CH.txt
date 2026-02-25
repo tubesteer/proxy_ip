@@ -59,8 +59,8 @@
 91.192.102.55,443,CH,Datasource AG
 91.245.225.17,443,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.245.225.69,443,CH,GLB Bulut Teknolojisi Limited Sirketi
-91.245.225.79,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.245.225.79,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
+91.245.225.79,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.90.193.138,443,CH,Friendhosting LTD
 91.90.193.159,443,CH,Friendhosting LTD
 91.90.193.19,443,CH,Friendhosting LTD
