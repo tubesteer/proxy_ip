@@ -1,9 +1,7 @@
 101.126.13.70,8443,CN,Beijing Volcano Engine Technology Co Ltd
 107.172.180.73,3306,CN,Hurricane Electric LLC
-120.204.51.3,443,CN,China Mobile Communications Corporation  shanghai company
 121.199.63.104,443,CN,Aliyun Computing Co LTD
 156.230.12.71,443,CN,263 Shanghai Communications Ltd
 39.98.224.123,443,CN,Aliyun Computing Co LTD
 47.92.161.8,443,CN,Aliyun Computing Co LTD
-47.92.245.88,443,CN,Aliyun Computing Co LTD
 58.247.200.18,443,CN,CHINA UNICOM Shanghai network
