@@ -1,8 +1,8 @@
 129.152.2.127,1488,IT,Oracle Corporation
 151.91.39.191,443,IT,Stellantis Auto SAS
 158.180.231.216,443,IT,Oracle Corporation
-176.126.83.146,2053,IT,Oneprovidercom  Florence Infrastructure
 176.126.83.146,8443,IT,Oneprovidercom  Florence Infrastructure
+176.126.83.146,2053,IT,Oneprovidercom  Florence Infrastructure
 185.47.172.172,8443,IT,OMC COMPUTERS  COMMUNICATIONS LTD
 188.213.168.52,443,IT,Aruba SpA  Cloud Services Farm2
 194.165.59.20,443,IT,WorkTitans BV
