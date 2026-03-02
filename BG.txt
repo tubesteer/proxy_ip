@@ -1,8 +1,8 @@
 146.19.80.84,443,BG,WorkTitans BV
 185.141.61.113,2053,BG,Belcloud LTD
 185.148.146.9,443,BG,Belcloud LTD
-185.162.10.111,8443,BG,Hosting Provider EuroHoster Ltd
 185.162.10.111,2053,BG,Hosting Provider EuroHoster Ltd
+185.162.10.111,8443,BG,Hosting Provider EuroHoster Ltd
 185.190.250.26,7445,BG,Friendhosting LTD
 185.203.116.174,443,BG,Belcloud LTD
 185.204.53.58,443,BG,Hosting Provider EuroHoster Ltd
