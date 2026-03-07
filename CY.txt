@@ -1,2 +1,1 @@
 213.7.187.34,443,CY,Cyprus Telecommunications Authority
-91.223.208.217,443,CY,CLOUDLAYER8 LIMITED
