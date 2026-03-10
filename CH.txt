@@ -19,12 +19,12 @@
 194.135.22.181,443,CH,GLB Bulut Teknolojisi Limited Sirketi
 194.156.102.142,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 194.87.18.92,443,CH,Baxet Group Inc
-194.87.97.6,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
 194.87.97.6,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
+194.87.97.6,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
 195.141.59.27,443,CH,Trueb AG
 195.15.254.118,443,CH,Infomaniak Network SA
-37.143.131.234,8443,CH,Oneprovidercom  Zurich Infrastructure
 37.143.131.234,2053,CH,Oneprovidercom  Zurich Infrastructure
+37.143.131.234,8443,CH,Oneprovidercom  Zurich Infrastructure
 38.180.161.32,443,CH,3NT SOLUTIONS LLP
 38.180.84.86,443,CH,3NT SOLUTIONS LLP
 38.180.85.203,443,CH,3NT SOLUTIONS LLP
