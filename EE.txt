@@ -2,7 +2,6 @@
 109.206.241.22,2053,EE,Baykov Ilya Sergeevich
 109.235.246.34,443,EE,Cloudflare London LLC
 138.124.4.38,443,EE,Baykov Ilya Sergeevich
-159.253.19.232,443,EE,Network for hosting services
 159.253.21.237,4434,EE,Network for hosting services
 159.253.23.238,443,EE,IPv6 network for hosting services
 159.69.162.184,43009,EE,FIBERZA
@@ -28,14 +27,14 @@
 185.4.72.98,2053,EE,Network for hosting services
 185.4.72.98,8443,EE,Network for hosting services
 185.4.73.45,443,EE,IPv6 network for hosting services
-193.42.112.66,2053,EE,ITDevelop DOO
 193.42.112.66,8443,EE,ITDevelop DOO
+193.42.112.66,2053,EE,ITDevelop DOO
 194.26.141.119,2053,EE,BlueVPS OU
 194.26.141.30,443,EE,BlueVPS OU
 37.252.5.75,443,EE,IROKO Networks Corporation
 38.180.216.120,443,EE,3NT SOLUTIONS LLP
-38.180.216.128,2053,EE,3NT SOLUTIONS LLP
 38.180.216.128,8443,EE,3NT SOLUTIONS LLP
+38.180.216.128,2053,EE,3NT SOLUTIONS LLP
 38.180.248.167,8443,EE,3NT SOLUTIONS LLP
 38.180.248.29,443,EE,3NT SOLUTIONS LLP
 38.244.154.149,443,EE,3NT SOLUTIONS LLP
@@ -49,8 +48,8 @@
 46.36.217.216,443,EE,Network for hosting services
 46.36.218.151,443,EE,Network for hosting services
 46.36.219.80,443,EE,Network for hosting services
-46.36.221.147,2053,EE,Network for hosting services
 46.36.221.147,8443,EE,Network for hosting services
+46.36.221.147,2053,EE,Network for hosting services
 46.36.223.141,443,EE,Network for hosting services
 5.101.179.212,8443,EE,Network for hosting services
 5.101.179.212,2053,EE,Network for hosting services
