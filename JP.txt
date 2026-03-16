@@ -6,14 +6,15 @@
 109.123.231.212,443,JP,Contabo GmbH
 109.123.231.212,2053,JP,Contabo GmbH
 131.186.63.89,11655,JP,Oracle Public Cloud
-132.145.127.203,8443,JP,Oracle Public Cloud
 132.145.127.203,2053,JP,Oracle Public Cloud
+132.145.127.203,8443,JP,Oracle Public Cloud
 138.2.10.149,45638,JP,Oracle Corporation
 138.2.10.217,27446,JP,Oracle Corporation
 138.2.12.103,14453,JP,Cloudflare London LLC
 138.2.18.82,8880,JP,Oracle Corporation
 138.2.32.76,15821,JP,Oracle Corporation
 138.2.39.24,443,JP,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
 138.2.49.197,587,JP,Oracle Corporation
 138.2.5.136,443,JP,Cloudflare London LLC
 138.2.59.96,10129,JP,Oracle Corporation
@@ -43,8 +44,8 @@
 153.121.45.101,443,JP,SAKURA Internet Inc
 155.248.181.189,443,JP,Oracle Public Cloud
 158.101.131.94,2083,JP,Oracle Public Cloud
-158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.146.3,54516,JP,Oracle Public Cloud
+158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.152.6,2919,JP,Oracle Public Cloud
 158.101.154.245,47001,JP,Oracle Public Cloud
 158.101.76.55,21953,JP,Oracle Public Cloud
@@ -79,6 +80,5 @@
 64.110.101.31,8443,JP,Oracle Corporation
 64.110.104.30,443,JP,Oracle Corporation
 64.176.36.17,443,JP,The Constant Company LLC
-8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
 8.216.121.234,51922,JP,Alibaba Cloud Singapore Private Limited
 82.163.16.229,26803,JP,AKILE LTD
