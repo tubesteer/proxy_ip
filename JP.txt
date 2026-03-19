@@ -1,13 +1,12 @@
 103.106.0.123,443,JP,WorkTitans BV
 103.106.228.126,2053,JP,oneprovidercom  Tokyo Infrastructure
 103.125.216.22,8443,JP,VPSServercom 24 block for Tokyo location
-103.238.129.215,42734,JP,ByteVirt LLC
 103.75.118.144,2053,JP,Oneprovidercom  Japan Infrastructure
 109.123.231.212,2053,JP,Contabo GmbH
 109.123.231.212,443,JP,Contabo GmbH
 131.186.63.89,11655,JP,Oracle Public Cloud
-132.145.127.203,2053,JP,Oracle Public Cloud
 132.145.127.203,8443,JP,Oracle Public Cloud
+132.145.127.203,2053,JP,Oracle Public Cloud
 138.2.10.149,45638,JP,Oracle Corporation
 138.2.10.217,27446,JP,Oracle Corporation
 138.2.12.103,14453,JP,Cloudflare London LLC
@@ -43,7 +42,6 @@
 152.70.82.101,18650,JP,Oracle Corporation
 153.121.45.101,443,JP,SAKURA Internet Inc
 155.248.181.189,443,JP,Oracle Public Cloud
-158.101.131.94,2083,JP,Oracle Public Cloud
 158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.146.3,54516,JP,Oracle Public Cloud
 158.101.152.6,2919,JP,Oracle Public Cloud
@@ -73,8 +71,8 @@
 45.32.55.253,443,JP,Vultr Holdings LLC
 45.76.192.129,24434,JP,Vultr Holdings LLC
 45.76.198.248,443,JP,Vultr Holdings LLC
-45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.25.6,48828,JP,Vultr Holdings LLC
+45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.9.114,443,JP,Vultr Holdings LLC
 47.74.8.30,2443,JP,Alibaba Cloud  JP
 64.110.101.31,8443,JP,Oracle Corporation
