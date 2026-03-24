@@ -32,7 +32,6 @@
 141.147.159.250,443,JP,Oracle Corporation
 141.147.183.49,29876,JP,Oracle Corporation
 141.147.185.63,443,JP,Oracle Corporation
-141.98.197.101,11665,JP,365 Group LLC
 149.28.21.106,443,JP,Vultr Holdings LLC
 150.230.204.21,10243,JP,Oracle Corporation
 150.230.214.172,16957,JP,Oracle Corporation
@@ -58,8 +57,8 @@
 172.104.127.132,443,JP,Linode
 18.183.158.211,443,JP,Amazon Data Services Japan
 193.123.161.116,443,JP,Oracle Corporation
-202.84.53.85,12145,JP,Azumino Network Community TV
 202.84.53.85,19999,JP,Azumino Network Community TV
+202.84.53.85,12145,JP,Azumino Network Community TV
 210.138.37.53,443,JP,CDNetworks co Ltd
 210.231.178.90,443,JP,Server Hosting ServiceNTTPCCommunicationsInc
 217.142.230.253,587,JP,Oracle Corporation
@@ -71,9 +70,8 @@
 45.32.55.253,443,JP,Vultr Holdings LLC
 45.76.192.129,24434,JP,Vultr Holdings LLC
 45.76.198.248,443,JP,Vultr Holdings LLC
-45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.25.6,48828,JP,Vultr Holdings LLC
-45.77.9.114,443,JP,Vultr Holdings LLC
+45.77.25.6,27854,JP,Vultr Holdings LLC
 47.74.8.30,2443,JP,Alibaba Cloud  JP
 64.110.101.31,8443,JP,Oracle Corporation
 64.110.104.30,443,JP,Oracle Corporation
