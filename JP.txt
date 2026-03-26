@@ -32,6 +32,7 @@
 141.147.159.250,443,JP,Oracle Corporation
 141.147.183.49,29876,JP,Oracle Corporation
 141.147.185.63,443,JP,Oracle Corporation
+141.98.197.101,11665,JP,365 Group LLC
 149.28.21.106,443,JP,Vultr Holdings LLC
 150.230.204.21,10243,JP,Oracle Corporation
 150.230.214.172,16957,JP,Oracle Corporation
@@ -52,6 +53,7 @@
 168.138.192.16,54584,JP,Oracle Public Cloud
 168.138.197.147,12345,JP,Oracle Public Cloud
 168.138.198.7,27560,JP,Oracle Public Cloud
+168.138.212.80,443,JP,Oracle Public Cloud
 168.138.46.67,443,JP,Oracle Public Cloud
 172.104.127.132,443,JP,Linode
 18.183.158.211,443,JP,Amazon Data Services Japan
