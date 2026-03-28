@@ -37,17 +37,17 @@
 45.129.199.117,443,EE,BlueVPS OU
 45.129.199.232,443,EE,BlueVPS OU
 45.129.199.80,8443,EE,BlueVPS OU
-46.22.210.175,8500,EE,SOLUS KVM VPS POOL
 46.22.210.175,2053,EE,SOLUS KVM VPS POOL
+46.22.210.175,8500,EE,SOLUS KVM VPS POOL
 46.22.211.46,443,EE,Aktsiaselts WaveCom
 46.36.218.151,443,EE,Network for hosting services
-46.36.221.147,8443,EE,Network for hosting services
 46.36.221.147,2053,EE,Network for hosting services
+46.36.221.147,8443,EE,Network for hosting services
 46.36.223.141,443,EE,Network for hosting services
 5.101.179.212,8443,EE,Network for hosting services
 5.101.179.212,2053,EE,Network for hosting services
-5.101.180.125,2053,EE,Network for hosting services
 5.101.180.125,8443,EE,Network for hosting services
+5.101.180.125,2053,EE,Network for hosting services
 5.101.180.145,443,EE,Network for hosting services
 5.189.254.114,443,EE,Brainoza OU
 5.189.254.225,443,EE,Brainoza OU
