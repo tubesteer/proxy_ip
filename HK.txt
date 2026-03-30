@@ -4,7 +4,7 @@
 154.18.161.172,18443,HK,Hytron Network Services Limited
 154.21.201.83,443,HK,NetLab
 154.38.116.8,443,HK,STARCLOUD GLOBAL PTE LTD
-156.230.12.71,443,HK,263 Shanghai Communications Ltd
+156.230.12.71,443,HK,263 Global Communication Limited
 18.162.156.23,12355,HK,Amazon Data Services Hong Kong
 192.131.142.161,46639,HK,365 Group LLC
 192.142.4.76,2053,HK,Ultahost Inc
@@ -20,13 +20,13 @@
 219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.183,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 221.125.10.8,57537,HK,HGC Global Communications Limited
-223.16.138.113,10002,HK,HGC Global Communications Limited
-223.16.138.113,12457,HK,HGC Global Communications Limited
 223.16.138.113,10201,HK,HGC Global Communications Limited
+223.16.138.113,12457,HK,HGC Global Communications Limited
+223.16.138.113,10002,HK,HGC Global Communications Limited
 43.132.244.52,21415,HK,6 COLLYER QUAY
 43.154.124.136,26666,HK,6 COLLYER QUAY
 43.198.204.35,443,HK,Amazoncom Inc
-45.149.186.112,8080,HK,AKILE LTD
+45.149.186.112,8080,HK,HYTRON NETWORK HK
 45.38.42.198,2053,HK,EGIHosting
 47.240.15.210,4432,HK,Alibaba Cloud  HK
 47.242.145.136,8001,HK,ALIBABA CLOUD  HK

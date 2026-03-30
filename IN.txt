@@ -1,7 +1,7 @@
 13.200.192.197,443,IN,Amazon Data Services India
 134.195.137.107,22473,IN,ReadyDedis LLC
 134.209.148.128,443,IN,DigitalOcean LLC
-140.238.225.218,80,IN,Cloudflare London LLC
+140.238.225.218,80,IN,Oracle Public Cloud
 146.56.48.138,23010,IN,Oracle Corporation  Global software solutions  California  USA
 152.70.75.80,15805,IN,Oracle Corporation
 152.70.76.104,46000,IN,Oracle Corporation

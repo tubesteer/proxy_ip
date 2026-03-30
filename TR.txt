@@ -1,5 +1,5 @@
-104.239.87.213,2053,TR,Baxet Group Inc
 104.239.87.213,8443,TR,Baxet Group Inc
+104.239.87.213,2053,TR,Baxet Group Inc
 138.124.107.35,443,TR,Plant Holding GmbH
 141.98.118.80,443,TR,Hostigger INC
 185.200.36.36,443,TR,High Speed Telekomunikasyon ve Hab Hiz Ltd Sti
