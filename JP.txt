@@ -33,7 +33,6 @@
 141.147.159.250,443,JP,Oracle Corporation
 141.147.183.49,29876,JP,Oracle Corporation
 141.147.185.63,443,JP,Oracle Corporation
-141.147.188.120,443,JP,Oracle Corporation
 141.98.197.101,11665,JP,365 Group LLC
 149.28.21.106,443,JP,Vultr Holdings LLC
 150.230.204.21,10243,JP,Oracle Corporation
@@ -42,8 +41,8 @@
 152.69.192.40,57005,JP,Oracle Corporation
 153.121.45.101,443,JP,SAKURA Internet Inc
 155.248.181.189,443,JP,Oracle Public Cloud
-158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.146.3,54516,JP,Oracle Public Cloud
+158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.152.6,2919,JP,Oracle Public Cloud
 158.101.154.245,47001,JP,Oracle Public Cloud
 158.101.76.55,21953,JP,Oracle Public Cloud
@@ -56,18 +55,13 @@
 168.138.198.7,27560,JP,Oracle Public Cloud
 168.138.212.80,443,JP,Oracle Public Cloud
 168.138.46.67,443,JP,Oracle Public Cloud
-172.104.116.214,443,JP,Akamai Connected Cloud  Linode
-172.104.116.38,443,JP,Akamai Connected Cloud  Linode
 172.104.127.132,443,JP,Linode
-172.105.199.137,443,JP,Akamai Connected Cloud  Linode
-172.105.199.91,443,JP,Akamai Connected Cloud  Linode
 172.105.226.139,443,JP,Akamai Connected Cloud  Linode
 18.183.158.211,443,JP,Amazon Data Services Japan
 192.243.127.224,443,JP,IT7 Networks Inc
 193.123.161.116,443,JP,Oracle Corporation
-202.182.122.164,443,JP,Vultr Holdings LLC
-202.84.53.85,12145,JP,Azumino Network Community TV
 202.84.53.85,19999,JP,Azumino Network Community TV
+202.84.53.85,12145,JP,Azumino Network Community TV
 207.148.113.196,443,JP,Vultr Holdings LLC
 210.138.37.53,443,JP,CDNetworks co Ltd
 210.231.178.90,443,JP,Server Hosting ServiceNTTPCCommunicationsInc
@@ -87,4 +81,5 @@
 47.74.8.30,2443,JP,Alibaba Cloud  JP
 64.110.104.30,443,JP,Oracle Corporation
 64.176.36.17,443,JP,The Constant Company LLC
+8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
 8.216.121.234,51922,JP,Alibaba Cloud Singapore Private Limited
