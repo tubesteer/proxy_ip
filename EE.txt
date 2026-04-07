@@ -3,8 +3,7 @@
 138.124.4.38,443,EE,Baykov Ilya Sergeevich
 159.253.21.237,4434,EE,Network for hosting services
 159.253.23.238,443,EE,IPv6 network for hosting services
-159.69.162.184,43008,EE,FIBERZA
-159.69.162.184,43009,EE,FIBERZA
+159.69.162.184,43443,EE,Inter Connects Inc
 176.97.74.132,2053,EE,IROKO Networks Corporation
 176.97.74.41,2053,EE,IROKO Networks Corporation
 176.97.74.41,8443,EE,IROKO Networks Corporation
@@ -33,8 +32,8 @@
 45.12.28.95,443,EE,Brainoza OU
 45.129.199.117,443,EE,BlueVPS OU
 45.129.199.80,8443,EE,BlueVPS OU
-46.22.210.175,2053,EE,SOLUS KVM VPS POOL
 46.22.210.175,8500,EE,SOLUS KVM VPS POOL
+46.22.210.175,2053,EE,SOLUS KVM VPS POOL
 46.22.211.46,443,EE,Aktsiaselts WaveCom
 46.36.218.151,443,EE,Network for hosting services
 46.36.221.147,2053,EE,Network for hosting services
