@@ -1,4 +1,3 @@
-125.7.24.251,443,AU,Macquarie Telecom
 130.162.193.183,15401,AU,Oracle Public Cloud
 152.67.101.72,23010,AU,Oracle Public Cloud
 152.67.125.174,443,AU,Oracle Public Cloud
