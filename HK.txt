@@ -8,8 +8,8 @@
 18.162.156.23,12355,HK,Amazon Data Services Hong Kong
 192.131.142.161,46639,HK,365 Group LLC
 194.156.99.182,8443,HK,FreeNet LLCFZ
-2.56.91.89,8443,HK,ihchk vps in Hong Kong
 2.56.91.89,2053,HK,ihchk vps in Hong Kong
+2.56.91.89,8443,HK,ihchk vps in Hong Kong
 210.3.159.133,443,HK,HGC Global Communications Limited
 219.76.13.166,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.167,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
