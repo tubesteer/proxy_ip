@@ -8,16 +8,16 @@
 171.22.16.253,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 176.10.125.114,443,CH,Datasource AG
 179.43.144.10,8000,CH,PRIVATE LAYER INC
-185.195.69.119,8443,CH,Datasource AG
 185.195.69.119,2053,CH,Datasource AG
+185.195.69.119,8443,CH,Datasource AG
 185.195.69.19,443,CH,Datasource AG
 185.195.69.200,8443,CH,Datasource AG
 185.195.69.209,2053,CH,Datasource AG
 194.156.102.142,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 194.87.18.92,443,CH,Baxet Group Inc
 195.141.59.27,443,CH,Trueb AG
-37.143.131.234,8443,CH,Oneprovidercom  Zurich Infrastructure
 37.143.131.234,2053,CH,Oneprovidercom  Zurich Infrastructure
+37.143.131.234,8443,CH,Oneprovidercom  Zurich Infrastructure
 38.180.84.86,443,CH,Cloudflare London LLC
 38.180.85.203,443,CH,3NT SOLUTIONS LLP
 45.134.133.139,443,CH,eDurable SA
@@ -41,9 +41,10 @@
 91.192.102.155,8443,CH,Datasource AG
 91.192.102.170,2053,CH,Datasource AG
 91.192.102.55,443,CH,Datasource AG
+91.245.225.17,443,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.245.225.69,443,CH,GLB Bulut Teknolojisi Limited Sirketi
-91.245.225.79,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.245.225.79,2053,CH,GLB Bulut Teknolojisi Limited Sirketi
+91.245.225.79,8443,CH,GLB Bulut Teknolojisi Limited Sirketi
 91.90.193.138,443,CH,Friendhosting LTD
 91.90.193.19,443,CH,Friendhosting LTD
 91.90.193.24,443,CH,Friendhosting LTD
