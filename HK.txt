@@ -1,5 +1,5 @@
 101.79.165.113,443,HK,CDNetworks
-141.11.91.67,8080,HK,HYTRON NETWORK HK
+141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
 154.16.10.34,8080,HK,Digital Energy Technologies Limited
 154.18.161.172,18443,HK,Hytron Network Services Limited
 154.21.201.83,443,HK,NetLab
@@ -19,13 +19,12 @@
 219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.183,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 221.125.10.8,57537,HK,HGC Global Communications Limited
-223.16.138.113,10002,HK,HGC Global Communications Limited
-223.16.138.113,10201,HK,HGC Global Communications Limited
 223.16.138.113,12457,HK,HGC Global Communications Limited
+223.16.138.113,10201,HK,HGC Global Communications Limited
+223.16.138.113,10002,HK,HGC Global Communications Limited
 43.132.244.52,21415,HK,6 COLLYER QUAY
 43.154.124.136,26666,HK,6 COLLYER QUAY
 43.198.204.35,443,HK,Amazoncom Inc
-45.149.186.112,8080,HK,AKILE LTD
 45.38.42.198,2053,HK,Subnet Digital LLC
 47.240.15.210,4432,HK,Alibaba Cloud  HK
 47.242.145.136,8001,HK,ALIBABA CLOUD  HK
