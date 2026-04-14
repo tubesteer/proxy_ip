@@ -11,7 +11,6 @@
 77.81.234.27,2053,IT,Aruba SpA  Cloud Services Farm2
 77.81.234.27,8443,IT,Aruba SpA  Cloud Services Farm2
 80.211.170.53,443,IT,Aruba SpA  Cloud Services Farm2
-80.211.231.169,443,IT,Aruba SpA  Cloud Services Farm2
 80.211.238.61,443,IT,Aruba SpA  Cloud Services Farm2
 80.211.48.113,443,IT,Aruba SpA  Cloud Services DC1
 87.120.237.36,81,IT,GCore Labs SA
