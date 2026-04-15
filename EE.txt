@@ -28,12 +28,12 @@
 45.12.28.95,443,EE,Brainoza OU
 45.129.199.117,443,EE,BlueVPS OU
 45.129.199.80,8443,EE,BlueVPS OU
-46.22.210.175,2053,EE,SOLUS KVM VPS POOL
 46.22.210.175,8500,EE,SOLUS KVM VPS POOL
+46.22.210.175,2053,EE,SOLUS KVM VPS POOL
 46.22.211.46,443,EE,Aktsiaselts WaveCom
 46.36.218.151,443,EE,Network for hosting services
-46.36.221.147,2053,EE,Network for hosting services
 46.36.221.147,8443,EE,Network for hosting services
+46.36.221.147,2053,EE,Network for hosting services
 46.36.223.141,443,EE,Network for hosting services
 5.101.179.212,8443,EE,Network for hosting services
 5.101.179.212,2053,EE,Network for hosting services
