@@ -6,6 +6,7 @@
 129.150.36.188,53435,SG,Oracle Corporation
 129.150.58.86,57621,SG,Oracle Corporation
 129.226.150.167,443,SG,6 COLLYER QUAY
+13.250.131.37,443,SG,Amazon Data Services Singapore
 13.250.31.132,443,SG,Amazon Data Services Singapore
 138.2.64.229,443,SG,Oracle Corporation
 138.2.78.38,1443,SG,Oracle Corporation
@@ -46,8 +47,8 @@
 47.130.35.116,8888,SG,Amazon Data Services Singapore
 47.74.254.191,8900,SG,Alibaba Cloud  SG
 5.34.176.119,81,SG,Green Floid LLC
-51.79.158.58,2053,SG,OVH Singapore PTE LTD
 51.79.158.58,8443,SG,OVH Singapore PTE LTD
+51.79.158.58,2053,SG,OVH Singapore PTE LTD
 52.76.110.129,20001,SG,Amazon Technologies Inc
 54.255.217.120,8192,SG,Amazon Data Services Japan
 66.42.51.60,8443,SG,SGPVULTRCUST
