@@ -2,6 +2,7 @@
 134.209.148.128,443,IN,DigitalOcean LLC
 140.238.225.218,80,IN,Oracle Public Cloud
 152.70.76.104,46000,IN,Oracle Corporation
+159.65.159.31,443,IN,DigitalOcean LLC
 20.207.237.5,443,IN,Microsoft Corporation
 20.235.105.146,443,IN,Microsoft Corporation
 20.235.220.189,443,IN,Microsoft Corporation

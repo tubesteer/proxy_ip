@@ -4,11 +4,11 @@
 109.120.134.216,443,SE,Aeza International LTD
 109.120.135.100,443,SE,Aeza International LTD
 129.151.198.3,2053,SE,Oracle Corporation
-16.16.45.85,2053,SE,Amazon Data Services Sweden
 16.16.45.85,8443,SE,Amazon Data Services Sweden
+16.16.45.85,2053,SE,Amazon Data Services Sweden
 172.234.96.64,8443,SE,Linode
-188.126.77.155,8443,SE,ISPIRIA Networks Ltd
 188.126.77.155,2053,SE,ISPIRIA Networks Ltd
+188.126.77.155,8443,SE,ISPIRIA Networks Ltd
 192.145.30.27,443,SE,Baykov Ilya Sergeevich
 192.145.30.29,443,SE,Baykov Ilya Sergeevich
 193.181.29.120,443,SE,SweHosting
