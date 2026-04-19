@@ -6,8 +6,8 @@
 194.165.59.20,443,IT,WorkTitans BV
 195.231.38.220,443,IT,Aruba SpA  Cloud Services IT3
 5.249.146.98,443,IT,Aruba SpA  Cloud Services Farm2
-77.81.234.27,2053,IT,Aruba SpA  Cloud Services Farm2
 77.81.234.27,8443,IT,Aruba SpA  Cloud Services Farm2
+77.81.234.27,2053,IT,Aruba SpA  Cloud Services Farm2
 80.211.170.53,443,IT,Aruba SpA  Cloud Services Farm2
 80.211.238.61,443,IT,Aruba SpA  Cloud Services Farm2
 80.211.48.113,443,IT,Aruba SpA  Cloud Services DC1

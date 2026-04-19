@@ -22,6 +22,7 @@
 38.180.3.73,2053,BG,3NT SOLUTIONS LLP
 78.128.127.93,443,BG,DA International Group Ltd
 79.124.7.236,444,BG,DA International Group Ltd  AlphaVPS
+91.210.166.102,443,BG,Friendhosting LTD
 91.210.166.145,443,BG,Friendhosting LTD
 91.210.166.82,443,BG,Friendhosting LTD
 91.215.153.85,443,BG,Friendhosting LTD
