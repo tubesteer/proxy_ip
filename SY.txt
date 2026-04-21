@@ -1,1 +1,2 @@
+185.200.36.36,443,SY,High Speed Telekomunikasyon ve Hab Hiz Ltd Sti
 185.235.16.12,443,SY,Bitakat Company LTD
