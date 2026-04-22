@@ -2,11 +2,11 @@
 103.106.228.126,2053,JP,oneprovidercom  Tokyo Infrastructure
 103.125.216.22,8443,JP,VPSServercom 24 block for Tokyo location
 103.75.118.144,2053,JP,Oneprovidercom  Japan Infrastructure
-109.123.231.212,443,JP,Contabo GmbH
 109.123.231.212,2053,JP,Contabo GmbH
+109.123.231.212,443,JP,Contabo GmbH
 131.186.63.89,11655,JP,Oracle Public Cloud
-132.145.127.203,8443,JP,Oracle Public Cloud
 132.145.127.203,2053,JP,Oracle Public Cloud
+132.145.127.203,8443,JP,Oracle Public Cloud
 138.2.10.149,45638,JP,Oracle Corporation
 138.2.10.217,27446,JP,Oracle Corporation
 138.2.18.82,8880,JP,Oracle Corporation
@@ -51,7 +51,6 @@
 168.138.198.7,27560,JP,Oracle Public Cloud
 168.138.46.67,443,JP,Oracle Public Cloud
 172.104.127.132,443,JP,Linode
-207.148.113.196,443,JP,Vultr Holdings LLC
 210.138.37.53,443,JP,CDNetworks co Ltd
 210.231.178.90,443,JP,Server Hosting ServiceNTTPCCommunicationsInc
 217.142.230.253,587,JP,Oracle Corporation
@@ -60,10 +59,11 @@
 45.32.49.72,9443,JP,Vultr Holdings LLC
 45.76.198.248,443,JP,Vultr Holdings LLC
 45.77.176.87,443,JP,Vultr Holdings LLC
-45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.25.6,48828,JP,Vultr Holdings LLC
+45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.9.114,443,JP,Vultr Holdings LLC
 47.74.8.30,2443,JP,Alibaba Cloud  JP
+64.110.101.31,8443,JP,Oracle Corporation
 64.110.104.30,443,JP,Oracle Corporation
 64.176.36.17,443,JP,The Constant Company LLC
 8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
