@@ -1,1 +1,1 @@
-151.242.153.9,443,TW,Chunghwa Telecom CoLtd
+151.242.153.9,443,TW,Data Communication Business Group
