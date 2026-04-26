@@ -3,8 +3,6 @@
 152.67.125.174,443,AU,Oracle Public Cloud
 16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
 170.64.152.77,7443,AU,DigitalOcean LLC
-175.45.183.67,443,AU,Mammoth Media Pty Ltd
 192.9.190.80,23862,AU,Oracle Corporation
 194.195.252.133,443,AU,Akamai Connected Cloud  Linode
-207.148.80.190,443,AU,The Constant Company LLC
 45.77.236.204,443,AU,Vultr Holdings LLC
