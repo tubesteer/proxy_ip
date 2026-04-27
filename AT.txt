@@ -6,8 +6,8 @@
 185.119.117.146,8443,AT,IPAX VIRTUAL line server
 38.180.143.51,8443,AT,3NT SOLUTIONS LLP
 38.180.143.51,2053,AT,3NT SOLUTIONS LLP
-46.102.156.144,2053,AT,Alwyzon a trading name of Hohl IT eU
 46.102.156.144,8443,AT,Alwyzon a trading name of Hohl IT eU
+46.102.156.144,2053,AT,Alwyzon a trading name of Hohl IT eU
 85.236.242.36,443,AT,Cable Customers
 94.177.8.122,8443,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.122,2053,AT,Alwyzon a trading name of Hohl IT eU
