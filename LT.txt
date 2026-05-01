@@ -5,6 +5,7 @@
 147.45.217.40,443,LT,GLOBAL CONNECTIVITY SOLUTIONS LLP
 176.223.136.90,443,LT,UAB Interneto vizija
 185.237.185.110,2053,LT,oneprovidercom  Vilnius Infrastructure
+185.237.185.182,8443,LT,Oneprovidercom  Vilnius Infrastructure
 185.237.185.182,2053,LT,Oneprovidercom  Vilnius Infrastructure
 194.135.80.192,443,LT,UAB Interneto vizija
 195.181.244.107,443,LT,UAB Interneto vizija

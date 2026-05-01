@@ -1,5 +1,4 @@
 1.249.45.86,12112,KR,SK Broadband Co Ltd
-106.245.63.110,50001,KR,LG DACOM Corporation
 112.166.95.230,50001,KR,Korea Telecom
 123.111.169.70,443,KR,SK Broadband Co Ltd
 129.154.212.17,20180,KR,Oracle Corporation
@@ -13,12 +12,11 @@
 138.2.122.197,39863,KR,Oracle Corporation
 140.238.2.81,587,KR,Oracle Public Cloud
 140.238.5.75,13644,KR,Oracle Corporation
-141.164.35.158,443,KR,KORVULTRCUST
 144.24.73.232,443,KR,Oracle Corp UK Ltd
 144.24.87.69,50001,KR,Oracle Corporation
 146.56.140.79,20309,KR,Cloudflare Inc
-146.56.140.79,44699,KR,Cloudflare London LLC
 146.56.140.79,22561,KR,Cloudflare London LLC
+146.56.140.79,44699,KR,Cloudflare London LLC
 146.56.42.21,7777,KR,Cloudflare London LLC
 146.56.99.22,20443,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.99.255,56789,KR,Oracle Corporation  Global software solutions  California  USA
