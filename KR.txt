@@ -28,7 +28,6 @@
 158.180.69.78,12198,KR,Cloudflare Inc
 158.180.72.60,443,KR,oracle
 158.247.250.157,81,KR,The Constant Company LLC
-175.202.135.114,12427,KR,Korea Telecom
 192.46.231.158,443,KR,Akamai Connected Cloud  Linode
 193.122.115.67,4434,KR,Oracle Public Cloud
 193.123.253.225,4333,KR,Oracle Corporation
