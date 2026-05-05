@@ -1,5 +1,5 @@
 101.79.165.113,443,HK,CDNetworks
-141.11.91.67,8080,HK,HYTRON NETWORK HK
+141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
 154.16.10.34,8080,HK,Digital Energy Technologies Limited
 154.18.161.172,18443,HK,Hytron Network Services Limited
 154.38.116.8,443,HK,STARCLOUD GLOBAL PTE LTD
