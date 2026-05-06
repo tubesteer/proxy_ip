@@ -28,12 +28,13 @@
 141.147.185.63,443,JP,Oracle Corporation
 149.28.21.106,443,JP,Vultr Holdings LLC
 150.230.204.21,10243,JP,Oracle Corporation
+150.230.214.172,16957,JP,Oracle Corporation
 150.230.5.34,45681,JP,Oracle Corporation
 152.69.192.40,57005,JP,Oracle Corporation
 153.121.45.101,443,JP,SAKURA Internet Inc
-158.101.131.94,2083,JP,Oracle Public Cloud
-158.101.146.3,44872,JP,Oracle Public Cloud
+155.248.181.189,443,JP,Oracle Public Cloud
 158.101.146.3,54516,JP,Oracle Public Cloud
+158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.152.6,2919,JP,Oracle Public Cloud
 158.101.154.245,47001,JP,Oracle Public Cloud
 158.101.76.55,21953,JP,Oracle Public Cloud
