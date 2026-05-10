@@ -14,7 +14,7 @@
 138.2.95.61,1111,SG,Oracle Corporation
 139.180.159.133,443,SG,SGPVULTRCUST
 139.99.124.165,443,SG,OVH SINGAPOR DC
-143.42.66.91,443,SG,M1 LIMITED
+143.42.66.91,443,SG,Viewqwest Pte Ltd
 146.235.18.248,45137,SG,Oracle Corporation
 146.235.19.79,28983,SG,Oracle Corporation
 149.28.158.103,10030,SG,Vultr Holdings LLC
@@ -28,7 +28,6 @@
 167.99.73.22,443,SG,DigitalOcean LLC
 168.138.165.174,443,SG,Oracle Public Cloud
 168.138.171.70,23280,SG,Oracle Public Cloud
-168.138.189.91,443,SG,Oracle Public Cloud
 178.128.80.43,443,SG,DigitalOcean LLC
 178.128.86.3,443,SG,DigitalOcean LLC
 185.81.28.95,30503,SG,AKILE LTD
@@ -43,7 +42,6 @@
 43.156.181.203,443,SG,16 COLLYER QUAY
 45.76.183.217,49292,SG,Vultr Holdings LLC
 47.130.35.116,8888,SG,Amazon Data Services Singapore
-47.236.29.162,443,SG,Alibaba Cloud Singapore Private Limited
 47.74.254.191,8900,SG,Alibaba Cloud  SG
 5.34.176.119,81,SG,Green Floid LLC
 52.76.110.129,20001,SG,Amazon Technologies Inc
