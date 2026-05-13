@@ -2,8 +2,8 @@
 138.124.4.38,443,EE,Baykov Ilya Sergeevich
 159.69.162.184,43443,EE,Inter Connects Inc
 176.97.74.132,2053,EE,IROKO Networks Corporation
-176.97.74.41,2053,EE,IROKO Networks Corporation
 176.97.74.41,8443,EE,IROKO Networks Corporation
+176.97.74.41,2053,EE,IROKO Networks Corporation
 176.97.74.51,2053,EE,IROKO Networks Corporation
 176.97.74.90,443,EE,IROKO Networks Corporation
 185.123.53.53,443,EE,BlueVPS OU

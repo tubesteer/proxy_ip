@@ -2,8 +2,8 @@
 103.125.216.22,8443,JP,VPSServercom 24 block for Tokyo location
 103.75.118.144,2053,JP,Oneprovidercom  Japan Infrastructure
 131.186.63.89,11655,JP,Oracle Public Cloud
-132.145.127.203,2053,JP,Oracle Public Cloud
 132.145.127.203,8443,JP,Oracle Public Cloud
+132.145.127.203,2053,JP,Oracle Public Cloud
 138.2.10.149,45638,JP,Oracle Corporation
 138.2.10.217,27446,JP,Oracle Corporation
 138.2.18.82,8880,JP,Oracle Corporation
