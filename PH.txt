@@ -1,3 +1,1 @@
 122.2.198.74,443,PH,IPG
-209.146.25.162,443,PH,Crown 7 Business Center Pope John Paul II Ave Cebu City Visayas 6000
-38.54.81.111,443,PH,Kaopu Cloud HK Limited
