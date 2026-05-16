@@ -1,1 +1,1 @@
-62.60.186.78,8443,IR,Iranian Research Organization for Science  Technology
+91.92.206.174,27784,IR,Telecommunication Company of Tehran
