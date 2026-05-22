@@ -3,8 +3,8 @@
 103.75.118.144,2053,JP,Oneprovidercom  Japan Infrastructure
 118.27.12.40,38443,JP,GMO Internet Inc
 131.186.63.89,11655,JP,Oracle Public Cloud
-132.145.127.203,8443,JP,Oracle Public Cloud
 132.145.127.203,2053,JP,Oracle Public Cloud
+132.145.127.203,8443,JP,Oracle Public Cloud
 138.2.10.149,45638,JP,Oracle Corporation
 138.2.10.217,27446,JP,Oracle Corporation
 138.2.18.82,8880,JP,Oracle Corporation
@@ -18,7 +18,6 @@
 138.3.222.124,46209,JP,Oracle Network Information Services
 139.162.102.152,7002,JP,Akamai Connected Cloud  Linode
 140.238.37.103,14782,JP,Oracle Public Cloud
-140.238.38.81,587,JP,Cloudflare Inc
 140.238.50.134,443,JP,Oracle Public Cloud
 140.83.57.183,22735,JP,imported inetnum object for OCPL1
 140.83.57.20,13118,JP,imported inetnum object for OCPL1
@@ -32,10 +31,9 @@
 150.230.5.34,45681,JP,Oracle Corporation
 152.69.192.40,57005,JP,Oracle Corporation
 153.121.45.101,443,JP,SAKURA Internet Inc
-155.248.181.189,443,JP,Oracle Public Cloud
 158.101.131.94,2083,JP,Oracle Public Cloud
-158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.146.3,54516,JP,Oracle Public Cloud
+158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.152.6,2919,JP,Oracle Public Cloud
 158.101.154.245,47001,JP,Oracle Public Cloud
 158.101.76.55,21953,JP,Oracle Public Cloud
