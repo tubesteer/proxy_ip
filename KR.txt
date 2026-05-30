@@ -4,7 +4,6 @@
 130.162.130.105,443,KR,Oracle Public Cloud
 131.186.24.124,587,KR,Oracle Public Cloud
 132.145.84.148,39567,KR,Oracle Public Cloud
-132.226.21.116,6056,KR,Oracle Public Cloud
 132.226.23.92,22053,KR,Oracle Public Cloud
 140.238.2.81,587,KR,Oracle Public Cloud
 140.238.5.75,13644,KR,Oracle Public Cloud
@@ -27,7 +26,6 @@
 158.247.250.157,81,KR,The Constant Company LLC
 175.202.135.114,12427,KR,Korea Telecom
 192.46.231.158,443,KR,Akamai Connected Cloud  Linode
-193.122.115.67,4434,KR,Oracle Public Cloud
 193.123.253.225,4333,KR,Oracle Corporation
 211.48.77.114,12312,KR,Korea Telecom
 217.142.138.61,37914,KR,Oracle Svenska AB
