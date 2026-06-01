@@ -1,6 +1,5 @@
 104.234.233.57,35911,SG,Private Customer
 104.248.145.216,443,SG,DigitalOcean LLC
-104.43.91.69,443,SG,Microsoft Corporation
 124.156.202.172,443,SG,16 COLLYER QUAY
 129.150.35.29,587,SG,Oracle Corporation
 129.150.36.188,53435,SG,Oracle Corporation
@@ -44,3 +43,4 @@
 68.183.227.180,443,SG,DigitalOcean LLC
 68.183.227.216,443,SG,DigitalOcean LLC
 91.192.81.154,2053,SG,Melbikomas UAB
+91.192.81.154,8443,SG,Melbikomas UAB
