@@ -4,6 +4,11 @@
 167.114.67.25,443,CA,OVH Hosting Inc
 167.99.183.13,443,CA,DigitalOcean LLC
 172.98.207.58,443,CA,CENTRILOGICCANADA
+37.32.126.240,443,CA,Systec Computer Process Inc
+37.32.126.241,443,CA,Systec Computer Process Inc
+37.32.126.246,443,CA,Systec Computer Process Inc
+37.32.126.247,443,CA,Systec Computer Process Inc
+37.32.126.250,443,CA,Systec Computer Process Inc
 40.177.65.8,443,CA,Amazon Data Services Canada
 40.233.116.225,443,CA,Oracle Corporation
 45.133.18.31,443,CA,ITGLOBALCOM NL BV
