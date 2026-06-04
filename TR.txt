@@ -16,6 +16,7 @@
 195.16.74.73,443,TR,WorkTitans BV
 2.56.127.137,443,TR,WorkTitans BV
 212.192.6.118,443,TR,Baxet Group Inc
+212.192.6.248,443,TR,Baxet Group Inc
 37.32.126.241,443,TR,Kuzey Veri Merkezi Anonim Sirketi
 37.32.126.246,443,TR,Kuzey Veri Merkezi Anonim Sirketi
 37.32.126.247,443,TR,Kuzey Veri Merkezi Anonim Sirketi
