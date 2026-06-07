@@ -3,7 +3,6 @@
 152.67.101.72,23010,AU,Oracle Public Cloud
 152.67.125.161,443,AU,Oracle Public Cloud
 152.67.125.174,443,AU,Oracle Public Cloud
-152.67.99.162,443,AU,Oracle Public Cloud
 16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
 170.64.152.77,7443,AU,DigitalOcean LLC
 192.9.190.80,23862,AU,Oracle Corporation
