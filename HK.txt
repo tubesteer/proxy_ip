@@ -3,8 +3,8 @@
 154.38.116.8,443,HK,STARCLOUD GLOBAL PTE LTD
 156.230.12.71,443,HK,263 Shanghai Communications Ltd
 194.156.99.182,8443,HK,FreeNet LLCFZ
-2.56.91.89,2053,HK,ihchk vps in Hong Kong
 2.56.91.89,8443,HK,ihchk vps in Hong Kong
+2.56.91.89,2053,HK,ihchk vps in Hong Kong
 210.3.159.133,443,HK,HGC Global Communications Limited
 219.76.13.166,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.167,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
