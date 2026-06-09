@@ -1,7 +1,8 @@
 101.79.165.113,443,HK,CDNetworks
-141.11.91.67,8080,HK,HYTRON NETWORK HK
+141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
 154.38.116.8,443,HK,STARCLOUD GLOBAL PTE LTD
-156.230.12.71,443,HK,263 Shanghai Communications Ltd
+156.230.12.71,443,HK,263 Global Communication Limited
+192.131.142.161,46639,HK,365 Group LLC
 194.156.99.182,8443,HK,FreeNet LLCFZ
 2.56.91.89,8443,HK,ihchk vps in Hong Kong
 2.56.91.89,2053,HK,ihchk vps in Hong Kong
