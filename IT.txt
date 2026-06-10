@@ -2,7 +2,6 @@
 151.91.39.191,443,IT,Stellantis Auto SAS
 158.180.231.216,443,IT,Oracle Corporation
 185.47.172.172,8443,IT,OMC COMPUTERS  COMMUNICATIONS LTD
-188.213.168.52,443,IT,Aruba SpA  Cloud Services Farm2
 195.231.38.220,443,IT,Aruba SpA  Cloud Services IT3
 5.249.146.98,443,IT,Aruba SpA  Cloud Services Farm2
 80.211.170.53,443,IT,Aruba SpA  Cloud Services Farm2
