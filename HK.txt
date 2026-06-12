@@ -18,6 +18,7 @@
 46.20.109.64,443,HK,Nearoute Limited
 47.242.145.136,8001,HK,ALIBABA CLOUD  HK
 47.76.218.163,443,HK,Alibaba Cloud  HK
+5.180.98.146,22827,HK,TEN
 8.210.29.68,443,HK,Aliyun Computing CoLTD
 8.210.96.197,12902,HK,Aliyun Computing CoLTD
 8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
