@@ -28,7 +28,6 @@
 5.101.180.125,2053,EE,Network for hosting services
 5.101.180.145,443,EE,Network for hosting services
 5.189.254.114,443,EE,Brainoza OU
-69.12.83.134,443,EE,HostPapa
 80.77.25.142,443,EE,servingacom  Estonia
 80.79.121.46,443,EE,Aktsiaselts WaveCom
 80.79.123.100,443,EE,Aktsiaselts WaveCom
