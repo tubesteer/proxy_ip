@@ -31,8 +31,8 @@
 152.69.192.40,57005,JP,Oracle Corporation
 153.121.45.101,443,JP,SAKURA Internet Inc
 155.248.181.189,443,JP,Oracle Public Cloud
-158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.146.3,54516,JP,Oracle Public Cloud
+158.101.146.3,44872,JP,Oracle Public Cloud
 158.101.154.245,47001,JP,Oracle Public Cloud
 158.101.89.113,50443,JP,Oracle Public Cloud
 167.179.110.68,8443,JP,The Constant Company LLC

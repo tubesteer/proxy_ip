@@ -1,1 +1,1 @@
-45.12.131.34,443,PT,WorkTitans BV
+159.69.162.184,10020,PT,iregisteral  keminetnet
