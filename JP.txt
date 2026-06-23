@@ -11,11 +11,9 @@
 138.2.39.24,443,JP,Oracle Corporation
 138.2.48.109,26412,JP,Oracle Corporation
 138.2.49.197,587,JP,Oracle Corporation
-138.2.5.136,443,JP,Cloudflare London LLC
 138.2.59.96,10129,JP,Oracle Corporation
 138.3.217.167,587,JP,Oracle Network Information Services
 138.3.222.124,46209,JP,Oracle Network Information Services
-139.162.102.152,7002,JP,Akamai Connected Cloud  Linode
 140.238.37.103,14782,JP,Oracle Public Cloud
 140.238.38.81,587,JP,Cloudflare Inc
 140.238.50.134,443,JP,Oracle Public Cloud
@@ -29,10 +27,8 @@
 150.230.5.34,45681,JP,Oracle Corporation
 152.69.192.40,57005,JP,Oracle Corporation
 153.121.45.101,443,JP,SAKURA Internet Inc
-155.248.181.189,443,JP,Oracle Public Cloud
-158.101.131.94,2083,JP,Oracle Public Cloud
-158.101.146.3,54516,JP,Oracle Public Cloud
 158.101.146.3,44872,JP,Oracle Public Cloud
+158.101.146.3,54516,JP,Oracle Public Cloud
 158.101.154.245,47001,JP,Oracle Public Cloud
 158.101.89.113,50443,JP,Oracle Public Cloud
 167.179.110.68,8443,JP,The Constant Company LLC
@@ -53,3 +49,4 @@
 47.74.8.30,2443,JP,Alibaba Cloud  JP
 64.110.104.30,443,JP,Oracle Corporation
 64.176.36.17,443,JP,The Constant Company LLC
+8.216.121.234,51922,JP,Alibaba Cloud Singapore Private Limited

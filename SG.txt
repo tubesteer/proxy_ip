@@ -3,7 +3,6 @@
 129.150.35.29,587,SG,Oracle Corporation
 129.150.36.188,53435,SG,Oracle Corporation
 129.226.150.167,443,SG,6 COLLYER QUAY
-13.250.131.37,443,SG,Amazon Data Services Singapore
 13.250.31.132,443,SG,Amazon Data Services Singapore
 138.2.64.229,443,SG,Oracle Corporation
 138.2.89.238,43254,SG,Oracle Corporation
@@ -38,5 +37,5 @@
 66.42.51.60,8443,SG,SGPVULTRCUST
 68.183.227.180,443,SG,DigitalOcean LLC
 68.183.227.216,443,SG,DigitalOcean LLC
-91.192.81.154,8443,SG,Melbikomas UAB
 91.192.81.154,2053,SG,Melbikomas UAB
+91.192.81.154,8443,SG,Melbikomas UAB

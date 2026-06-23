@@ -8,6 +8,6 @@
 193.233.233.188,8443,AT,AEZA GROUP LLC
 46.102.156.144,2053,AT,Alwyzon a trading name of Hohl IT eU
 46.102.156.144,8443,AT,Alwyzon a trading name of Hohl IT eU
-94.177.8.122,8443,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.122,2053,AT,Alwyzon a trading name of Hohl IT eU
+94.177.8.122,8443,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.78,2053,AT,Alwyzon a trading name of Hohl IT eU
