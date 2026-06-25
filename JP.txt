@@ -2,15 +2,15 @@
 103.75.118.144,2053,JP,Oneprovidercom  Japan Infrastructure
 118.27.12.40,38443,JP,GMO Internet Inc
 131.186.63.89,11655,JP,Oracle Public Cloud
-132.145.127.203,2053,JP,Oracle Public Cloud
 132.145.127.203,8443,JP,Oracle Public Cloud
+132.145.127.203,2053,JP,Oracle Public Cloud
 138.2.10.149,45638,JP,Oracle Corporation
 138.2.10.217,27446,JP,Oracle Corporation
 138.2.18.82,8880,JP,Oracle Corporation
 138.2.32.76,15821,JP,Oracle Corporation
 138.2.39.24,443,JP,Oracle Corporation
 138.2.48.109,26412,JP,Oracle Corporation
-138.2.49.197,587,JP,Oracle Corporation
+138.2.5.136,443,JP,Cloudflare London LLC
 138.2.59.96,10129,JP,Oracle Corporation
 138.3.217.167,587,JP,Oracle Network Information Services
 138.3.222.124,46209,JP,Oracle Network Information Services
@@ -40,8 +40,6 @@
 168.138.212.80,443,JP,Oracle Public Cloud
 168.138.46.67,443,JP,Oracle Public Cloud
 210.138.37.53,443,JP,CDNetworks co Ltd
-217.142.230.253,587,JP,Oracle Corporation
-217.142.250.195,587,JP,Oracle Corporation
 45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
 45.32.49.72,9443,JP,Vultr Holdings LLC
 45.76.198.248,443,JP,Vultr Holdings LLC
@@ -51,4 +49,3 @@
 47.74.8.30,2443,JP,Alibaba Cloud  JP
 64.110.104.30,443,JP,Oracle Corporation
 64.176.36.17,443,JP,The Constant Company LLC
-8.216.121.234,51922,JP,Alibaba Cloud Singapore Private Limited
