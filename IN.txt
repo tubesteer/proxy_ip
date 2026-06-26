@@ -1,4 +1,3 @@
-13.200.192.197,443,IN,Amazon Data Services India
 134.209.148.128,443,IN,DigitalOcean LLC
 140.238.225.218,80,IN,Oracle Public Cloud
 152.70.76.104,46000,IN,Oracle Corporation
@@ -10,6 +9,6 @@
 219.65.73.81,443,IN,Reliance Jio Infocomm Limited
 4.240.110.47,443,IN,Microsoft Corporation
 45.88.183.55,2053,IN,WorkTitans BV
-64.227.174.213,2053,IN,DigitalOcean LLC
 64.227.174.213,8443,IN,DigitalOcean LLC
+64.227.174.213,2053,IN,DigitalOcean LLC
 98.70.26.236,443,IN,Microsoft Corporation
