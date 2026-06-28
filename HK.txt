@@ -7,7 +7,6 @@
 219.76.13.169,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.177,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.180,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
-219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.183,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 221.125.10.8,57537,HK,HGC Global Communications Limited
 43.132.244.52,21415,HK,6 COLLYER QUAY

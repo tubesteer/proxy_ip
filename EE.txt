@@ -1,5 +1,4 @@
 138.124.4.38,443,EE,Baykov Ilya Sergeevich
-159.69.162.184,10020,EE,Inter Connects Inc
 159.69.162.184,43443,EE,Inter Connects Inc
 176.97.74.132,2053,EE,IROKO Networks Corporation
 176.97.74.41,8443,EE,IROKO Networks Corporation
@@ -24,8 +23,8 @@
 46.22.210.175,8500,EE,SOLUS KVM VPS POOL
 46.22.211.46,443,EE,Aktsiaselts WaveCom
 46.36.218.151,443,EE,Network for hosting services
-46.36.221.147,8443,EE,Network for hosting services
 46.36.221.147,2053,EE,Network for hosting services
+46.36.221.147,8443,EE,Network for hosting services
 5.101.180.125,2053,EE,Network for hosting services
 5.101.180.125,8443,EE,Network for hosting services
 5.101.180.145,443,EE,Network for hosting services

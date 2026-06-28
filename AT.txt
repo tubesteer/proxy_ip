@@ -1,14 +1,14 @@
 151.236.8.190,443,AT,EDIS IPv6 Infrastructure in Austria
-178.208.75.155,8443,AT,Iron Hosting Centre Ltd London UK mchost
 178.208.75.155,2053,AT,Iron Hosting Centre Ltd London UK mchost
+178.208.75.155,8443,AT,Iron Hosting Centre Ltd London UK mchost
 185.104.63.201,443,AT,ZetServers Vienna
 185.104.63.202,443,AT,ZetServers Vienna
 185.104.63.203,443,AT,ZetServers Vienna
 185.119.117.146,8443,AT,IPAX VIRTUAL line server
-193.233.233.188,2053,AT,AEZA GROUP LLC
 193.233.233.188,8443,AT,AEZA GROUP LLC
-46.102.156.144,8443,AT,Alwyzon a trading name of Hohl IT eU
+193.233.233.188,2053,AT,AEZA GROUP LLC
 46.102.156.144,2053,AT,Alwyzon a trading name of Hohl IT eU
+46.102.156.144,8443,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.122,8443,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.122,2053,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.78,2053,AT,Alwyzon a trading name of Hohl IT eU

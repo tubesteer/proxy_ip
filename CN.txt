@@ -1,2 +1,2 @@
 39.98.224.123,443,CN,Aliyun Computing Co LTD
-47.92.161.8,443,CN,Aliyun Computing Co LTD
+47.92.245.88,443,CN,Aliyun Computing Co LTD

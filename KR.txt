@@ -25,4 +25,3 @@
 217.142.138.61,37914,KR,Oracle Svenska AB
 59.6.239.208,12203,KR,KT
 64.110.70.205,23022,KR,Oracle Corporation
-64.110.75.145,443,KR,Oracle Corporation
