@@ -7,6 +7,6 @@
 216.10.243.159,443,IN,PDR Solutions FZC
 219.65.73.81,443,IN,Reliance Jio Infocomm Limited
 4.240.110.47,443,IN,Microsoft Corporation
-64.227.174.213,8443,IN,DigitalOcean LLC
 64.227.174.213,2053,IN,DigitalOcean LLC
+64.227.174.213,8443,IN,DigitalOcean LLC
 98.70.26.236,443,IN,Microsoft Corporation
