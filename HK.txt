@@ -1,5 +1,5 @@
 101.79.165.113,443,HK,CDNetworks
-141.11.91.67,8080,HK,HYTRON NETWORK HK
+141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
 154.38.116.8,443,HK,STARCLOUD GLOBAL PTE LTD
 194.156.99.182,8443,HK,FreeNet LLCFZ
 219.76.13.166,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
@@ -16,6 +16,5 @@
 45.38.42.198,2053,HK,Subnet Digital LLC
 47.76.218.163,443,HK,Alibaba Cloud  HK
 5.180.98.146,22827,HK,TEN
-8.210.29.68,443,HK,Aliyun Computing CoLTD
 8.210.96.197,12902,HK,Aliyun Computing CoLTD
 8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
