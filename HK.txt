@@ -1,15 +1,13 @@
 101.79.165.113,443,HK,CDNetworks
-141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
+141.11.91.67,8080,HK,HYTRON NETWORK HK
 154.38.116.8,443,HK,STARCLOUD GLOBAL PTE LTD
 194.156.99.182,8443,HK,FreeNet LLCFZ
-219.76.13.166,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.167,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.177,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.180,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.183,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 221.125.10.8,57537,HK,HGC Global Communications Limited
-36.50.90.241,35951,HK,Cloudflare Inc
 43.132.244.52,21415,HK,6 COLLYER QUAY
 43.154.124.136,26666,HK,6 COLLYER QUAY
 43.198.204.35,443,HK,Amazoncom Inc
