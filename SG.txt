@@ -1,5 +1,6 @@
 124.156.202.172,443,SG,16 COLLYER QUAY
 129.150.36.188,53435,SG,Oracle Corporation
+13.250.131.37,443,SG,Amazon Data Services Singapore
 138.2.64.229,443,SG,Oracle Corporation
 138.2.95.61,1111,SG,Oracle Corporation
 139.180.159.133,443,SG,SGPVULTRCUST

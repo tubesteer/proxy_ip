@@ -15,6 +15,7 @@
 138.3.217.167,587,JP,Oracle Network Information Services
 138.3.222.124,46209,JP,Oracle Network Information Services
 139.162.102.152,7002,JP,Akamai Connected Cloud  Linode
+140.238.37.103,14782,JP,Oracle Public Cloud
 140.238.38.81,587,JP,Cloudflare Inc
 140.238.50.134,443,JP,Oracle Public Cloud
 140.83.57.20,13118,JP,imported inetnum object for OCPL1
@@ -29,7 +30,6 @@
 153.121.45.101,443,JP,SAKURA Internet Inc
 155.248.181.189,443,JP,Oracle Public Cloud
 158.101.146.3,44872,JP,Oracle Public Cloud
-158.101.146.3,54516,JP,Oracle Public Cloud
 158.101.152.6,2919,JP,Oracle Public Cloud
 158.101.154.245,47001,JP,Oracle Public Cloud
 158.101.76.55,21953,JP,Cloudflare Inc
@@ -46,8 +46,8 @@
 45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
 45.32.49.72,9443,JP,Vultr Holdings LLC
 45.76.198.248,443,JP,Vultr Holdings LLC
-45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.25.6,48828,JP,Vultr Holdings LLC
+45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.9.114,443,JP,Vultr Holdings LLC
 47.74.8.30,2443,JP,Alibaba Cloud  JP
 64.110.104.30,443,JP,Oracle Corporation
