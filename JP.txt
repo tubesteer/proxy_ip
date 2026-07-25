@@ -29,10 +29,10 @@
 152.69.192.40,57005,JP,Oracle Corporation
 153.121.45.101,443,JP,SAKURA Internet Inc
 155.248.181.189,443,JP,Oracle Public Cloud
+158.101.131.94,2083,JP,Oracle Public Cloud
 158.101.154.245,47001,JP,Oracle Public Cloud
 158.101.89.113,50443,JP,Oracle Public Cloud
 167.179.110.68,8443,JP,The Constant Company LLC
-167.179.86.6,8443,JP,Vultr Holdings LLC
 168.138.197.147,12345,JP,Oracle Public Cloud
 168.138.212.80,443,JP,Oracle Public Cloud
 168.138.46.67,443,JP,Oracle Public Cloud
@@ -40,7 +40,6 @@
 217.142.230.253,587,JP,Oracle Corporation
 217.142.250.195,587,JP,Oracle Corporation
 45.11.1.118,44004,JP,CEGRGODigitalVM LLC  Tokyo
-45.32.252.168,443,JP,Vultr Holdings LLC
 45.32.49.72,9443,JP,Vultr Holdings LLC
 45.76.198.248,443,JP,Vultr Holdings LLC
 45.77.25.6,48828,JP,Vultr Holdings LLC
