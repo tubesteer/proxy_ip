@@ -11,7 +11,6 @@
 146.56.140.79,20309,KR,Cloudflare Inc
 146.56.42.21,7777,KR,Cloudflare London LLC
 146.56.99.22,20443,KR,Oracle Corporation  Global software solutions  California  USA
-152.67.209.237,22053,KR,Oracle Public Cloud
 152.67.211.114,58337,KR,Oracle Public Cloud
 152.69.229.175,22558,KR,Oracle Corporation
 152.70.89.135,587,KR,Oracle Corporation
@@ -22,3 +21,4 @@
 59.6.239.208,12203,KR,KT
 61.85.1.77,12150,KR,Korea Telecom
 64.110.70.205,23022,KR,Oracle Corporation
+64.110.75.145,443,KR,Oracle Corporation
