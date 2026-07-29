@@ -3,7 +3,6 @@
 152.70.76.104,46000,IN,Oracle Corporation
 20.235.105.146,443,IN,Microsoft Corporation
 20.235.220.189,443,IN,Microsoft Corporation
-216.10.243.159,443,IN,PDR Solutions FZC
 219.65.73.81,443,IN,Reliance Jio Infocomm Limited
 4.240.110.47,443,IN,Microsoft Corporation
 64.227.174.213,8443,IN,DigitalOcean LLC
