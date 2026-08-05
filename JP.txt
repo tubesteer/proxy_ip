@@ -8,6 +8,7 @@
 138.2.10.217,27446,JP,Oracle Corporation
 138.2.18.82,8880,JP,Oracle Corporation
 138.2.32.76,15821,JP,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
 138.2.49.197,587,JP,Oracle Corporation
 138.2.5.136,443,JP,Cloudflare London LLC
 138.2.59.96,10129,JP,Oracle Corporation
@@ -29,7 +30,9 @@
 153.121.45.101,443,JP,SAKURA Internet Inc
 155.248.181.189,443,JP,Oracle Public Cloud
 158.101.131.94,2083,JP,Oracle Public Cloud
+158.101.152.6,2919,JP,Oracle Public Cloud
 158.101.154.245,47001,JP,Oracle Public Cloud
+158.101.76.55,21953,JP,Oracle Public Cloud
 158.101.89.113,50443,JP,Oracle Public Cloud
 167.179.110.68,8443,JP,The Constant Company LLC
 168.138.197.147,12345,JP,Oracle Public Cloud
