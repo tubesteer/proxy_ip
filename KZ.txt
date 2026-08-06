@@ -18,10 +18,10 @@
 45.88.90.13,443,KZ,GLB Bulut Teknolojisi Limited Sirketi
 79.142.51.162,65000,KZ,SMARTNET TOO
 83.222.22.61,2053,KZ,Beget LLC
-83.97.77.35,8443,KZ,Webstudio Onelab LLP
 83.97.77.35,2053,KZ,Webstudio Onelab LLP
-83.97.77.63,2053,KZ,Webstudio Onelab LLP
+83.97.77.35,8443,KZ,Webstudio Onelab LLP
 83.97.77.63,8443,KZ,Webstudio Onelab LLP
+83.97.77.63,2053,KZ,Webstudio Onelab LLP
 86.107.198.133,2053,KZ,HosterKZ
 86.107.198.133,8443,KZ,HosterKZ
 91.200.148.120,443,KZ,Quasar LLC
