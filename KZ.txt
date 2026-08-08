@@ -14,7 +14,10 @@
 45.136.57.82,2053,KZ,Megahost Kazakhstan TOO
 45.88.90.13,443,KZ,GLB Bulut Teknolojisi Limited Sirketi
 79.142.51.162,65000,KZ,SMARTNET TOO
+80.90.183.75,2053,KZ,lease for Timeweb
+80.90.183.75,8443,KZ,lease for Timeweb
 83.222.22.61,2053,KZ,Beget LLC
+83.97.77.35,2053,KZ,Webstudio Onelab LLP
 86.107.198.133,2053,KZ,HosterKZ
 86.107.198.133,8443,KZ,HosterKZ
 91.200.148.120,443,KZ,Quasar LLC
