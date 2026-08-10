@@ -1,8 +1,8 @@
 107.172.145.153,443,IE,RackNerd LLC
 159.69.162.184,43333,IE,SA
 198.55.103.168,443,IE,VPS ACE
-52.19.138.237,8443,IE,Amazon Data Services Ireland Limited
 52.19.138.237,2053,IE,Amazon Data Services Ireland Limited
+52.19.138.237,8443,IE,Amazon Data Services Ireland Limited
 54.216.143.197,443,IE,Amazoncom Inc
 54.229.164.147,2053,IE,Amazoncom Inc
 54.229.164.147,8443,IE,Amazoncom Inc
