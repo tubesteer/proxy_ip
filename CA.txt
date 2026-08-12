@@ -7,4 +7,3 @@
 40.177.65.8,443,CA,Amazon Data Services Canada
 40.233.116.225,443,CA,Oracle Corporation
 45.133.18.31,443,CA,ITGLOBALCOM NL BV
-69.28.83.244,443,CA,AtlanticNet  Toronto LLC
