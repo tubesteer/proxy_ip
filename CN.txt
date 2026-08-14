@@ -1,2 +1,1 @@
-107.172.180.73,3306,CN,Hurricane Electric LLC
 39.98.224.123,443,CN,Aliyun Computing Co LTD
