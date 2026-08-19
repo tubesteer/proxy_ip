@@ -1,1 +1,1 @@
-159.69.162.184,10020,PT,iregisteral  keminetnet
+195.133.92.20,443,PT,Baxet Group Inc

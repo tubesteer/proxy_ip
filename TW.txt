@@ -1,1 +1,32 @@
-151.242.153.9,443,TW,Chen Zhi Cheng
+103.137.22.71,443,TW,Imcloud Technology Co Ltd
+114.32.9.249,443,TW,Chunghwa Telecom Data Communication Business Group
+136.0.54.169,443,TW,ACCK LLC
+140.235.38.206,443,TW,Akari Networks Taipei
+140.235.38.47,443,TW,Akari Networks Taipei
+141.11.87.48,443,TW,Akari Networks Taipei
+142.249.60.51,443,TW,Akari Networks Taipei
+151.242.188.152,443,TW,ByteVirt LLC
+151.242.189.137,443,TW,ByteVirt LLC
+151.242.189.184,443,TW,ByteVirt LLC
+154.40.60.193,443,TW,STARVERSE POLOCLOUD 2
+188.253.6.249,443,TW,Akari Networks Taipei
+202.148.221.171,443,TW,Imcloud Technology Co Ltd
+203.69.11.79,443,TW,Data Communication Business Group
+203.69.11.80,443,TW,Data Communication Business Group
+203.69.11.81,443,TW,Data Communication Business Group
+208.75.132.147,443,TW,Private Customer
+211.72.147.91,443,TW,Data Communication Business Group
+213.210.4.238,443,TW,ByteVirt LLC
+220.132.74.165,443,TW,HiNet Taiwan
+223.165.4.57,443,TW,BrainStorm Network Inc
+23.146.248.149,443,TW,NCSE NETWORK LLC
+45.192.203.120,8443,TW,ACCK LLC
+45.207.159.187,443,TW,Akari Networks Taipei
+78.105.183.11,8443,TW,Private Customer
+78.105.183.40,443,TW,DATAWAVE GLOBAL LLC
+82.152.91.210,443,TW,Akari Networks Taipei
+83.147.13.193,443,TW,Akari Networks Taipei
+83.147.13.49,443,TW,Akari Networks Taipei
+83.147.15.253,443,TW,Akari Networks Taipei
+85.237.206.231,443,TW,Akari Networks Taipei
+85.237.207.126,443,TW,Akari Networks Taipei

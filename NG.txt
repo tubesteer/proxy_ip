@@ -1,1 +1,2 @@
-102.220.204.34,54321,NG,IPV4 for Abj
+102.130.48.155,2053,NG,Misaka Network Inc
+176.97.192.162,443,NG,Melbikomas UAB

@@ -1,1 +1,2 @@
-45.83.131.36,443,SI,WorkTitans B.V.
+67.221.249.24,443,SI,MMITECH doo
+91.132.94.151,443,SI,EDIS IPv6 Infrastructure in Slovenia

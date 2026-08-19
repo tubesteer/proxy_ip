@@ -1,2 +1,13 @@
 102.130.120.40,443,ZA,Light Bridge Internet Pty Ltd
 102.210.243.7,443,ZA,Light Bridge Internet Pty Ltd
+139.84.226.30,8443,ZA,The Constant Company LLC
+139.84.230.41,443,ZA,The Constant Company LLC
+139.84.231.16,8443,ZA,The Constant Company LLC
+139.84.235.99,443,ZA,The Constant Company LLC
+139.84.236.69,443,ZA,The Constant Company LLC
+139.84.244.9,443,ZA,The Constant Company LLC
+156.38.157.171,8443,ZA,xneelotscolo
+156.38.157.171,2053,ZA,xneelotscolo
+196.250.130.51,8443,ZA,IBITS
+38.54.64.204,443,ZA,LIGHT NODE LIMITED
+84.8.142.203,443,ZA,Oracle Svenska AB

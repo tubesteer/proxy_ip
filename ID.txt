@@ -1,1 +1,6 @@
+147.139.189.225,443,ID,Alibaba Cloud  ID
+172.232.239.176,443,ID,Linode
+172.232.246.133,8443,ID,Linode
+202.155.95.132,443,ID,PT Deneva
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+43.173.1.153,8443,ID,PT Telekomunikasi Indonesia
