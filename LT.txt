@@ -4,7 +4,6 @@
 176.118.198.175,8443,LT,PROGRESYVUS SPRENDIMAI UAB
 176.118.198.24,8443,LT,PROGRESYVUS SPRENDIMAI UAB
 176.223.140.141,443,LT,UAB Interneto vizija
-176.223.142.61,443,LT,UAB Interneto vizija
 185.237.185.110,2053,LT,oneprovidercom  Vilnius Infrastructure
 185.237.185.182,8443,LT,Oneprovidercom  Vilnius Infrastructure
 185.237.185.182,2053,LT,Oneprovidercom  Vilnius Infrastructure

@@ -15,10 +15,8 @@
 176.12.76.1,443,KZ,JSC Datacenter
 176.12.77.119,443,KZ,JSC Datacenter
 176.12.77.95,443,KZ,JSC Datacenter
-178.170.221.167,443,KZ,Mws Cloud Limited Liability Company
 178.88.185.118,443,KZ,Colocation
 185.22.65.33,443,KZ,PS Internet Company LLP
-185.253.8.64,2053,KZ,ONEHOST LLP
 185.4.180.39,443,KZ,PS Internet Company LLP
 185.5.74.249,443,KZ,3HCLOUD LLC
 188.130.238.195,8443,KZ,LLP Internet Company First Page
@@ -35,15 +33,15 @@
 2.135.146.15,443,KZ,JSC Kazakhtelecom
 2.27.130.172,443,KZ,Megahost Kazakhstan TOO
 2.27.131.10,443,KZ,Megahost Kazakhstan TOO
-213.148.1.150,2053,KZ,Modern Server Solutions LLP
 213.148.1.150,8443,KZ,Modern Server Solutions LLP
-213.148.10.155,2053,KZ,Modern Server Solutions LLP
+213.148.1.150,2053,KZ,Modern Server Solutions LLP
 213.148.10.155,443,KZ,Modern Server Solutions LLP
-213.148.10.170,2053,KZ,Modern Server Solutions LLP
+213.148.10.155,2053,KZ,Modern Server Solutions LLP
 213.148.10.170,8443,KZ,Modern Server Solutions LLP
+213.148.10.170,2053,KZ,Modern Server Solutions LLP
 213.148.2.46,8443,KZ,Modern Server Solutions LLP
-213.148.26.246,2053,KZ,Servercore Network
 213.148.26.246,8443,KZ,Servercore Network
+213.148.26.246,2053,KZ,Servercore Network
 213.155.13.124,443,KZ,3HCLOUD LLC
 213.155.13.234,443,KZ,Anton Levin
 213.155.21.115,443,KZ,PS Internet Company LLP
@@ -83,10 +81,10 @@
 72.56.2.96,443,KZ,JSC TIMEWEB
 79.142.51.162,65000,KZ,SMARTNET TOO
 80.90.181.152,2053,KZ,JSC TIMEWEB
-80.90.183.75,2053,KZ,lease for Timeweb
 80.90.183.75,8443,KZ,lease for Timeweb
-83.222.22.61,8443,KZ,Beget LLC
+80.90.183.75,2053,KZ,lease for Timeweb
 83.222.22.61,2053,KZ,Beget LLC
+83.222.22.61,8443,KZ,Beget LLC
 83.97.77.35,8443,KZ,Webstudio Onelab LLP
 83.97.77.35,2053,KZ,Webstudio Onelab LLP
 83.97.77.63,2053,KZ,Webstudio Onelab LLP
@@ -104,6 +102,6 @@
 93.170.72.138,443,KZ,EQU Technologies LLP
 94.131.83.5,2053,KZ,Cloud Services Kazakhstan LLP
 94.131.83.5,8443,KZ,Cloud Services Kazakhstan LLP
-94.131.83.94,8443,KZ,Cloud Services Kazakhstan LLP
 94.131.83.94,443,KZ,Cloud Services Kazakhstan LLP
+94.131.83.94,8443,KZ,Cloud Services Kazakhstan LLP
 94.131.92.95,443,KZ,Cloud Services Kazakhstan LLP

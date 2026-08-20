@@ -17,8 +17,6 @@
 158.180.5.171,443,AU,oracle
 16.176.191.203,443,AU,Amazoncom Inc
 16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
-161.33.76.218,2053,AU,Oracle Corporation
-161.33.76.218,8443,AU,Oracle Corporation
 168.138.8.162,443,AU,Oracle Corporation
 170.64.152.77,7443,AU,DigitalOcean LLC
 170.64.163.39,443,AU,Digital Ocean Inc

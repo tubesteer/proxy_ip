@@ -4,15 +4,13 @@
 159.253.20.80,8443,EE,IPv6 network for hosting services
 159.253.21.228,443,EE,IPv6 network for hosting services
 159.253.21.82,443,EE,IPv6 network for hosting services
-159.253.23.3,2053,EE,IPv6 network for hosting services
-159.253.23.3,443,EE,IPv6 network for hosting services
 159.253.23.52,443,EE,IPv6 network for hosting services
 159.69.162.184,43443,EE,Inter Connects Inc
-159.69.162.184,10020,EE,Inter Connects Inc
+159.69.162.184,10020,EE,SA
 176.124.32.166,443,EE,BlueVPS OU
 176.124.32.39,443,EE,BlueVPS OU
-176.97.74.41,8443,EE,IROKO Networks Corporation
 176.97.74.41,2053,EE,IROKO Networks Corporation
+176.97.74.41,8443,EE,IROKO Networks Corporation
 185.114.116.181,8443,EE,Cloudflare London LLC
 185.123.53.176,443,EE,BlueVPS OU
 185.123.53.53,443,EE,BlueVPS OU
@@ -28,7 +26,7 @@
 185.23.236.111,443,EE,ITDevelop DOO
 185.23.236.134,443,EE,Cogent Communications LLC
 185.23.236.202,443,EE,Cogent Communications LLC
-185.23.236.29,443,EE,ITDevelop DOO
+185.23.236.29,443,EE,Cogent Communications LLC
 185.23.236.32,443,EE,Cogent Communications LLC
 185.252.177.115,8443,EE,EENetwork
 185.255.178.131,443,EE,Baykov Ilya Sergeevich
@@ -53,7 +51,6 @@
 2.27.170.209,443,EE,RAKAR INVESTMENTS HOLDING BV
 209.131.70.109,443,EE,Cogent Communications LLC
 209.131.70.198,8443,EE,Cogent Communications LLC
-209.131.70.51,443,EE,Cogent Communications LLC
 209.131.70.96,8443,EE,Cogent Communications LLC
 212.7.7.155,8443,EE,AS INFONET
 217.60.182.26,8443,EE,ExpressHost LTD
@@ -71,6 +68,7 @@
 38.180.248.167,8443,EE,3NT SOLUTIONS LLP
 38.180.45.235,443,EE,3NT SOLUTIONS LLP
 38.244.154.141,443,EE,3NT SOLUTIONS LLP
+38.244.154.149,443,EE,3NT SOLUTIONS LLP
 38.244.216.129,443,EE,Wavecom Infrastructure
 45.12.28.10,443,EE,Brainoza OU
 45.12.28.108,443,EE,Brainoza OU
@@ -79,7 +77,6 @@
 45.12.28.95,443,EE,Brainoza OU
 45.129.199.117,443,EE,BlueVPS OU
 45.83.181.112,443,EE,BlueVPS OU
-45.83.181.140,2053,EE,BlueVPS OU
 45.83.182.60,443,EE,BlueVPS OU
 46.22.211.155,8443,EE,Aktsiaselts WaveCom
 46.22.211.46,443,EE,Aktsiaselts WaveCom
@@ -110,21 +107,21 @@
 5.101.122.59,443,EE,IPv6 network for hosting services
 5.101.126.33,8443,EE,IPv6 network for hosting services
 5.101.180.112,443,EE,IPv6 network for hosting services
-5.101.180.125,8443,EE,Network for hosting services
 5.101.180.125,2053,EE,Network for hosting services
+5.101.180.125,8443,EE,Network for hosting services
 5.101.180.145,443,EE,Network for hosting services
 5.101.180.19,8443,EE,IPv6 network for hosting services
 5.101.181.135,8443,EE,IPv6 network for hosting services
-5.175.178.254,8443,EE,ESTOXY OU
-5.175.178.254,443,EE,TAKEHOSTBIZ
+5.175.178.254,443,EE,ESTOXY OU
+5.175.178.254,8443,EE,TAKEHOSTBIZ
 5.181.202.140,443,EE,Brainoza OU
 5.181.202.140,8443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
 5.188.200.189,443,EE,Brainoza OU
 5.188.21.38,443,EE,Network for hosting services
 5.188.21.38,8443,EE,Network for hosting services
-5.189.254.168,8443,EE,Brainoza OU
 5.189.254.168,443,EE,Brainoza OU
+5.189.254.168,8443,EE,Brainoza OU
 5.189.254.168,2053,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
@@ -154,13 +151,12 @@
 80.77.25.142,443,EE,servingacom  Estonia
 80.77.25.228,443,EE,servingacom  Estonia
 80.79.123.100,443,EE,Aktsiaselts WaveCom
-82.47.22.10,443,EE,RAKAR INVESTMENTS HOLDING BV
 82.47.22.11,8443,EE,RAKAR INVESTMENTS HOLDING BV
 82.47.22.177,8443,EE,HostSlim OU
 83.172.139.9,443,EE,EDIS IPv6 Infrastructure in Estonia
 83.217.210.42,443,EE,Baykov Ilya Sergeevich
-89.125.13.108,443,EE,QWINSHosting
 89.125.13.108,8443,EE,QWINSHosting
+89.125.13.108,443,EE,QWINSHosting
 89.150.40.186,8443,EE,HZ Hosting Ltd
 93.123.39.11,443,EE,QWINS Hosting
 93.123.39.230,443,EE,QWINS Hosting

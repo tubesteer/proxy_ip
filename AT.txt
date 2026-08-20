@@ -106,8 +106,8 @@
 152.53.111.219,443,AT,netcup GmbH
 152.53.112.170,2053,AT,netcup GmbH
 152.53.19.28,8443,AT,powered by ANX
-152.53.2.213,8443,AT,powered by ANX
 152.53.2.213,443,AT,powered by ANX
+152.53.2.213,8443,AT,powered by ANX
 152.53.3.249,2096,AT,netcup GmbH
 152.53.3.38,443,AT,netcup GmbH
 152.53.45.7,443,AT,netcup GmbH
@@ -119,8 +119,8 @@
 185.75.241.170,443,AT,Hosteroid  Vienna
 188.172.229.247,443,AT,netcup GmbH
 193.233.232.49,2087,AT,AEZA GROUP LLC
-193.233.233.188,2053,AT,AEZA GROUP LLC
 193.233.233.188,8443,AT,AEZA GROUP LLC
+193.233.233.188,2053,AT,AEZA GROUP LLC
 203.98.67.48,8443,AT,Alwyzon a trading name of Hohl IT eU
 205.147.200.38,443,AT,Alwyzon a trading name of Hohl IT eU
 37.235.56.86,443,AT,EDIS IPv6 Infrastructure in Austria
@@ -139,4 +139,3 @@
 93.115.106.139,443,AT,Baxet Group Inc
 94.177.8.237,443,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.78,2053,AT,Alwyzon a trading name of Hohl IT eU
-95.163.176.140,443,AT,AEZA GROUP LLC

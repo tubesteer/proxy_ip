@@ -11,9 +11,6 @@
 154.40.60.193,443,TW,STARVERSE POLOCLOUD 2
 188.253.6.249,443,TW,Akari Networks Taipei
 202.148.221.171,443,TW,Imcloud Technology Co Ltd
-203.69.11.79,443,TW,Data Communication Business Group
-203.69.11.80,443,TW,Data Communication Business Group
-203.69.11.81,443,TW,Data Communication Business Group
 208.75.132.147,443,TW,Private Customer
 211.72.147.91,443,TW,Data Communication Business Group
 213.210.4.238,443,TW,ByteVirt LLC
