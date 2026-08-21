@@ -7,5 +7,5 @@
 62.182.102.24,443,BY,Yedinyye Resheniya LLC
 91.149.167.147,8443,BY,Besthostby network
 93.85.236.9,443,BY,Abonent MGTS
-95.130.84.36,8443,BY,LLC Raccoon technology
 95.130.84.36,2053,BY,LLC Raccoon technology
+95.130.84.36,8443,BY,LLC Raccoon technology

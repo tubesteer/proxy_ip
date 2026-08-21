@@ -6,8 +6,8 @@
 139.84.150.190,8443,IN,The Constant Company LLC
 139.84.156.127,443,IN,Cloudflare London LLC
 139.84.166.44,443,IN,The Constant Company LLC
-139.84.168.252,8443,IN,Vultr Holdings LLC
 139.84.168.252,2053,IN,Vultr Holdings LLC
+139.84.168.252,8443,IN,Vultr Holdings LLC
 139.84.174.65,443,IN,The Constant Company LLC
 139.84.216.50,443,IN,The Constant Company LLC
 139.84.221.153,8443,IN,The Constant Company LLC
@@ -25,6 +25,7 @@
 20.219.46.208,8443,IN,Microsoft Corporation
 20.235.105.146,443,IN,Microsoft Corporation
 20.235.220.189,443,IN,Microsoft Corporation
+202.83.24.75,443,IN,Broad Band Internet Service Provider India
 216.10.243.159,443,IN,PDR Solutions FZC
 219.65.73.81,443,IN,Reliance Jio Infocomm Limited
 3.110.31.232,443,IN,Amazoncom Inc
