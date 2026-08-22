@@ -1,5 +1,5 @@
-113.30.151.151,8443,IT,Kamatera Inc
 113.30.151.151,2053,IT,Kamatera Inc
+113.30.151.151,8443,IT,Kamatera Inc
 129.152.2.127,1488,IT,Oracle Corporation
 132.243.255.51,443,IT,Baxet Group Inc
 132.243.255.97,8443,IT,Baxet Group Inc
@@ -18,6 +18,7 @@
 179.255.190.9,443,IT,IT Hostline Ltd
 185.47.172.172,8443,IT,OMC COMPUTERS  COMMUNICATIONS LTD
 195.231.38.220,443,IT,Aruba SpA  Cloud Services IT3
+195.231.84.187,443,IT,Aruba SpA  Cloud Services DC7
 31.76.113.164,443,IT,Akenai Products  IT Network
 31.77.154.69,443,IT,Akenai Products  IT Network
 31.77.201.20,443,IT,Akenai Products  IT Network

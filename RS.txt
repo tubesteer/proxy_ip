@@ -1,5 +1,5 @@
-130.49.163.54,8443,RS,Digital City FZE
 130.49.163.54,2053,RS,Digital City FZE
+130.49.163.54,8443,RS,Digital City FZE
 185.105.108.43,443,RS,Majordomo in Serbia
 185.105.108.92,8443,RS,Majordomo in Serbia
 185.48.250.138,2096,RS,eServer sro

@@ -15,7 +15,6 @@
 154.26.156.24,443,AU,Contabo Asia Private Limited
 157.211.189.22,8443,AU,My Net Fone Limited
 158.180.5.171,443,AU,oracle
-16.176.191.203,443,AU,Amazoncom Inc
 16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
 168.138.8.162,443,AU,Oracle Corporation
 170.64.152.77,7443,AU,DigitalOcean LLC
@@ -48,7 +47,6 @@
 45.32.191.198,443,AU,The Constant Company LLC
 45.32.243.13,443,AU,The Constant Company LLC
 45.77.236.204,443,AU,Vultr Holdings LLC
-46.250.240.80,2053,AU,Contabo Asia Private Limited
 46.250.241.49,443,AU,Contabo Asia Private Limited
 46.250.242.104,443,AU,Contabo Asia Private Limited
 46.250.244.12,443,AU,Contabo Asia Private Limited

@@ -1,7 +1,7 @@
 185.125.171.128,8443,NO,Gigahost AS
 193.200.238.239,8443,NO,Gigahost AS
-194.5.98.105,2053,NO,WebHorizon Norway
 194.5.98.105,8443,NO,WebHorizon Norway
+194.5.98.105,2053,NO,WebHorizon Norway
 194.5.98.17,443,NO,WebHorizon IT Broadband Limited Norway
 194.68.32.99,443,NO,EDIS IPv6 Infrastructure in Norway
 195.54.170.148,8443,NO,IROKO Networks Corporation

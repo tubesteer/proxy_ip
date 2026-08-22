@@ -1,4 +1,3 @@
-103.137.22.71,443,TW,Imcloud Technology Co Ltd
 114.32.9.249,443,TW,Chunghwa Telecom Data Communication Business Group
 136.0.54.169,443,TW,ACCK LLC
 140.235.38.206,443,TW,Akari Networks Taipei

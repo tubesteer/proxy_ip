@@ -1,12 +1,12 @@
 101.33.68.172,443,KR,ACEVILLE PTELTD
 119.205.235.58,443,KR,Korea Telecom
 119.28.162.39,8443,KR,Cloudflare London LLC
-123.111.169.70,2083,KR,SK Broadband Co Ltd
+123.111.169.70,2087,KR,SK Broadband Co Ltd
 123.111.169.70,2053,KR,SK Broadband Co Ltd
 123.111.169.70,8443,KR,SK Broadband Co Ltd
 123.111.169.70,2096,KR,SK Broadband Co Ltd
+123.111.169.70,2083,KR,SK Broadband Co Ltd
 123.111.169.70,443,KR,SK Broadband Co Ltd
-123.111.169.70,2087,KR,SK Broadband Co Ltd
 129.154.50.72,8443,KR,Oracle Corporation
 13.124.169.29,443,KR,Amazoncom Inc
 13.125.114.105,443,KR,Amazoncom Inc
@@ -19,7 +19,6 @@
 131.186.24.124,587,KR,Oracle Public Cloud
 131.186.25.156,2087,KR,Oracle Public Cloud
 131.186.26.94,443,KR,Oracle Public Cloud
-132.145.82.39,443,KR,Oracle Corporation
 132.145.84.148,39567,KR,Oracle Public Cloud
 132.145.91.181,8443,KR,Oracle Public Cloud
 132.226.21.116,6056,KR,Oracle Public Cloud
@@ -63,8 +62,8 @@
 158.247.210.172,443,KR,The Constant Company LLC
 158.247.240.138,443,KR,The Constant Company LLC
 158.247.250.157,81,KR,The Constant Company LLC
-158.247.253.111,8443,KR,The Constant Company LLC
 158.247.253.111,2087,KR,The Constant Company LLC
+158.247.253.111,8443,KR,The Constant Company LLC
 16.184.32.159,443,KR,Amazoncom Inc
 168.107.0.210,443,KR,Oracle Corporation
 168.107.14.233,443,KR,Oracle Corporation
@@ -75,7 +74,6 @@
 168.110.110.132,2053,KR,Oracle Corporation
 168.110.112.196,8443,KR,Oracle Corporation
 168.110.121.126,8443,KR,Oracle Corporation
-192.46.231.158,443,KR,Akamai Connected Cloud  Linode
 193.122.119.241,443,KR,Oracle Public Cloud
 193.122.96.190,443,KR,Oracle Corporation
 20.41.123.20,443,KR,Microsoft Corporation
@@ -87,7 +85,6 @@
 3.34.99.151,443,KR,Amazoncom Inc
 3.35.137.219,443,KR,Amazoncom Inc
 3.35.177.161,443,KR,Amazoncom Inc
-3.35.51.12,443,KR,AWS Asia Pacific Seoul Region
 3.35.51.138,443,KR,Amazoncom Inc
 3.37.245.168,443,KR,Amazoncom Inc
 3.38.205.231,443,KR,Amazoncom Inc
@@ -104,7 +101,6 @@
 43.164.135.253,8443,KR,16 COLLYER QUAY  1829 INCOME AT RAFFLES
 43.164.137.118,8443,KR,16 COLLYER QUAY  1829 INCOME AT RAFFLES
 43.201.2.23,443,KR,Amazoncom Inc
-43.201.29.42,443,KR,Amazoncom Inc
 43.201.41.9,443,KR,Amazoncom Inc
 43.201.76.220,443,KR,Amazoncom Inc
 43.202.1.219,443,KR,Amazoncom Inc
@@ -121,7 +117,6 @@
 52.78.114.26,443,KR,Amazoncom Inc
 52.79.123.68,443,KR,Amazoncom Inc
 52.79.137.118,443,KR,Amazoncom Inc
-52.79.207.93,443,KR,Amazoncom Inc
 52.79.229.156,443,KR,Amazoncom Inc
 54.180.141.246,443,KR,Amazoncom Inc
 54.180.147.65,443,KR,Amazoncom Inc
