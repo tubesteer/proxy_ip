@@ -17,7 +17,6 @@
 185.174.135.12,443,EE,HZ Hosting Ltd
 185.194.53.88,443,EE,xTom OU
 185.215.187.143,443,EE,RJ Network OU
-185.215.187.198,443,EE,RJ Network OU
 185.223.168.172,2053,EE,Brainoza OU
 185.223.168.71,443,EE,Brainoza OU
 185.223.170.248,8443,EE,Brainoza OU
@@ -49,11 +48,9 @@
 188.255.236.80,8443,EE,TAKEHOSTBIZ
 2.27.170.209,443,EE,RAKAR INVESTMENTS HOLDING BV
 209.131.70.109,443,EE,Cogent Communications LLC
-209.131.70.198,8443,EE,Cogent Communications LLC
 209.131.70.51,443,EE,Cogent Communications LLC
 209.131.70.96,8443,EE,Cogent Communications LLC
 212.7.7.155,8443,EE,AS INFONET
-217.60.182.26,8443,EE,ExpressHost LTD
 217.78.239.142,8443,EE,Cogent Communications LLC
 217.9.12.65,443,EE,QWINS Hosting
 31.56.187.21,443,EE,ExpressHost LTD
@@ -69,12 +66,12 @@
 38.180.45.235,443,EE,3NT SOLUTIONS LLP
 38.244.154.141,443,EE,3NT SOLUTIONS LLP
 38.244.154.149,443,EE,3NT SOLUTIONS LLP
-38.244.216.129,443,EE,Wavecom Infrastructure
 45.12.28.10,443,EE,Brainoza OU
 45.12.28.108,443,EE,Brainoza OU
 45.12.28.129,443,EE,Brainoza OU
 45.12.28.170,443,EE,Brainoza OU
 45.12.28.95,443,EE,Brainoza OU
+45.12.28.96,443,EE,Brainoza OU
 45.129.199.117,443,EE,BlueVPS OU
 45.83.181.112,443,EE,BlueVPS OU
 45.83.181.140,2053,EE,BlueVPS OU
@@ -97,7 +94,6 @@
 5.101.114.88,8443,EE,IPv6 network for hosting services
 5.101.115.117,8443,EE,IPv6 network for hosting services
 5.101.115.34,443,EE,IPv6 network for hosting services
-5.101.115.54,443,EE,IPv6 network for hosting services
 5.101.115.69,8443,EE,IPv6 network for hosting services
 5.101.116.108,443,EE,IPv6 network for hosting services
 5.101.116.62,8443,EE,IPv6 network for hosting services
@@ -105,6 +101,7 @@
 5.101.117.184,443,EE,IPv6 network for hosting services
 5.101.118.146,443,EE,IPv6 network for hosting services
 5.101.118.52,443,EE,IPv6 network for hosting services
+5.101.118.60,8443,EE,IPv6 network for hosting services
 5.101.122.59,443,EE,IPv6 network for hosting services
 5.101.126.33,8443,EE,IPv6 network for hosting services
 5.101.180.112,443,EE,IPv6 network for hosting services
@@ -113,16 +110,18 @@
 5.101.180.145,443,EE,Network for hosting services
 5.101.180.19,8443,EE,IPv6 network for hosting services
 5.101.181.135,8443,EE,IPv6 network for hosting services
-5.175.178.254,443,EE,ESTOXY OU
-5.175.178.254,8443,EE,ESTOXY OU
+5.175.178.175,443,EE,ESTOXY OU
+5.175.178.254,8443,EE,TAKEHOSTBIZ
+5.175.178.254,443,EE,TAKEHOSTBIZ
 5.181.202.140,443,EE,Brainoza OU
 5.181.202.140,8443,EE,Brainoza OU
+5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
 5.188.200.189,443,EE,Brainoza OU
-5.188.21.38,8443,EE,Network for hosting services
 5.188.21.38,443,EE,Network for hosting services
-5.189.254.168,2053,EE,Brainoza OU
+5.188.21.38,8443,EE,Network for hosting services
 5.189.254.168,443,EE,Brainoza OU
+5.189.254.168,2053,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
@@ -131,8 +130,8 @@
 5.45.112.149,443,EE,IPv6 network for hosting services
 5.45.112.211,443,EE,IPv6 network for hosting services
 5.45.114.210,8443,EE,IPv6 network for hosting services
-5.45.115.162,2083,EE,IPv6 network for hosting services
 5.45.115.162,2087,EE,IPv6 network for hosting services
+5.45.115.162,2083,EE,IPv6 network for hosting services
 5.45.115.87,443,EE,IPv6 network for hosting services
 5.45.116.230,443,EE,IPv6 network for hosting services
 5.45.117.125,443,EE,IPv6 network for hosting services
