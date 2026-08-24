@@ -59,7 +59,6 @@
 13.215.193.4,443,SG,Amazoncom Inc
 13.215.250.59,443,SG,Amazoncom Inc
 13.215.254.105,443,SG,Amazoncom Inc
-13.228.117.199,443,SG,Amazoncom Inc
 13.228.138.50,443,SG,Amazoncom Inc
 13.228.167.160,443,SG,Amazoncom Inc
 13.228.71.17,443,SG,Amazoncom Inc
@@ -75,6 +74,7 @@
 13.229.84.21,443,SG,Amazoncom Inc
 13.229.94.176,443,SG,Amazoncom Inc
 13.229.95.52,443,SG,Amazoncom Inc
+13.250.131.37,443,SG,Amazon Data Services Singapore
 13.250.18.50,443,SG,Amazoncom Inc
 13.250.19.142,443,SG,Amazoncom Inc
 13.250.197.30,443,SG,Amazoncom Inc
@@ -100,6 +100,7 @@
 138.2.108.213,443,SG,Oracle Corporation
 138.2.64.229,443,SG,Oracle Corporation
 138.2.66.236,443,SG,Oracle Corporation
+138.2.76.34,443,SG,Oracle Corporation
 138.2.84.152,443,SG,Oracle Corporation
 138.2.87.237,443,SG,Oracle Corporation
 139.162.20.150,443,SG,Akamai Connected Cloud  Linode
@@ -161,8 +162,8 @@
 146.235.18.248,45137,SG,Oracle Corporation
 149.118.48.187,443,SG,Oracle Corporation
 149.118.55.215,2096,SG,Oracle Corporation
-149.118.55.215,8443,SG,Oracle Corporation
 149.118.55.215,2053,SG,Oracle Corporation
+149.118.55.215,8443,SG,Oracle Corporation
 149.28.135.30,443,SG,The Constant Company LLC
 149.28.150.141,443,SG,The Constant Company LLC
 149.28.150.210,443,SG,The Constant Company LLC
@@ -211,8 +212,8 @@
 157.230.255.59,443,SG,DigitalOcean LLC
 157.230.32.24,443,SG,DigitalOcean LLC
 157.230.38.88,443,SG,DigitalOcean LLC
-157.230.39.201,8443,SG,DigitalOcean LLC
 157.230.39.201,2053,SG,DigitalOcean LLC
+157.230.39.201,8443,SG,DigitalOcean LLC
 157.230.44.100,443,SG,DigitalOcean LLC
 157.230.44.151,443,SG,DigitalOcean LLC
 157.245.144.174,443,SG,DigitalOcean LLC
@@ -354,7 +355,6 @@
 18.138.81.40,443,SG,Amazoncom Inc
 18.139.163.28,443,SG,Amazoncom Inc
 18.139.241.170,443,SG,Amazoncom Inc
-18.140.170.102,443,SG,Amazoncom Inc
 18.140.199.247,443,SG,Amazoncom Inc
 18.140.206.172,443,SG,Amazoncom Inc
 18.140.233.130,443,SG,Amazoncom Inc
@@ -466,7 +466,6 @@
 210.16.65.82,443,SG,Shock Hosting LLC
 213.35.100.31,47112,SG,Oracle Svenska AB
 213.35.105.58,443,SG,Cloudflare Inc
-213.35.108.135,12596,SG,Oracle Svenska AB
 217.216.109.249,443,SG,Contabo Asia Private Limited
 3.0.102.99,443,SG,Amazoncom Inc
 3.0.21.78,443,SG,Amazoncom Inc
@@ -532,9 +531,9 @@
 47.131.225.17,443,SG,Amazoncom Inc
 47.236.119.109,443,SG,Alibaba Cloud LLC
 47.74.254.191,8900,SG,Alibaba Cloud  SG
+47.82.155.79,2053,SG,Alibaba Cloud LLC
 47.82.155.79,8443,SG,Alibaba Cloud LLC
 47.82.155.79,443,SG,Alibaba Cloud LLC
-47.82.155.79,2053,SG,Alibaba Cloud LLC
 5.223.21.240,443,SG,Hetzner Online GmbH
 5.223.51.2,443,SG,Hetzner Online GmbH
 5.223.51.84,443,SG,Hetzner Online GmbH
@@ -543,11 +542,14 @@
 5.223.60.212,443,SG,Hetzner Online GmbH
 5.223.71.252,443,SG,Hetzner Online GmbH
 5.223.77.219,443,SG,Hetzner Online GmbH
-5.223.93.126,8443,SG,Hetzner Online GmbH
 5.223.93.126,443,SG,Hetzner Online GmbH
+5.223.93.126,8443,SG,Hetzner Online GmbH
 5.223.95.244,443,SG,Hetzner Online GmbH
 5.34.176.119,81,SG,Green Floid LLC
+5.34.176.67,8443,SG,GREEN FLOID LLC
+5.34.176.69,8443,SG,GREEN FLOID LLC
 5.34.176.71,443,SG,GREEN FLOID LLC
+5.34.176.72,8443,SG,GREEN FLOID LLC
 5.34.177.37,443,SG,GREEN FLOID LLC
 5.34.177.86,443,SG,GREEN FLOID LLC
 50.114.55.97,443,SG,AKILE LTD
@@ -580,7 +582,6 @@
 54.169.84.57,443,SG,Amazoncom Inc
 54.179.168.108,443,SG,Amazoncom Inc
 54.179.237.30,443,SG,Amazoncom Inc
-54.179.38.190,443,SG,Amazoncom Inc
 54.179.62.165,443,SG,Amazoncom Inc
 54.251.135.203,443,SG,Amazoncom Inc
 54.251.197.112,443,SG,Amazoncom Inc
@@ -593,7 +594,6 @@
 54.255.129.71,443,SG,Amazoncom Inc
 54.255.176.147,443,SG,Amazoncom Inc
 54.255.206.251,443,SG,Amazoncom Inc
-54.255.212.53,443,SG,Amazoncom Inc
 54.255.215.190,443,SG,Amazoncom Inc
 54.255.217.181,443,SG,Amazoncom Inc
 54.255.232.185,443,SG,Amazoncom Inc
@@ -617,6 +617,7 @@
 68.183.230.164,443,SG,DigitalOcean LLC
 68.183.231.228,443,SG,DigitalOcean LLC
 69.161.221.136,8443,SG,LEASEWEB SINGAPORE PTE LTD
+69.161.221.225,443,SG,LEASEWEB SINGAPORE PTE LTD
 69.161.221.236,443,SG,LEASEWEB SINGAPORE PTE LTD
 77.83.241.97,443,SG,SPEEDYPAGE LTD
 77.93.90.231,443,SG,BAGE CLOUD LLC

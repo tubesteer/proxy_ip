@@ -5,6 +5,7 @@
 159.253.21.228,443,EE,IPv6 network for hosting services
 159.253.21.82,443,EE,IPv6 network for hosting services
 159.253.23.52,443,EE,IPv6 network for hosting services
+159.69.162.184,10020,EE,Inter Connects Inc
 159.69.162.184,43443,EE,Inter Connects Inc
 176.124.32.166,443,EE,BlueVPS OU
 176.124.32.39,443,EE,BlueVPS OU
@@ -18,7 +19,6 @@
 185.194.53.88,443,EE,xTom OU
 185.215.187.143,443,EE,RJ Network OU
 185.223.168.172,2053,EE,Brainoza OU
-185.223.168.71,443,EE,Brainoza OU
 185.223.170.248,8443,EE,Brainoza OU
 185.23.236.107,443,EE,HexCore cloud sro
 185.23.236.111,443,EE,ITDevelop DOO
@@ -105,24 +105,22 @@
 5.101.122.59,443,EE,IPv6 network for hosting services
 5.101.126.33,8443,EE,IPv6 network for hosting services
 5.101.180.112,443,EE,IPv6 network for hosting services
-5.101.180.125,8443,EE,Network for hosting services
 5.101.180.125,2053,EE,Network for hosting services
+5.101.180.125,8443,EE,Network for hosting services
 5.101.180.145,443,EE,Network for hosting services
 5.101.180.19,8443,EE,IPv6 network for hosting services
 5.101.181.135,8443,EE,IPv6 network for hosting services
 5.175.178.175,443,EE,ESTOXY OU
 5.175.178.254,8443,EE,TAKEHOSTBIZ
 5.175.178.254,443,EE,TAKEHOSTBIZ
-5.181.202.140,443,EE,Brainoza OU
-5.181.202.140,8443,EE,Brainoza OU
 5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
 5.188.200.189,443,EE,Brainoza OU
 5.188.21.38,443,EE,Network for hosting services
 5.188.21.38,8443,EE,Network for hosting services
-5.189.254.168,443,EE,Brainoza OU
-5.189.254.168,2053,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
+5.189.254.168,2053,EE,Brainoza OU
+5.189.254.168,443,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
 5.42.221.16,443,EE,HostWorld OU

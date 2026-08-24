@@ -34,6 +34,7 @@
 216.128.177.185,8443,CA,The Constant Company LLC
 24.109.36.190,8443,CA,Shaw Communications
 24.141.96.92,8443,CA,Cogeco Cable Canada Inc
+24.150.16.183,8443,CA,Cogeco Connexion Inc
 40.177.65.8,443,CA,Amazon Data Services Canada
 40.233.103.212,443,CA,Oracle Corporation
 40.233.110.251,443,CA,Oracle Corporation
