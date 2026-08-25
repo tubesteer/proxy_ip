@@ -1,12 +1,12 @@
 101.33.68.172,443,KR,ACEVILLE PTELTD
 119.205.235.58,443,KR,Korea Telecom
 119.28.162.39,8443,KR,Cloudflare London LLC
-123.111.169.70,2096,KR,SK Broadband Co Ltd
-123.111.169.70,443,KR,SK Broadband Co Ltd
-123.111.169.70,2053,KR,SK Broadband Co Ltd
-123.111.169.70,2087,KR,SK Broadband Co Ltd
 123.111.169.70,2083,KR,SK Broadband Co Ltd
 123.111.169.70,8443,KR,SK Broadband Co Ltd
+123.111.169.70,2096,KR,SK Broadband Co Ltd
+123.111.169.70,2087,KR,SK Broadband Co Ltd
+123.111.169.70,443,KR,SK Broadband Co Ltd
+123.111.169.70,2053,KR,SK Broadband Co Ltd
 129.154.50.72,8443,KR,Oracle Corporation
 13.124.169.29,443,KR,Amazoncom Inc
 13.125.114.105,443,KR,Amazoncom Inc
@@ -18,7 +18,6 @@
 131.186.24.124,587,KR,Oracle Public Cloud
 131.186.25.156,2087,KR,Oracle Public Cloud
 131.186.26.94,443,KR,Oracle Public Cloud
-132.145.82.39,443,KR,Oracle Corporation
 132.145.84.148,39567,KR,Oracle Public Cloud
 132.145.91.181,8443,KR,Oracle Public Cloud
 132.226.21.116,6056,KR,Oracle Public Cloud
@@ -30,7 +29,6 @@
 140.238.30.217,443,KR,Oracle Corporation
 140.238.5.75,13644,KR,Oracle Corporation
 140.245.65.122,443,KR,Oracle Corporation
-141.164.35.158,443,KR,The Constant Company LLC
 141.164.37.50,443,KR,KORVULTRCUST
 141.164.42.2,443,KR,The Constant Company LLC
 141.164.49.98,443,KR,The Constant Company LLC

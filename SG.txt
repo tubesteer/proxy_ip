@@ -23,6 +23,7 @@
 129.212.232.191,443,SG,DigitalOcean LLC
 129.212.232.220,8443,SG,DigitalOcean LLC
 129.212.239.183,443,SG,DigitalOcean LLC
+129.226.202.149,443,SG,16 COLLYER QUAY
 13.212.102.10,443,SG,Amazoncom Inc
 13.212.131.0,443,SG,Amazoncom Inc
 13.212.148.126,443,SG,Amazoncom Inc
@@ -101,9 +102,7 @@
 138.2.64.229,443,SG,Oracle Corporation
 138.2.66.236,443,SG,Oracle Corporation
 138.2.76.34,443,SG,Oracle Corporation
-138.2.84.152,443,SG,Oracle Corporation
 138.2.87.237,443,SG,Oracle Corporation
-139.162.20.150,443,SG,Akamai Connected Cloud  Linode
 139.162.33.165,443,SG,Akamai Connected Cloud  Linode
 139.162.37.6,443,SG,Akamai Connected Cloud  Linode
 139.162.41.109,443,SG,Akamai Connected Cloud  Linode
@@ -149,11 +148,10 @@
 143.198.211.180,443,SG,DigitalOcean LLC
 143.198.213.40,443,SG,DigitalOcean LLC
 143.198.213.81,443,SG,DigitalOcean LLC
-143.198.216.186,443,SG,DigitalOcean LLC
 143.198.87.50,8443,SG,DigitalOcean LLC
 143.198.88.27,443,SG,DigitalOcean LLC
 143.198.90.188,443,SG,DigitalOcean LLC
-143.42.66.91,443,SG,Viewqwest Pte Ltd
+143.42.66.91,443,SG,M1 Ltd
 146.190.100.44,443,SG,DigitalOcean LLC
 146.190.102.51,443,SG,DigitalOcean LLC
 146.190.87.188,443,SG,DigitalOcean LLC
@@ -162,8 +160,8 @@
 146.235.18.248,45137,SG,Oracle Corporation
 149.118.48.187,443,SG,Oracle Corporation
 149.118.55.215,2096,SG,Oracle Corporation
-149.118.55.215,2053,SG,Oracle Corporation
 149.118.55.215,8443,SG,Oracle Corporation
+149.118.55.215,2053,SG,Oracle Corporation
 149.28.135.30,443,SG,The Constant Company LLC
 149.28.150.141,443,SG,The Constant Company LLC
 149.28.150.210,443,SG,The Constant Company LLC
@@ -292,7 +290,6 @@
 167.99.69.85,443,SG,DigitalOcean LLC
 167.99.71.38,443,SG,DigitalOcean LLC
 167.99.77.156,443,SG,DigitalOcean LLC
-168.138.165.174,443,SG,Oracle Public Cloud
 168.138.176.180,443,SG,Cloudflare London LLC
 168.138.189.91,443,SG,Oracle Public Cloud
 168.144.102.226,443,SG,DigitalOcean LLC
@@ -356,7 +353,6 @@
 18.139.163.28,443,SG,Amazoncom Inc
 18.139.241.170,443,SG,Amazoncom Inc
 18.140.199.247,443,SG,Amazoncom Inc
-18.140.206.172,443,SG,Amazoncom Inc
 18.140.233.130,443,SG,Amazoncom Inc
 18.140.28.73,443,SG,Amazoncom Inc
 18.140.50.92,443,SG,Amazoncom Inc
@@ -431,8 +427,8 @@
 194.127.193.0,443,SG,LEASEWEB SINGAPORE PTE LTD
 194.127.193.43,443,SG,LEASEWEB SINGAPORE PTE LTD
 194.156.163.45,443,SG,Misaka Network Inc
-194.233.67.84,2053,SG,Contabo Asia Private Limited
 194.233.67.84,443,SG,Contabo Asia Private Limited
+194.233.67.84,2053,SG,Contabo Asia Private Limited
 194.56.225.65,2053,SG,SPEEDYPAGELTD
 194.87.10.208,443,SG,Baxet Group Inc
 194.87.10.77,443,SG,Baxet Group Inc
@@ -491,7 +487,7 @@
 43.160.241.223,443,SG,ACEVILLE PTELTD
 43.160.246.223,8443,SG,ACEVILLE PTELTD
 43.160.254.163,443,SG,ACEVILLE PTELTD
-43.170.38.62,443,SG,6 COLLYER QUAY
+43.170.38.62,443,SG,16 COLLYER QUAY
 45.127.32.15,443,SG,28 Kallang Place  0508 Singapore 339518
 45.130.164.109,443,SG,CloudWebManage Platform
 45.132.75.122,443,SG,Prinode AB
@@ -512,9 +508,8 @@
 45.76.189.166,443,SG,The Constant Company LLC
 45.77.173.72,443,SG,The Constant Company LLC
 45.77.174.69,443,SG,The Constant Company LLC
-45.77.254.160,8443,SG,The Constant Company LLC
 45.77.254.160,443,SG,The Constant Company LLC
-45.77.39.192,443,SG,The Constant Company LLC
+45.77.254.160,8443,SG,The Constant Company LLC
 45.77.46.191,443,SG,The Constant Company LLC
 45.92.158.117,443,SG,xTom Pty Ltd
 45.92.158.145,2087,SG,xTom Pty Ltd
@@ -531,9 +526,9 @@
 47.131.225.17,443,SG,Amazoncom Inc
 47.236.119.109,443,SG,Alibaba Cloud LLC
 47.74.254.191,8900,SG,Alibaba Cloud  SG
-47.82.155.79,2053,SG,Alibaba Cloud LLC
 47.82.155.79,8443,SG,Alibaba Cloud LLC
 47.82.155.79,443,SG,Alibaba Cloud LLC
+47.82.155.79,2053,SG,Alibaba Cloud LLC
 5.223.21.240,443,SG,Hetzner Online GmbH
 5.223.51.2,443,SG,Hetzner Online GmbH
 5.223.51.84,443,SG,Hetzner Online GmbH
@@ -542,8 +537,8 @@
 5.223.60.212,443,SG,Hetzner Online GmbH
 5.223.71.252,443,SG,Hetzner Online GmbH
 5.223.77.219,443,SG,Hetzner Online GmbH
-5.223.93.126,443,SG,Hetzner Online GmbH
 5.223.93.126,8443,SG,Hetzner Online GmbH
+5.223.93.126,443,SG,Hetzner Online GmbH
 5.223.95.244,443,SG,Hetzner Online GmbH
 5.34.176.119,81,SG,Green Floid LLC
 5.34.176.67,8443,SG,GREEN FLOID LLC
@@ -570,7 +565,6 @@
 52.221.4.213,443,SG,Amazoncom Inc
 52.221.53.171,443,SG,Amazoncom Inc
 52.74.228.235,443,SG,Amazoncom Inc
-52.76.122.217,443,SG,Amazoncom Inc
 52.77.54.144,443,SG,Amazoncom Inc
 52.77.72.146,443,SG,Amazoncom Inc
 54.151.142.61,443,SG,Amazoncom Inc
@@ -591,8 +585,6 @@
 54.254.226.116,443,SG,Amazoncom Inc
 54.254.236.209,443,SG,Amazoncom Inc
 54.254.39.187,443,SG,Amazoncom Inc
-54.255.129.71,443,SG,Amazoncom Inc
-54.255.176.147,443,SG,Amazoncom Inc
 54.255.206.251,443,SG,Amazoncom Inc
 54.255.215.190,443,SG,Amazoncom Inc
 54.255.217.181,443,SG,Amazoncom Inc
@@ -617,7 +609,6 @@
 68.183.230.164,443,SG,DigitalOcean LLC
 68.183.231.228,443,SG,DigitalOcean LLC
 69.161.221.136,8443,SG,LEASEWEB SINGAPORE PTE LTD
-69.161.221.225,443,SG,LEASEWEB SINGAPORE PTE LTD
 69.161.221.236,443,SG,LEASEWEB SINGAPORE PTE LTD
 77.83.241.97,443,SG,SPEEDYPAGE LTD
 77.93.90.231,443,SG,BAGE CLOUD LLC
