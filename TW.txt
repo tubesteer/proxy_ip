@@ -14,14 +14,12 @@
 203.69.11.81,443,TW,Data Communication Business Group
 211.72.147.91,443,TW,Data Communication Business Group
 213.210.4.238,443,TW,ByteVirt LLC
-220.132.74.165,443,TW,HiNet Taiwan
 23.146.248.149,443,TW,NCSE NETWORK LLC
 45.207.159.187,443,TW,Akari Networks Taipei
 78.105.183.11,8443,TW,Private Customer
 78.105.183.40,443,TW,DATAWAVE GLOBAL LLC
 82.152.91.210,443,TW,Akari Networks Taipei
 83.147.13.193,443,TW,Akari Networks Taipei
-83.147.13.49,443,TW,Akari Networks Taipei
 83.147.15.253,443,TW,Akari Networks Taipei
 85.237.206.231,443,TW,Akari Networks Taipei
 85.237.207.126,443,TW,Akari Networks Taipei

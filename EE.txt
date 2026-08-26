@@ -8,8 +8,8 @@
 159.69.162.184,43443,EE,Inter Connects Inc
 176.124.32.166,443,EE,BlueVPS OU
 176.124.32.39,443,EE,BlueVPS OU
-176.97.74.41,2053,EE,IROKO Networks Corporation
 176.97.74.41,8443,EE,IROKO Networks Corporation
+176.97.74.41,2053,EE,IROKO Networks Corporation
 185.114.116.181,8443,EE,Cloudflare London LLC
 185.123.53.176,443,EE,BlueVPS OU
 185.123.53.53,443,EE,BlueVPS OU
@@ -73,6 +73,7 @@
 45.12.28.96,443,EE,Brainoza OU
 45.129.199.117,443,EE,BlueVPS OU
 45.83.181.112,443,EE,BlueVPS OU
+45.83.181.140,2053,EE,BlueVPS OU
 45.83.182.60,443,EE,BlueVPS OU
 46.22.211.155,8443,EE,Aktsiaselts WaveCom
 46.22.211.46,443,EE,Aktsiaselts WaveCom
@@ -83,7 +84,6 @@
 46.36.219.229,8443,EE,IPv6 network for hosting services
 46.36.220.183,8443,EE,IPv6 network for hosting services
 46.36.221.203,443,EE,IPv6 network for hosting services
-5.101.112.45,8443,EE,IPv6 network for hosting services
 5.101.114.105,443,EE,IPv6 network for hosting services
 5.101.114.177,443,EE,IPv6 network for hosting services
 5.101.114.243,443,EE,IPv6 network for hosting services
@@ -109,16 +109,16 @@
 5.101.180.19,8443,EE,IPv6 network for hosting services
 5.101.181.135,8443,EE,IPv6 network for hosting services
 5.175.178.175,443,EE,ESTOXY OU
-5.175.178.254,443,EE,TAKEHOSTBIZ
 5.175.178.254,8443,EE,TAKEHOSTBIZ
+5.175.178.254,443,EE,TAKEHOSTBIZ
 5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
 5.188.200.189,443,EE,Brainoza OU
 5.188.21.38,8443,EE,Network for hosting services
 5.188.21.38,443,EE,Network for hosting services
+5.189.254.168,2053,EE,Brainoza OU
 5.189.254.168,443,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
-5.189.254.168,2053,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
 5.42.221.16,443,EE,HostWorld OU
