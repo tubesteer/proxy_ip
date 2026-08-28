@@ -20,10 +20,10 @@
 141.133.175.178,2053,CZ,SmartApe OU
 176.74.219.73,8443,CZ,HOSTTELECOMCOM sro
 178.208.75.153,443,CZ,Iron Hosting Centre Ltd London UK mchost
-178.208.75.155,2053,CZ,Iron Hosting Centre Ltd London UK mchost
 178.208.75.155,8443,CZ,Iron Hosting Centre Ltd London UK mchost
-178.208.91.143,443,CZ,Iron Hosting Centre Ltd London UK mchost
+178.208.75.155,2053,CZ,Iron Hosting Centre Ltd London UK mchost
 178.208.91.143,8443,CZ,Iron Hosting Centre Ltd London UK mchost
+178.208.91.143,443,CZ,Iron Hosting Centre Ltd London UK mchost
 178.208.91.177,443,CZ,Iron Hosting Centre Ltd London UK mchost
 185.21.223.42,8443,CZ,Jan Stetina
 185.253.46.235,443,CZ,Friendhosting LTD
@@ -34,22 +34,22 @@
 185.72.10.59,443,CZ,Iron Hosting Centre LTD
 185.72.10.61,443,CZ,Iron Hosting Centre LTD
 185.72.10.61,8443,CZ,Iron Hosting Centre LTD
-185.72.10.70,443,CZ,Iron Hosting Centre LTD
 185.72.10.70,8443,CZ,Iron Hosting Centre LTD
-185.72.10.89,443,CZ,Iron Hosting Centre LTD
+185.72.10.70,443,CZ,Iron Hosting Centre LTD
 185.72.10.89,8443,CZ,Iron Hosting Centre LTD
+185.72.10.89,443,CZ,Iron Hosting Centre LTD
 188.127.247.6,443,CZ,SmartApe OU
 188.214.35.66,443,CZ,EDIS IPv6 Infrastructure in Czechia
+193.124.56.100,443,CZ,SmartApe OU
 193.124.56.100,2087,CZ,SmartApe OU
 193.124.56.100,8443,CZ,SmartApe OU
-193.124.56.100,443,CZ,SmartApe OU
 193.124.56.49,443,CZ,SmartApe OU
 193.124.56.89,443,CZ,SmartApe OU
 193.124.56.99,443,CZ,SmartApe OU
 193.124.57.19,443,CZ,SmartApe OU
+193.124.57.24,2053,CZ,SmartApe OU
 193.124.57.24,2087,CZ,SmartApe OU
 193.124.57.24,2083,CZ,SmartApe OU
-193.124.57.24,2053,CZ,SmartApe OU
 193.124.57.87,443,CZ,SmartApe OU
 193.124.58.171,443,CZ,SmartApe OU
 193.124.58.60,443,CZ,SmartApe OU
@@ -78,6 +78,7 @@
 62.233.57.172,8443,CZ,GREEN FLOID LLC
 62.233.57.193,8443,CZ,GREEN FLOID LLC
 62.233.57.204,8443,CZ,GREEN FLOID LLC
+62.233.57.223,443,CZ,ROUTE 95 LLC
 67.159.18.61,443,CZ,FDCserversnet
 80.211.206.36,443,CZ,INTERNET CZ as
 84.242.64.86,8443,CZ,UPC Ceska republika as
@@ -89,6 +90,7 @@
 85.137.166.252,443,CZ,SmartApe OU
 85.137.166.6,443,CZ,SmartApe OU
 85.137.166.66,443,CZ,SmartApe OU
+85.137.167.101,443,CZ,SmartApe OU
 85.137.167.159,443,CZ,SmartApe OU
 85.137.167.180,443,CZ,SmartApe OU
 85.137.167.209,443,CZ,SmartApe OU

@@ -9,6 +9,7 @@
 151.242.189.184,443,TW,ByteVirt LLC
 154.40.60.193,443,TW,STARVERSE POLOCLOUD 2
 188.253.6.249,443,TW,Akari Networks Taipei
+2.27.174.68,443,TW,ACCK LLC
 203.69.11.79,443,TW,Data Communication Business Group
 203.69.11.80,443,TW,Data Communication Business Group
 203.69.11.81,443,TW,Data Communication Business Group
@@ -18,6 +19,7 @@
 45.207.159.187,443,TW,Akari Networks Taipei
 78.105.183.11,8443,TW,Private Customer
 78.105.183.40,443,TW,DATAWAVE GLOBAL LLC
+82.152.91.210,443,TW,Akari Networks Taipei
 83.147.13.193,443,TW,Akari Networks Taipei
 83.147.13.49,443,TW,Akari Networks Taipei
 83.147.15.253,443,TW,Akari Networks Taipei
