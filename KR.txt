@@ -1,11 +1,11 @@
 101.33.68.172,443,KR,ACEVILLE PTELTD
 119.205.235.58,443,KR,Korea Telecom
 119.28.162.39,8443,KR,Cloudflare London LLC
-123.111.169.70,8443,KR,SK Broadband Co Ltd
-123.111.169.70,2087,KR,SK Broadband Co Ltd
-123.111.169.70,2096,KR,SK Broadband Co Ltd
 123.111.169.70,2053,KR,SK Broadband Co Ltd
 123.111.169.70,443,KR,SK Broadband Co Ltd
+123.111.169.70,2096,KR,SK Broadband Co Ltd
+123.111.169.70,2087,KR,SK Broadband Co Ltd
+123.111.169.70,8443,KR,SK Broadband Co Ltd
 123.111.169.70,2083,KR,SK Broadband Co Ltd
 129.154.50.72,8443,KR,Oracle Corporation
 13.124.169.29,443,KR,Amazoncom Inc
@@ -56,6 +56,7 @@
 152.69.229.175,22558,KR,Oracle Corporation
 152.70.239.74,443,KR,Oracle Corporation
 152.70.254.197,443,KR,Oracle Corporation
+152.70.89.135,587,KR,Oracle Corporation
 158.247.198.196,443,KR,The Constant Company LLC
 158.247.210.172,443,KR,The Constant Company LLC
 158.247.240.138,443,KR,The Constant Company LLC
@@ -96,7 +97,6 @@
 43.133.251.155,443,KR,ACEVILLE PTELTD
 43.155.208.254,443,KR,ACEVILLE PTELTD
 43.155.221.27,8443,KR,Cloudflare London LLC
-43.164.137.118,8443,KR,16 COLLYER QUAY  1829 INCOME AT RAFFLES
 43.201.2.23,443,KR,Amazoncom Inc
 43.201.41.9,443,KR,Amazoncom Inc
 43.201.76.220,443,KR,Amazoncom Inc
@@ -118,10 +118,10 @@
 54.180.9.130,443,KR,Amazoncom Inc
 54.180.94.34,443,KR,Amazoncom Inc
 54.180.95.74,443,KR,Amazoncom Inc
-59.6.239.208,12203,KR,KT
 61.85.1.77,12150,KR,Korea Telecom
 64.110.70.64,443,KR,Oracle Corporation
 64.110.79.66,8443,KR,Oracle Corporation
+64.176.226.26,8443,KR,The Constant Company LLC
 64.176.230.12,443,KR,The Constant Company LLC
 64.176.231.220,443,KR,The Constant Company LLC
 85.155.176.105,8443,KR,Prinode AB
