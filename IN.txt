@@ -1,6 +1,7 @@
 103.111.114.87,443,IN,Melbikomas UAB
 107.181.139.85,443,IN,YottaSrc Hosting and Cloud Services
 134.209.148.128,443,IN,DigitalOcean LLC
+139.59.47.74,443,IN,MANNDESHI GURU NET PRIVATE LIMITED
 139.84.139.219,443,IN,The Constant Company LLC
 139.84.146.103,8443,IN,The Constant Company LLC
 139.84.150.190,8443,IN,The Constant Company LLC
@@ -46,12 +47,11 @@
 5.253.30.230,443,IN,BEAFORT LIMITED
 52.66.200.252,443,IN,Amazoncom Inc
 64.227.146.37,443,IN,DigitalOcean LLC
-64.227.174.213,8443,IN,DigitalOcean LLC
 64.227.174.213,2053,IN,DigitalOcean LLC
+64.227.174.213,8443,IN,DigitalOcean LLC
 65.2.215.47,443,IN,Amazoncom Inc
 65.20.71.82,443,IN,The Constant Company LLC
 65.20.85.14,443,IN,The Constant Company LLC
 65.20.88.116,443,IN,The Constant Company LLC
 68.233.107.29,443,IN,Oracle Corporation
-80.225.216.192,443,IN,Oracle Corporation
 98.70.26.236,443,IN,Microsoft Corporation
