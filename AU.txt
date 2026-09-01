@@ -13,6 +13,7 @@
 152.67.101.72,23010,AU,Oracle Public Cloud
 152.67.104.23,443,AU,Cloudflare London LLC
 152.67.125.161,443,AU,Oracle Public Cloud
+152.67.99.162,443,AU,Oracle Public Cloud
 154.26.156.24,443,AU,Contabo Asia Private Limited
 157.211.189.22,8443,AU,My Net Fone Limited
 158.180.5.171,443,AU,oracle

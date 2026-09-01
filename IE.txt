@@ -13,8 +13,8 @@
 5.157.30.26,8443,IE,Angelnet Limited
 5.157.30.28,8443,IE,Angelnet Limited
 5.157.30.3,8443,IE,Angelnet Limited
-52.19.138.237,2053,IE,Amazon Data Services Ireland Limited
 52.19.138.237,8443,IE,Amazon Data Services Ireland Limited
+52.19.138.237,2053,IE,Amazon Data Services Ireland Limited
 54.194.24.172,443,IE,Amazoncom Inc
 54.216.143.197,443,IE,Amazoncom Inc
 54.229.164.147,2053,IE,Amazoncom Inc
