@@ -39,7 +39,6 @@
 207.211.153.234,443,AU,Oracle Corporation
 207.211.157.214,443,AU,Oracle Corporation
 209.38.82.114,443,AU,Digital Ocean Inc
-209.38.87.75,443,AU,DigitalOcean LLC
 3.27.159.64,443,AU,Amazoncom Inc
 45.32.191.198,443,AU,The Constant Company LLC
 45.32.243.13,443,AU,The Constant Company LLC
