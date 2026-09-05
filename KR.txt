@@ -1,11 +1,11 @@
 101.33.68.172,443,KR,ACEVILLE PTELTD
 119.205.235.58,443,KR,Korea Telecom
-123.111.169.70,2087,KR,SK Broadband Co Ltd
-123.111.169.70,2053,KR,SK Broadband Co Ltd
-123.111.169.70,443,KR,SK Broadband Co Ltd
 123.111.169.70,2083,KR,SK Broadband Co Ltd
 123.111.169.70,8443,KR,SK Broadband Co Ltd
+123.111.169.70,443,KR,SK Broadband Co Ltd
+123.111.169.70,2053,KR,SK Broadband Co Ltd
 123.111.169.70,2096,KR,SK Broadband Co Ltd
+123.111.169.70,2087,KR,SK Broadband Co Ltd
 129.154.50.72,8443,KR,Oracle Corporation
 13.124.169.29,443,KR,Amazoncom Inc
 130.94.29.155,443,KR,LIGHT NODE LIMITED
@@ -67,7 +67,6 @@
 20.41.123.20,443,KR,Microsoft Corporation
 203.248.94.49,443,KR,Hongkong Wen Jing Network Limited
 211.49.57.134,443,KR,SK Broadband Co Ltd
-217.142.138.61,37914,KR,Oracle Svenska AB
 27.102.134.233,443,KR,KCInfra Inc
 3.35.51.12,443,KR,AWS Asia Pacific Seoul Region
 3.37.245.168,443,KR,Amazoncom Inc
