@@ -24,6 +24,7 @@
 172.105.173.161,443,AU,Akamai Connected Cloud  Linode
 172.236.62.238,443,AU,Linode
 176.97.68.17,443,AU,3nt solutions LLP
+192.9.162.124,8443,AU,Oracle Corporation
 192.9.175.224,443,AU,Oracle Corporation
 192.9.190.80,23862,AU,Oracle Corporation
 194.195.252.133,443,AU,Akamai Connected Cloud  Linode

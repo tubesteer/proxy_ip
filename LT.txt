@@ -4,12 +4,11 @@
 176.118.198.175,8443,LT,PROGRESYVUS SPRENDIMAI UAB
 176.118.198.24,8443,LT,PROGRESYVUS SPRENDIMAI UAB
 185.237.185.110,2053,LT,oneprovidercom  Vilnius Infrastructure
-185.237.185.182,2053,LT,Oneprovidercom  Vilnius Infrastructure
 185.237.185.182,8443,LT,Oneprovidercom  Vilnius Infrastructure
+185.237.185.182,2053,LT,Oneprovidercom  Vilnius Infrastructure
 185.80.129.84,443,LT,UAB ESNET
 188.190.3.42,443,LT,EDIS IPv6 Infrastructure in Lithuania
 194.135.83.166,8443,LT,UAB Interneto vizija
-194.135.85.34,443,LT,UAB Interneto vizija
 194.135.91.96,443,LT,UAB Interneto vizija
 194.87.106.196,8443,LT,Baxet Group Inc
 195.181.244.107,443,LT,UAB Interneto vizija
@@ -22,7 +21,6 @@
 212.24.104.79,8443,LT,UAB Interneto vizija
 212.24.104.79,2053,LT,UAB Interneto vizija
 213.183.55.153,8443,LT,EDIS IPv6 Infrastructure in Lithuania
-45.93.137.149,443,LT,Hostinger International Limited
 46.29.234.91,8443,LT,GLOBAL CONNECTIVITY SOLUTIONS LLP
 5.199.162.130,443,LT,UAB Cherry Servers
 5.199.173.195,443,LT,UAB Cherry Servers
