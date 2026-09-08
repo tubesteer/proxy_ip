@@ -1,4 +1,3 @@
-103.167.234.26,443,AL,Albanian Hosting SHPK ta AlbHost SHPK
 185.186.77.54,443,AL,oneprovidercom  Tirana infrastructure
 193.108.112.248,443,AL,Baxet Group Inc
 193.108.112.65,443,AL,Baxet Group Inc

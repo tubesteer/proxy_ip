@@ -23,12 +23,10 @@
 129.212.239.183,443,SG,DigitalOcean LLC
 129.226.202.149,443,SG,16 COLLYER QUAY
 13.212.102.10,443,SG,Amazoncom Inc
-13.212.185.30,443,SG,Amazoncom Inc
 13.212.207.124,443,SG,Amazoncom Inc
 13.213.65.117,443,SG,Amazoncom Inc
 13.228.167.160,443,SG,Amazoncom Inc
 13.250.131.37,443,SG,Amazon Data Services Singapore
-13.250.27.210,443,SG,Amazoncom Inc
 13.250.39.15,443,SG,Amazoncom Inc
 134.185.88.235,8443,SG,Oracle Corporation
 134.185.91.72,443,SG,Oracle Corporation
@@ -46,8 +44,8 @@
 138.2.66.236,443,SG,Oracle Corporation
 138.2.76.34,443,SG,Oracle Corporation
 138.2.87.237,443,SG,Oracle Corporation
+139.162.20.150,443,SG,Akamai Connected Cloud  Linode
 139.162.33.165,443,SG,Akamai Connected Cloud  Linode
-139.162.37.6,443,SG,Akamai Connected Cloud  Linode
 139.162.41.109,443,SG,Akamai Connected Cloud  Linode
 139.162.44.222,443,SG,Akamai Connected Cloud  Linode
 139.162.60.149,443,SG,Akamai Connected Cloud  Linode
@@ -92,7 +90,7 @@
 143.198.87.50,8443,SG,DigitalOcean LLC
 143.198.88.27,443,SG,DigitalOcean LLC
 143.198.90.188,443,SG,DigitalOcean LLC
-143.42.66.91,443,SG,Viewqwest Pte Ltd
+143.42.66.91,443,SG,M1 Ltd
 146.190.100.44,443,SG,DigitalOcean LLC
 146.190.102.51,443,SG,DigitalOcean LLC
 146.190.87.188,443,SG,DigitalOcean LLC
@@ -222,7 +220,6 @@
 167.71.217.55,443,SG,DigitalOcean LLC
 167.71.219.37,443,SG,DigitalOcean LLC
 167.71.220.89,443,SG,DigitalOcean LLC
-167.71.222.177,443,SG,DigitalOcean LLC
 167.99.69.85,443,SG,DigitalOcean LLC
 167.99.71.38,443,SG,DigitalOcean LLC
 167.99.77.156,443,SG,DigitalOcean LLC
@@ -397,9 +394,9 @@
 47.131.225.17,443,SG,Amazoncom Inc
 47.236.119.109,443,SG,Alibaba Cloud LLC
 47.74.254.191,8900,SG,Alibaba Cloud  SG
+47.82.155.79,2053,SG,Alibaba Cloud LLC
 47.82.155.79,8443,SG,Alibaba Cloud LLC
 47.82.155.79,443,SG,Alibaba Cloud LLC
-47.82.155.79,2053,SG,Alibaba Cloud LLC
 5.223.21.240,443,SG,Hetzner Online GmbH
 5.223.51.2,443,SG,Hetzner Online GmbH
 5.223.51.84,443,SG,Hetzner Online GmbH
@@ -407,8 +404,8 @@
 5.223.59.9,443,SG,Hetzner Online GmbH
 5.223.60.212,443,SG,Hetzner Online GmbH
 5.223.71.252,443,SG,Hetzner Online GmbH
-5.223.93.126,8443,SG,Hetzner Online GmbH
 5.223.93.126,443,SG,Hetzner Online GmbH
+5.223.93.126,8443,SG,Hetzner Online GmbH
 5.223.95.244,443,SG,Hetzner Online GmbH
 5.34.176.119,81,SG,Green Floid LLC
 5.34.176.67,8443,SG,GREEN FLOID LLC
@@ -444,7 +441,6 @@
 68.183.230.164,443,SG,DigitalOcean LLC
 68.183.231.228,443,SG,DigitalOcean LLC
 69.161.221.136,8443,SG,LEASEWEB SINGAPORE PTE LTD
-69.161.221.225,443,SG,LEASEWEB SINGAPORE PTE LTD
 69.161.221.236,443,SG,LEASEWEB SINGAPORE PTE LTD
 77.83.241.97,443,SG,SPEEDYPAGE LTD
 77.93.90.231,443,SG,BAGE CLOUD LLC
