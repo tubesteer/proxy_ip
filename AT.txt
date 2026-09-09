@@ -59,7 +59,6 @@
 152.53.100.177,443,AT,netcup GmbH
 152.53.100.232,443,AT,netcup GmbH
 152.53.100.49,443,AT,netcup GmbH
-152.53.100.85,443,AT,netcup GmbH
 152.53.101.146,443,AT,netcup GmbH
 152.53.101.5,443,AT,netcup GmbH
 152.53.103.121,443,AT,netcup GmbH
