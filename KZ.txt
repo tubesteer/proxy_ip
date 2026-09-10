@@ -23,19 +23,20 @@
 193.124.204.130,8443,KZ,GLB Bulut Teknolojisi Limited Sirketi
 194.32.142.88,443,KZ,PS Internet Company LLP
 195.210.47.128,443,KZ,PS Internet Company LLP
-195.210.47.233,8443,KZ,PS Internet Company LLP
 195.210.47.233,2053,KZ,PS Internet Company LLP
+195.210.47.233,8443,KZ,PS Internet Company LLP
 195.210.47.5,443,KZ,PS Internet Company LLP
 195.49.215.254,8443,KZ,PS Internet Company LLP
 199.189.252.112,2083,KZ,HostLab LLC
 199.189.252.44,443,KZ,HostLab LLC
+2.27.130.172,443,KZ,Megahost Kazakhstan TOO
 2.27.131.10,443,KZ,Megahost Kazakhstan TOO
-213.148.1.150,8443,KZ,Modern Server Solutions LLP
 213.148.1.150,2053,KZ,Modern Server Solutions LLP
-213.148.10.155,443,KZ,Modern Server Solutions LLP
+213.148.1.150,8443,KZ,Modern Server Solutions LLP
 213.148.10.155,2053,KZ,Modern Server Solutions LLP
-213.148.10.170,8443,KZ,Modern Server Solutions LLP
+213.148.10.155,443,KZ,Modern Server Solutions LLP
 213.148.10.170,2053,KZ,Modern Server Solutions LLP
+213.148.10.170,8443,KZ,Modern Server Solutions LLP
 213.148.2.46,8443,KZ,Modern Server Solutions LLP
 213.148.26.246,2053,KZ,Servercore Network
 213.148.26.246,8443,KZ,Servercore Network
@@ -74,16 +75,16 @@
 72.56.2.96,443,KZ,JSC TIMEWEB
 79.142.51.162,65000,KZ,SMARTNET TOO
 80.90.181.152,2053,KZ,JSC TIMEWEB
-80.90.183.75,8443,KZ,lease for Timeweb
 80.90.183.75,2053,KZ,lease for Timeweb
+80.90.183.75,8443,KZ,lease for Timeweb
 83.222.22.61,2053,KZ,Beget LLC
 83.222.22.61,8443,KZ,Beget LLC
-83.97.77.35,8443,KZ,Webstudio Onelab LLP
 83.97.77.35,2053,KZ,Webstudio Onelab LLP
+83.97.77.35,8443,KZ,Webstudio Onelab LLP
 83.97.77.63,8443,KZ,Webstudio Onelab LLP
 83.97.77.63,2053,KZ,Webstudio Onelab LLP
-86.107.198.133,8443,KZ,HosterKZ
 86.107.198.133,2053,KZ,HosterKZ
+86.107.198.133,8443,KZ,HosterKZ
 88.218.70.62,443,KZ,Servercore Network
 89.40.233.90,8443,KZ,Beget LLC
 91.200.148.120,443,KZ,Quasar LLC
