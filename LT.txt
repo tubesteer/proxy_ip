@@ -4,8 +4,8 @@
 176.118.198.175,8443,LT,PROGRESYVUS SPRENDIMAI UAB
 176.118.198.24,8443,LT,PROGRESYVUS SPRENDIMAI UAB
 185.237.185.110,2053,LT,oneprovidercom  Vilnius Infrastructure
-185.237.185.182,8443,LT,Oneprovidercom  Vilnius Infrastructure
 185.237.185.182,2053,LT,Oneprovidercom  Vilnius Infrastructure
+185.237.185.182,8443,LT,Oneprovidercom  Vilnius Infrastructure
 185.80.129.84,443,LT,UAB ESNET
 188.190.3.42,443,LT,EDIS IPv6 Infrastructure in Lithuania
 194.135.83.166,8443,LT,UAB Interneto vizija
