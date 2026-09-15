@@ -1,5 +1,4 @@
 104.143.0.180,443,AT,Alwyzon a trading name of Hohl IT eU
-104.143.0.61,8443,AT,Alwyzon a trading name of Hohl IT eU
 130.195.222.215,443,AT,M247 LTD Vienna Infrastructure
 132.243.203.112,8443,AT,NETAXIS GROUP LTD
 132.243.203.120,8443,AT,NETAXIS GROUP LTD
