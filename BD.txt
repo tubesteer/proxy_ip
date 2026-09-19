@@ -2,3 +2,4 @@
 103.159.170.124,443,BD,MD AKASH AS ONLINE
 103.48.16.37,443,BD,Bangladesh Computer Council
 103.81.172.34,443,BD,ADN Telecom Ltd
+154.205.144.113,443,BD,Lightnode Limited
