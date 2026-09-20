@@ -10,4 +10,3 @@
 91.218.212.223,443,UA,TOV Dream Line Holding
 91.231.182.162,8443,UA,South Park Networks LLC
 91.238.105.102,443,UA,FOP Reznichenko Sergey Mykolayovich
-91.239.65.102,443,UA,GCore Labs SA

@@ -24,13 +24,14 @@
 212.192.23.30,443,LT,Baxet Group Inc
 212.192.23.56,443,LT,Baxet Group Inc
 212.192.23.91,443,LT,Baxet Group Inc
-212.24.104.79,2053,LT,UAB Interneto vizija
 212.24.104.79,8443,LT,UAB Interneto vizija
+212.24.104.79,2053,LT,UAB Interneto vizija
 213.183.55.153,8443,LT,EDIS IPv6 Infrastructure in Lithuania
 213.189.221.242,8443,LT,Baxet Group Inc
 213.252.246.17,8443,LT,SolusVM priskirti adresai
 45.93.137.149,443,LT,Hostinger International Limited
 46.29.234.91,8443,LT,GLOBAL CONNECTIVITY SOLUTIONS LLP
+46.39.255.99,8443,LT,UAB Baltnetos komunikacijos
 5.199.162.130,443,LT,UAB Cherry Servers
 5.199.173.195,443,LT,UAB Cherry Servers
 72.56.5.222,443,LT,UAB Interneto vizija

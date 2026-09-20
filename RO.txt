@@ -1,5 +1,4 @@
 103.102.229.28,443,RO,Jules DurandArnaudet
-103.102.229.37,443,RO,Jules DurandArnaudet
 103.102.229.45,443,RO,Jules DurandArnaudet
 103.126.50.196,8443,RO,ZetServers RO
 154.46.31.118,443,RO,DOTRO TELECOM SRL
