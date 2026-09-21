@@ -2,9 +2,10 @@
 130.12.171.63,443,LT,SOLID Lithuania
 144.31.243.120,8443,LT,SERVHOST GROUP LTD
 144.31.243.69,443,LT,SERVHOST GROUP LTD
+176.118.198.175,8443,LT,PROGRESYVUS SPRENDIMAI UAB
+176.118.198.24,8443,LT,PROGRESYVUS SPRENDIMAI UAB
 176.223.140.204,443,LT,UAB Interneto vizija
 185.237.185.110,2053,LT,oneprovidercom  Vilnius Infrastructure
-185.237.185.182,8443,LT,Oneprovidercom  Vilnius Infrastructure
 185.237.185.182,2053,LT,Oneprovidercom  Vilnius Infrastructure
 185.34.52.147,443,LT,UAB ESNET
 185.80.128.20,443,LT,UAB ESNET
@@ -15,7 +16,6 @@
 194.135.83.166,8443,LT,UAB Interneto vizija
 194.135.91.96,443,LT,UAB Interneto vizija
 194.87.106.196,8443,LT,Baxet Group Inc
-195.181.244.107,443,LT,UAB Interneto vizija
 195.181.244.216,443,LT,UAB Interneto vizija
 195.238.126.11,443,LT,Melbikomas UAB
 195.238.126.150,443,LT,Melbikomas UAB
@@ -40,8 +40,8 @@
 80.209.231.51,443,LT,UAB Interneto vizija
 80.209.232.78,443,LT,UAB Interneto vizija
 80.209.237.38,2053,LT,UAB Interneto vizija
-84.32.149.158,443,LT,Private Customer
 84.32.149.158,8443,LT,Private Customer
+84.32.149.158,443,LT,Private Customer
 84.32.209.76,443,LT,Private Customer
 84.32.97.162,443,LT,Private Customer
 85.206.161.198,443,LT,Pirma alokacija

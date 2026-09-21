@@ -1,7 +1,6 @@
 103.167.234.26,443,PL,Albanian Hosting SHPK ta AlbHost SHPK
 103.31.77.108,2053,PL,Baxet Group Inc
 103.68.110.188,443,PL,HOSTOFF infrastructure and hosting services
-104.222.177.183,443,PL,Individual Entrepreneur Anton Levin
 104.245.245.16,8443,PL,QuadSpark IT Solutions Private Limited
 13.143.139.207,8443,PL,HOSTOFF infrastructure and hosting services
 13.143.139.31,8443,PL,HOSTOFF infrastructure and hosting services
@@ -13,8 +12,8 @@
 138.124.20.162,8443,PL,Baykov Ilya Sergeevich
 139.28.97.231,443,PL,Individual Entrepreneur Anton Levin
 144.31.0.134,443,PL,H2NEXUS Warsaw Network
-144.31.1.122,8443,PL,H2NEXUS Warsaw Network
 144.31.1.178,8443,PL,H2NEXUS Warsaw Network
+144.31.101.123,443,PL,HOSTOFF infrastructure and hosting services
 144.31.101.42,443,PL,HOSTOFF infrastructure and hosting services
 144.31.102.149,8443,PL,HOSTOFF infrastructure and hosting services
 144.31.102.16,443,PL,HOSTOFF infrastructure and hosting services
@@ -27,16 +26,15 @@
 144.31.112.194,443,PL,HOSTOFF infrastructure and hosting services
 144.31.113.130,443,PL,HOSTOFF infrastructure and hosting services
 144.31.113.162,443,PL,HOSTOFF infrastructure and hosting services
-144.31.171.82,443,PL,1Cent Host
 144.31.2.121,443,PL,H2NEXUS Warsaw Network
 144.31.248.164,8443,PL,HOSTOFF infrastructure and hosting services
 144.31.248.39,2053,PL,HOSTOFF infrastructure and hosting services
 144.31.248.39,8443,PL,HOSTOFF infrastructure and hosting services
 144.31.248.94,2087,PL,HOSTOFF infrastructure and hosting services
-144.31.29.27,8443,PL,HOSTOFF infrastructure and hosting services
 144.31.29.27,443,PL,HOSTOFF infrastructure and hosting services
-144.31.29.97,443,PL,HOSTOFF infrastructure and hosting services
+144.31.29.27,8443,PL,HOSTOFF infrastructure and hosting services
 144.31.29.97,8443,PL,HOSTOFF infrastructure and hosting services
+144.31.29.97,443,PL,HOSTOFF infrastructure and hosting services
 145.239.85.117,8443,PL,OVH VPS WAW
 145.239.85.117,2053,PL,OVH VPS WAW
 145.239.88.255,8443,PL,OVH VPS WAW
@@ -51,7 +49,7 @@
 148.253.212.215,8443,PL,SEBEK sp z oo
 148.253.212.218,443,PL,SEBEK sp z oo
 148.253.212.42,443,PL,SEBEK sp z oo
-150.251.112.236,8443,PL,Additional IPv6
+150.251.112.236,8443,PL,IQ REGIQDC
 151.115.61.151,2053,PL,Warsaw Poland
 151.243.196.148,8443,PL,HOSTKEY BV
 151.243.232.6,443,PL,HOSTKEY BV
@@ -65,8 +63,8 @@
 176.124.33.59,443,PL,BlueVPS OU
 178.17.59.103,2053,PL,QWINS Hosting
 178.255.46.176,443,PL,Artnet Sp z oo
-185.126.64.101,443,PL,Local NCC Ltd
 185.126.64.13,443,PL,RapidSeedbox Ltd
+185.126.64.196,443,PL,TOV FORTPOST
 185.126.64.240,443,PL,Local NCC Ltd
 185.126.64.240,2053,PL,Local NCC Ltd
 185.126.64.7,8443,PL,Local NCC Ltd
@@ -97,11 +95,10 @@
 194.59.186.97,443,PL,Pronet LLC
 194.87.128.46,443,PL,Baxet Group Inc
 194.88.150.221,443,PL,Local NCC Ltd
-194.88.150.23,443,PL,Local NCC Ltd
 194.88.151.163,443,PL,Local NCC Ltd
 194.88.151.93,443,PL,Local NCC Ltd
-195.137.244.47,2087,PL,South Park Networks LLC
 195.137.244.47,2053,PL,South Park Networks LLC
+195.137.244.47,2087,PL,South Park Networks LLC
 195.137.244.47,2083,PL,South Park Networks LLC
 195.3.223.111,8443,PL,MEVSPACE sp z oo
 195.58.137.118,443,PL,Shock Hosting LLC
@@ -111,10 +108,10 @@
 2.27.244.113,443,PL,1Cent Host
 2.27.244.160,8443,PL,1Cent Host
 2.27.244.160,2083,PL,1Cent Host
-2.27.244.161,8443,PL,1Cent Host
 2.27.244.161,2083,PL,1Cent Host
-2.27.244.162,8443,PL,1Cent Host
+2.27.244.161,8443,PL,1Cent Host
 2.27.244.162,2083,PL,1Cent Host
+2.27.244.162,8443,PL,1Cent Host
 2.27.244.163,2083,PL,1Cent Host
 2.27.244.163,8443,PL,1Cent Host
 2.27.244.164,2083,PL,1Cent Host
@@ -127,7 +124,6 @@
 2.27.57.85,443,PL,HOSTOFF infrastructure and hosting services
 2.27.57.87,8443,PL,HOSTOFF infrastructure and hosting services
 2.58.95.153,8443,PL,Baxet Group Inc
-2.58.95.52,443,PL,Baxet Group Inc
 2.58.95.90,443,PL,Baxet Group Inc
 2.59.163.11,8443,PL,GLOBAL CONNECTIVITY SOLUTIONS LLP
 2.59.163.33,443,PL,GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -145,12 +141,12 @@
 217.12.207.29,8443,PL,GREEN FLOID LLC
 217.182.79.55,8443,PL,OVH Sp z o o
 217.182.79.55,443,PL,OVH Sp z o o
-217.30.10.55,2083,PL,Melbikomas UAB
+217.30.10.55,2087,PL,Melbikomas UAB
+217.30.10.55,2096,PL,Melbikomas UAB
 217.30.10.55,2053,PL,Melbikomas UAB
 217.30.10.55,443,PL,Melbikomas UAB
-217.30.10.55,2096,PL,Melbikomas UAB
-217.30.10.55,2087,PL,Melbikomas UAB
 217.30.10.55,8443,PL,Melbikomas UAB
+217.30.10.55,2083,PL,Melbikomas UAB
 217.60.33.218,443,PL,ExpressHost LTD
 222.167.248.37,443,PL,Vladislav Novitskii
 23.27.24.101,443,PL,Evoxtcom
@@ -158,8 +154,8 @@
 31.133.0.133,2053,PL,BARTOSZ WASZAK trading as HOSTEAM SC TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
 31.133.1.8,2053,PL,BARTOSZ WASZAK trading as HOSTEAM SC TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
 31.169.126.145,443,PL,Baykov Ilya Sergeevich
-31.169.126.66,443,PL,Baykov Ilya Sergeevich
 31.169.126.66,8443,PL,Baykov Ilya Sergeevich
+31.169.126.66,443,PL,Baykov Ilya Sergeevich
 31.59.143.122,443,PL,ExpressHost LTD
 31.76.22.109,443,PL,1Cent Host
 31.76.22.15,443,PL,1Cent Host
@@ -168,8 +164,6 @@
 31.76.251.97,8443,PL,VPSPay  vpspaycloud
 31.76.94.169,8443,PL,VPSPay  vpspaycloud
 31.77.228.84,443,PL,Great Flower
-31.77.56.26,443,PL,QWINS Hosting
-31.77.56.26,8443,PL,QWINS Hosting
 34.116.216.59,443,PL,Google LLC
 37.252.11.221,443,PL,IROKO Networks Corporation
 37.252.11.49,8443,PL,Artnet Sp z oo
@@ -227,25 +221,26 @@
 64.176.73.77,443,PL,The Constant Company LLC
 70.34.242.81,443,PL,The Constant Company LLC
 70.34.243.123,443,PL,The Constant Company LLC
-70.34.243.176,2087,PL,The Constant Company LLC
-70.34.243.176,8443,PL,The Constant Company LLC
 70.34.243.176,443,PL,The Constant Company LLC
+70.34.243.176,8443,PL,The Constant Company LLC
+70.34.243.176,2087,PL,The Constant Company LLC
 70.34.243.2,443,PL,The Constant Company LLC
-70.34.244.250,53062,PL,The Constant Company LLC
 70.34.244.250,27000,PL,The Constant Company LLC
+70.34.244.250,53062,PL,The Constant Company LLC
 70.34.244.250,12531,PL,The Constant Company LLC
 70.34.250.153,443,PL,The Constant Company LLC
 70.34.251.88,443,PL,The Constant Company LLC
 70.34.252.186,443,PL,The Constant Company LLC
 77.83.246.153,8443,PL,GLOBAL CONNECTIVITY SOLUTIONS LLP
 78.11.241.61,443,PL,Netia SA
+78.17.43.6,2053,PL,Snowd Security OU
 78.17.8.231,2053,PL,OVH Sp z o o
 80.211.249.240,2053,PL,Aruba SpA  Cloud Services PL1
 80.211.249.240,8443,PL,Aruba SpA  Cloud Services PL1
-80.211.249.68,2053,PL,Aruba SpA  Cloud Services PL1
 80.211.249.68,8443,PL,Aruba SpA  Cloud Services PL1
-80.211.250.20,8443,PL,Aruba SpA  Cloud Services PL1
+80.211.249.68,2053,PL,Aruba SpA  Cloud Services PL1
 80.211.250.20,2053,PL,Aruba SpA  Cloud Services PL1
+80.211.250.20,8443,PL,Aruba SpA  Cloud Services PL1
 81.27.102.88,443,PL,UpCloud Cloud Servers
 81.85.73.76,443,PL,Anton Levin
 81.90.17.201,8443,PL,nodehost
@@ -283,19 +278,17 @@
 89.46.235.32,2053,PL,EDIS Infrastructure in Poland
 91.108.237.23,443,PL,interlir citytelecom 07 12 2025
 91.108.249.113,8443,PL,KVANTA LLC
-91.149.253.249,443,PL,BGNETWORK
+91.149.253.249,443,PL,Cloudflare London LLC
 91.149.253.26,443,PL,Baxet Group Inc
 91.193.18.144,443,PL,HZ Hosting Ltd
 91.193.18.155,443,PL,HZ Hosting Ltd
 91.196.161.188,443,PL,Local NCC Ltd
 91.196.162.207,443,PL,Local NCC Ltd
-91.196.162.237,443,PL,Local NCC Ltd
 91.196.163.129,443,PL,Local NCC Ltd
-91.196.163.130,443,PL,Local NCC Ltd
 91.196.163.185,443,PL,Local NCC Ltd
 91.224.75.127,2053,PL,3HCLoud LLC
-91.224.75.242,443,PL,3HCLoud LLC
 91.224.75.242,2053,PL,3HCLoud LLC
+91.224.75.242,443,PL,3HCLoud LLC
 91.224.75.49,2053,PL,Newserverlife LLC
 91.92.46.117,443,PL,Baykov Ilya Sergeevich
 91.92.46.238,443,PL,Baykov Ilya Sergeevich
@@ -311,16 +304,16 @@
 94.183.209.96,443,PL,EternityCloud
 95.164.90.133,443,PL,Netassist Limited
 95.214.53.116,8443,PL,MEVSPACE sp z oo
-95.85.227.117,8443,PL,1Cent Host
 95.85.227.117,2083,PL,1Cent Host
+95.85.227.117,8443,PL,1Cent Host
 95.85.227.129,443,PL,1Cent Host
 95.85.227.192,8443,PL,1Cent Host
 95.85.227.52,443,PL,1Cent Host
 95.85.229.60,8443,PL,1Cent Host
 95.85.246.250,443,PL,1Cent Host
 95.85.254.170,443,PL,1Cent Host
-95.85.255.215,2083,PL,1Cent Host
 95.85.255.215,8443,PL,1Cent Host
+95.85.255.215,2083,PL,1Cent Host
 95.85.255.220,2083,PL,1Cent Host
 95.85.255.220,8443,PL,1Cent Host
 95.85.255.253,443,PL,1Cent Host

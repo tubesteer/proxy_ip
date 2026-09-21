@@ -54,6 +54,7 @@
 132.243.203.9,8443,AT,NETAXIS GROUP LTD
 151.236.8.190,443,AT,EDIS IPv6 Infrastructure in Austria
 151.236.8.98,443,AT,EDIS IPv6 Infrastructure in Austria
+152.53.100.50,443,AT,netcup GmbH
 152.53.102.19,443,AT,netcup GmbH
 152.53.110.2,443,AT,netcup GmbH
 152.53.110.45,443,AT,netcup GmbH
@@ -89,8 +90,8 @@
 205.147.201.53,8443,AT,Alwyzon a trading name of Hohl IT eU
 37.235.56.86,443,AT,EDIS IPv6 Infrastructure in Austria
 37.252.189.207,443,AT,IPAX GmbH
-46.102.156.144,2053,AT,Alwyzon a trading name of Hohl IT eU
 46.102.156.144,8443,AT,Alwyzon a trading name of Hohl IT eU
+46.102.156.144,2053,AT,Alwyzon a trading name of Hohl IT eU
 77.110.110.212,8443,AT,AEZA GROUP LLC
 77.110.110.254,443,AT,AEZA GROUP LLC
 85.192.42.198,443,AT,AEZA GROUP LLC
@@ -101,7 +102,6 @@
 91.244.70.45,8443,AT,Evolus IT Solutions GmbH
 92.112.48.142,8443,AT,Alpenhost eU
 92.112.48.149,443,AT,Alpenhost eU
-93.115.106.139,443,AT,Baxet Group Inc
 94.177.8.237,443,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.78,2053,AT,Alwyzon a trading name of Hohl IT eU
 94.177.9.33,8443,AT,Alwyzon a trading name of Hohl IT eU
