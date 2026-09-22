@@ -1,4 +1,4 @@
-109.206.241.16,443,EE,Baykov Ilya Sergeevich
+109.206.241.56,8443,EE,Baykov Ilya Sergeevich
 114.129.9.132,8443,EE,3nt solutions LLP
 138.124.4.38,443,EE,Baykov Ilya Sergeevich
 144.31.170.4,443,EE,1Cent Host
@@ -6,9 +6,8 @@
 150.241.101.185,443,EE,SERVHOST GROUP LTD
 150.241.74.200,443,EE,SERVHOST GROUP LTD
 150.241.74.241,443,EE,SERVHOST GROUP LTD
-153.56.171.124,8443,EE,EE IPHOSTER OU
 153.56.171.124,2053,EE,EE IPHOSTER OU
-153.56.171.212,2053,EE,EE IPHOSTER OU
+153.56.171.124,8443,EE,EE IPHOSTER OU
 153.56.171.216,443,EE,EE IPHOSTER OU
 153.56.171.216,8443,EE,EE IPHOSTER OU
 153.56.171.219,2053,EE,EE IPHOSTER OU
@@ -25,14 +24,12 @@
 185.114.116.181,443,EE,Cloudflare London LLC
 185.114.116.181,8443,EE,Cloudflare London LLC
 185.114.116.54,443,EE,3nt solutions LLP
-185.122.185.94,8443,EE,EDIS IPv6 Infrastructure in Estonia
 185.122.185.94,443,EE,EDIS IPv6 Infrastructure in Estonia
+185.122.185.94,8443,EE,EDIS IPv6 Infrastructure in Estonia
 185.123.53.176,443,EE,BlueVPS OU
 185.123.53.53,443,EE,BlueVPS OU
-185.174.135.56,8443,EE,HZ Hosting Ltd
 185.194.53.139,8443,EE,xTom OU
 185.194.53.95,443,EE,xTom OU
-185.215.187.143,443,EE,RJ Network OU
 185.223.168.172,2053,EE,Brainoza OU
 185.23.236.107,443,EE,HexCore cloud sro
 185.23.236.111,443,EE,ITDevelop DOO
@@ -73,6 +70,7 @@
 31.56.187.21,443,EE,ExpressHost LTD
 31.56.187.26,443,EE,ExpressHost LTD
 31.76.55.48,443,EE,SERVHOST GROUP LTD
+31.76.70.41,443,EE,SERVHOST GROUP LTD
 38.180.10.173,443,EE,3NT SOLUTIONS LLP
 38.180.10.51,443,EE,3NT SOLUTIONS LLP
 38.180.10.97,443,EE,3NT SOLUTIONS LLP
@@ -96,7 +94,6 @@
 45.83.182.60,443,EE,BlueVPS OU
 45.83.182.80,443,EE,BlueVPS OU
 46.22.211.155,8443,EE,Aktsiaselts WaveCom
-46.22.211.46,443,EE,Aktsiaselts WaveCom
 46.36.216.195,443,EE,IPv6 network for hosting services
 46.36.216.57,443,EE,IPv6 network for hosting services
 46.36.217.167,443,EE,IPv6 network for hosting services
@@ -104,6 +101,7 @@
 46.36.219.229,8443,EE,IPv6 network for hosting services
 46.36.220.183,8443,EE,IPv6 network for hosting services
 46.36.221.203,443,EE,IPv6 network for hosting services
+5.101.114.105,443,EE,IPv6 network for hosting services
 5.101.114.177,443,EE,IPv6 network for hosting services
 5.101.114.27,8443,EE,IPv6 network for hosting services
 5.101.114.44,2053,EE,IPv6 network for hosting services
@@ -129,12 +127,12 @@
 5.181.202.134,443,EE,Brainoza OU
 5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
-5.188.21.38,443,EE,Network for hosting services
 5.188.21.38,8443,EE,Network for hosting services
+5.188.21.38,443,EE,Network for hosting services
 5.188.27.163,443,EE,Network for hosting services
+5.189.254.168,2053,EE,Brainoza OU
 5.189.254.168,443,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
-5.189.254.168,2053,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
 5.42.221.155,443,EE,HostWorld OU
@@ -144,8 +142,8 @@
 5.45.112.211,443,EE,IPv6 network for hosting services
 5.45.115.162,2087,EE,IPv6 network for hosting services
 5.45.115.162,2083,EE,IPv6 network for hosting services
-5.45.115.168,8443,EE,Network for hosting services
 5.45.115.168,2053,EE,IPv6 network for hosting services
+5.45.115.168,8443,EE,Network for hosting services
 5.45.115.238,8443,EE,IPv6 network for hosting services
 5.45.115.77,443,EE,IPv6 network for hosting services
 5.45.115.87,443,EE,IPv6 network for hosting services
@@ -174,6 +172,5 @@
 94.126.224.238,443,EE,HZ Hosting Ltd
 94.156.236.118,443,EE,Baykov Ilya Sergeevich
 94.156.236.200,443,EE,Baykov Ilya Sergeevich
-95.85.243.118,443,EE,1Cent Host
 95.85.243.122,443,EE,1Cent Host
 95.85.243.240,443,EE,1Cent Host

@@ -1,7 +1,6 @@
 107.150.20.112,8443,IE,HostPapa
 108.128.156.233,443,IE,Amazon Data Services Ireland Ltd
 167.160.177.68,2096,IE,HostPapa
-194.87.245.205,8443,IE,Baxet Group Inc
 196.197.21.2,8443,IE,Angelnet Limited
 198.55.102.68,2083,IE,VPS ACE
 198.55.103.168,443,IE,Cloudflare London LLC
