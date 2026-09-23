@@ -58,11 +58,10 @@
 152.53.102.19,443,AT,netcup GmbH
 152.53.110.2,443,AT,netcup GmbH
 152.53.110.45,443,AT,netcup GmbH
-152.53.111.168,443,AT,netcup GmbH
 152.53.111.169,443,AT,netcup GmbH
 152.53.111.219,443,AT,netcup GmbH
-152.53.112.170,2053,AT,netcup GmbH
 152.53.112.170,443,AT,netcup GmbH
+152.53.112.170,2053,AT,netcup GmbH
 152.53.19.28,8443,AT,powered by ANX
 152.53.2.213,8443,AT,powered by ANX
 152.53.3.249,2096,AT,netcup GmbH
@@ -90,8 +89,8 @@
 205.147.201.53,8443,AT,Alwyzon a trading name of Hohl IT eU
 37.235.56.86,443,AT,EDIS IPv6 Infrastructure in Austria
 37.252.189.207,443,AT,IPAX GmbH
-46.102.156.144,8443,AT,Alwyzon a trading name of Hohl IT eU
 46.102.156.144,2053,AT,Alwyzon a trading name of Hohl IT eU
+46.102.156.144,8443,AT,Alwyzon a trading name of Hohl IT eU
 77.110.110.212,8443,AT,AEZA GROUP LLC
 77.110.110.254,443,AT,AEZA GROUP LLC
 85.192.42.198,443,AT,AEZA GROUP LLC
@@ -102,6 +101,7 @@
 91.244.70.45,8443,AT,Evolus IT Solutions GmbH
 92.112.48.142,8443,AT,Alpenhost eU
 92.112.48.149,443,AT,Alpenhost eU
+94.16.31.30,443,AT,powered by ANX
 94.177.8.237,443,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.78,2053,AT,Alwyzon a trading name of Hohl IT eU
 94.177.9.33,8443,AT,Alwyzon a trading name of Hohl IT eU

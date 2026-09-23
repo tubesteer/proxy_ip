@@ -1,3 +1,9 @@
+193.151.133.15,8443,IR,Asiatech Data Transmission company
+31.58.237.197,2096,IR,Giti Secure Cloud
+31.58.237.198,2096,IR,Giti Secure Cloud
+31.58.237.199,2096,IR,Giti Secure Cloud
+31.58.237.200,2096,IR,Giti Secure Cloud
 37.152.179.221,8443,IR,Noyan Abr Arvan Co  Private Joint Stock
 37.152.182.54,8443,IR,Noyan Abr Arvan Co  Private Joint Stock
+37.32.28.187,2087,IR,IRArvanCloudinfrastructure
 37.32.46.68,443,IR,Enteghal Dade Arya Sarv Co Ltd

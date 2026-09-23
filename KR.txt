@@ -1,13 +1,12 @@
 101.33.68.172,443,KR,ACEVILLE PTELTD
 101.33.80.58,8443,KR,ACEVILLE PTELTD
-110.10.178.240,443,KR,SK Broadband Co Ltd
 119.205.235.58,443,KR,Korea Telecom
-123.111.169.70,443,KR,SK Broadband Co Ltd
 123.111.169.70,2087,KR,SK Broadband Co Ltd
+123.111.169.70,2083,KR,SK Broadband Co Ltd
+123.111.169.70,8443,KR,SK Broadband Co Ltd
 123.111.169.70,2096,KR,SK Broadband Co Ltd
 123.111.169.70,2053,KR,SK Broadband Co Ltd
-123.111.169.70,8443,KR,SK Broadband Co Ltd
-123.111.169.70,2083,KR,SK Broadband Co Ltd
+123.111.169.70,443,KR,SK Broadband Co Ltd
 129.154.197.113,443,KR,Cloudflare London LLC
 13.124.169.29,443,KR,Amazoncom Inc
 130.162.137.247,443,KR,Oracle Corporation
@@ -27,14 +26,11 @@
 140.238.5.75,13644,KR,Oracle Public Cloud
 140.238.5.86,443,KR,Oracle Public Cloud
 140.245.65.122,443,KR,Oracle Corporation
-141.164.35.158,443,KR,The Constant Company LLC
 141.164.35.4,443,KR,The Constant Company LLC
-141.164.42.2,443,KR,The Constant Company LLC
 141.164.49.98,443,KR,The Constant Company LLC
 144.24.73.232,443,KR,Oracle Corp UK Ltd
 144.24.87.69,50001,KR,Oracle Corporation
 146.56.115.180,443,KR,Oracle Corporation
-146.56.119.205,443,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.135.196,443,KR,Cloudflare London LLC
 146.56.151.92,443,KR,Oracle Corporation
 146.56.167.171,443,KR,Oracle Corporation
@@ -83,7 +79,6 @@
 43.164.134.99,443,KR,16 COLLYER QUAY  1829 INCOME AT RAFFLES
 45.93.30.168,443,KR,XNNET LIMITED
 47.80.57.116,443,KR,Alibaba Cloud LLC
-54.180.141.246,443,KR,Amazoncom Inc
 54.180.151.15,443,KR,Amazoncom Inc
 61.85.1.77,12150,KR,Korea Telecom
 64.110.70.64,443,KR,Oracle Corporation
