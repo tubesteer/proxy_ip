@@ -1,12 +1,10 @@
 114.32.9.249,443,TW,Chunghwa Telecom Data Communication Business Group
 130.94.36.232,443,TW,LIGHT NODE LIMITED
-140.235.38.47,443,TW,Akari Networks Taipei
 140.235.38.78,443,TW,Akari Networks Taipei
 140.235.39.19,443,TW,ByteVirt LLC
-141.11.87.48,8443,TW,Akari Networks Taipei
 141.11.87.48,443,TW,Akari Networks Taipei
+141.11.87.48,8443,TW,Akari Networks Taipei
 142.249.60.51,443,TW,Akari Networks Taipei
-151.242.188.152,443,TW,ByteVirt LLC
 151.242.188.209,443,TW,ByteVirt LLC
 151.242.188.249,443,TW,ByteVirt LLC
 151.242.189.137,443,TW,ByteVirt LLC

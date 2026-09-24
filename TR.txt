@@ -9,7 +9,6 @@
 138.249.20.217,2053,TR,GLB Bulut Teknolojisi Limited Sirketi
 141.98.118.80,443,TR,Hostigger INC
 144.225.65.56,2096,TR,Netlen Internet Hizmetleri Ltd Sti
-146.103.24.187,8443,TR,Brnchost Bilisim Teknolojileri
 153.52.92.18,2083,TR,Netlen Internet Hizmetleri Ltd Sti
 155.103.69.91,8443,TR,White Label Services LLC
 155.103.70.240,2083,TR,White Label Services LLC
@@ -22,8 +21,8 @@
 158.94.216.146,443,TR,Netlen Internet Hizmetleri Ltd Sti
 167.104.219.197,2083,TR,YottaSrc Hosting and Cloud Service
 167.104.219.81,443,TR,YottaSrc Hosting and Cloud Services
-176.223.66.73,8443,TR,RCS Technologies FZE LLC
 176.223.66.73,2053,TR,RCS Technologies FZE LLC
+176.223.66.73,8443,TR,RCS Technologies FZE LLC
 176.42.68.134,2083,TR,Tellcom Adana Fiber Dynamic
 176.42.68.134,2053,TR,Tellcom Adana Fiber Dynamic
 176.42.68.134,2087,TR,Tellcom Adana Fiber Dynamic
@@ -67,7 +66,6 @@
 37.221.79.43,443,TR,Netlen Internet Hizmetleri Ltd Sti
 37.221.79.54,8443,TR,Netlen Internet Hizmetleri Ltd Sti
 37.221.79.75,8443,TR,Netlen Internet Hizmetleri Ltd Sti
-38.180.113.155,8443,TR,3NT SOLUTIONS LLP
 38.180.172.231,443,TR,3NT SOLUTIONS LLP
 45.136.5.132,443,TR,White Label Services LLC
 45.141.148.137,443,TR,White Label Services LLC
@@ -85,7 +83,6 @@
 82.26.198.89,443,TR,HOSTKEY BV
 83.217.9.70,443,TR,GLOBAL CONNECTIVITY SOLUTIONS LLP
 84.32.230.201,443,TR,Private Customer
-84.51.54.101,2053,TR,Superonline Iletisim Hizmetleri AS
 84.51.54.101,8443,TR,Superonline Iletisim Hizmetleri AS
 87.120.106.194,8443,TR,GCore Labs SA
 89.45.45.110,443,TR,2E Telekomunikasyon LTD STI

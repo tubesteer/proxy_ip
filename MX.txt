@@ -5,7 +5,6 @@
 131.196.254.212,443,MX,Truxgo S de RL de CV
 148.223.138.11,443,MX,Uninet S A de CV
 201.149.15.14,21585,MX,Megacable Comunicaciones de Mexico SA de CV
-216.238.72.72,443,MX,The Constant Company LLC
 216.238.78.167,443,MX,The Constant Company LLC
 216.238.79.164,443,MX,The Constant Company LLC
 216.238.79.83,8443,MX,The Constant Company LLC
