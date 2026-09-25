@@ -6,15 +6,14 @@
 150.241.74.200,443,EE,SERVHOST GROUP LTD
 150.241.74.241,443,EE,SERVHOST GROUP LTD
 154.59.225.158,443,EE,HexCore cloud sro
-154.59.225.204,443,EE,HexCore cloud sro
 159.253.20.80,8443,EE,IPv6 network for hosting services
 159.253.21.82,443,EE,IPv6 network for hosting services
 159.253.23.52,443,EE,IPv6 network for hosting services
 176.124.32.39,443,EE,BlueVPS OU
-176.97.74.41,2053,EE,IROKO Networks Corporation
 176.97.74.41,8443,EE,IROKO Networks Corporation
-185.114.116.181,443,EE,Cloudflare London LLC
+176.97.74.41,2053,EE,IROKO Networks Corporation
 185.114.116.181,8443,EE,Cloudflare London LLC
+185.114.116.181,443,EE,Cloudflare London LLC
 185.114.116.54,443,EE,3nt solutions LLP
 185.122.185.94,443,EE,EDIS IPv6 Infrastructure in Estonia
 185.122.185.94,8443,EE,EDIS IPv6 Infrastructure in Estonia
@@ -73,9 +72,11 @@
 38.244.154.149,443,EE,3NT SOLUTIONS LLP
 45.12.28.108,443,EE,Brainoza OU
 45.12.28.129,443,EE,Brainoza OU
+45.12.28.134,443,EE,Brainoza OU
 45.12.28.170,443,EE,Brainoza OU
 45.12.28.202,443,EE,Brainoza OU
 45.12.28.95,443,EE,Brainoza OU
+45.12.28.96,443,EE,Brainoza OU
 45.129.199.117,443,EE,BlueVPS OU
 45.83.181.112,443,EE,BlueVPS OU
 45.83.182.80,443,EE,BlueVPS OU
@@ -125,8 +126,8 @@
 5.45.112.211,443,EE,IPv6 network for hosting services
 5.45.115.162,2083,EE,IPv6 network for hosting services
 5.45.115.162,2087,EE,IPv6 network for hosting services
-5.45.115.168,2053,EE,IPv6 network for hosting services
 5.45.115.168,8443,EE,Network for hosting services
+5.45.115.168,2053,EE,IPv6 network for hosting services
 5.45.115.238,8443,EE,IPv6 network for hosting services
 5.45.115.77,443,EE,IPv6 network for hosting services
 5.45.115.87,443,EE,IPv6 network for hosting services
@@ -143,8 +144,8 @@
 80.79.123.100,443,EE,Aktsiaselts WaveCom
 82.47.22.11,8443,EE,RAKAR INVESTMENTS HOLDING BV
 82.47.22.177,8443,EE,HostSlim OU
-89.125.13.108,8443,EE,Andris Jakovlevs
 89.125.13.108,443,EE,Andris Jakovlevs
+89.125.13.108,8443,EE,Andris Jakovlevs
 93.123.39.11,443,EE,QWINS Hosting
 93.123.39.34,443,EE,QWINS Hosting
 93.123.39.44,8443,EE,Andris Jakovlevs

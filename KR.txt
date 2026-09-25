@@ -1,12 +1,13 @@
 101.33.68.172,443,KR,ACEVILLE PTELTD
 101.33.80.58,8443,KR,ACEVILLE PTELTD
 119.205.235.58,443,KR,Korea Telecom
-123.111.169.70,443,KR,SK Broadband Co Ltd
+119.28.162.39,8443,KR,Cloudflare London LLC
 123.111.169.70,2053,KR,SK Broadband Co Ltd
+123.111.169.70,2096,KR,SK Broadband Co Ltd
+123.111.169.70,443,KR,SK Broadband Co Ltd
+123.111.169.70,8443,KR,SK Broadband Co Ltd
 123.111.169.70,2083,KR,SK Broadband Co Ltd
 123.111.169.70,2087,KR,SK Broadband Co Ltd
-123.111.169.70,8443,KR,SK Broadband Co Ltd
-123.111.169.70,2096,KR,SK Broadband Co Ltd
 129.154.197.113,443,KR,Cloudflare London LLC
 13.124.169.29,443,KR,Amazoncom Inc
 130.162.137.247,443,KR,Oracle Corporation
@@ -29,7 +30,6 @@
 141.164.49.98,443,KR,The Constant Company LLC
 144.24.73.232,443,KR,Oracle Corp UK Ltd
 144.24.87.69,50001,KR,Oracle Corporation
-146.56.115.180,443,KR,Oracle Corporation
 146.56.135.196,443,KR,Cloudflare London LLC
 146.56.151.92,443,KR,Oracle Corporation
 146.56.167.171,443,KR,Oracle Corporation

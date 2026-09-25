@@ -26,17 +26,17 @@
 144.31.112.194,443,PL,HOSTOFF infrastructure and hosting services
 144.31.113.130,443,PL,HOSTOFF infrastructure and hosting services
 144.31.248.164,8443,PL,HOSTOFF infrastructure and hosting services
-144.31.248.39,2053,PL,HOSTOFF infrastructure and hosting services
 144.31.248.39,8443,PL,HOSTOFF infrastructure and hosting services
+144.31.248.39,2053,PL,HOSTOFF infrastructure and hosting services
 144.31.248.94,2087,PL,HOSTOFF infrastructure and hosting services
-144.31.29.27,443,PL,HOSTOFF infrastructure and hosting services
 144.31.29.27,8443,PL,HOSTOFF infrastructure and hosting services
+144.31.29.27,443,PL,HOSTOFF infrastructure and hosting services
 144.31.29.97,443,PL,HOSTOFF infrastructure and hosting services
 144.31.29.97,8443,PL,HOSTOFF infrastructure and hosting services
 145.239.85.117,2053,PL,OVH VPS WAW
 145.239.85.117,8443,PL,OVH VPS WAW
-145.239.88.255,2053,PL,OVH VPS WAW
 145.239.88.255,8443,PL,OVH VPS WAW
+145.239.88.255,2053,PL,OVH VPS WAW
 145.239.90.29,443,PL,OVH VPS WAW
 145.239.91.9,443,PL,OVH Sp z o o
 145.63.134.175,443,PL,Podaon SIA
@@ -52,7 +52,6 @@
 151.243.232.6,443,PL,HOSTKEY BV
 151.245.112.193,8443,PL,3K33 sp z oo
 151.245.112.24,443,PL,3K33 sp z oo
-151.245.112.31,443,PL,3K33 sp z oo
 176.105.253.43,443,PL,BREEZLE LLC
 176.105.255.43,443,PL,BREEZLE LLC
 176.105.255.59,443,PL,BREEZLE LLC
@@ -76,9 +75,8 @@
 188.116.40.37,443,PL,Artnet Sp z oo
 188.137.178.174,8443,PL,Podaon SIA
 188.137.178.179,2053,PL,Podaon SIA
-188.255.163.12,443,PL,NetGrid Host LTD
-188.255.163.90,2053,PL,NetGrid Host LTD
 188.255.163.90,8443,PL,NetGrid Host LTD
+188.255.163.90,2053,PL,NetGrid Host LTD
 191.101.184.50,443,PL,SERVA ONE LTD
 191.44.113.139,8443,PL,Datagio Systems Ltd
 191.44.81.76,443,PL,Private Customer
@@ -87,14 +85,13 @@
 193.106.196.250,443,PL,InterLIR Marketplace
 193.108.170.80,443,PL,Kutumova Olena
 193.124.41.236,443,PL,Baxet Group Inc
-194.59.186.97,443,PL,Pronet LLC
 194.87.128.46,443,PL,Baxet Group Inc
 194.88.150.221,443,PL,Local NCC Ltd
 194.88.151.163,443,PL,Local NCC Ltd
 194.88.151.93,443,PL,Local NCC Ltd
-195.137.244.47,2053,PL,South Park Networks LLC
-195.137.244.47,2087,PL,South Park Networks LLC
 195.137.244.47,2083,PL,South Park Networks LLC
+195.137.244.47,2087,PL,South Park Networks LLC
+195.137.244.47,2053,PL,South Park Networks LLC
 195.3.223.111,8443,PL,MEVSPACE sp z oo
 195.58.137.118,443,PL,Shock Hosting LLC
 2.26.225.19,8443,PL,VPSPay  vpspaycloud
@@ -103,12 +100,13 @@
 2.27.244.113,443,PL,1Cent Host
 2.27.244.83,443,PL,1Cent Host
 2.27.57.100,443,PL,HOSTOFF infrastructure and hosting services
-2.27.57.123,443,PL,HOSTOFF infrastructure and hosting services
 2.27.57.123,8443,PL,HOSTOFF infrastructure and hosting services
+2.27.57.123,443,PL,HOSTOFF infrastructure and hosting services
 2.27.57.22,8443,PL,HOSTOFF infrastructure and hosting services
 2.27.57.85,443,PL,HOSTOFF infrastructure and hosting services
 2.27.57.87,8443,PL,HOSTOFF infrastructure and hosting services
 2.56.125.171,443,PL,Local NCC Ltd
+2.56.172.107,443,PL,Local NCC Ltd
 2.58.95.153,8443,PL,Baxet Group Inc
 2.58.95.52,443,PL,Baxet Group Inc
 2.58.95.90,443,PL,Baxet Group Inc
@@ -122,30 +120,27 @@
 213.134.31.144,8443,PL,Podaon SIA
 213.134.31.23,443,PL,Podaon SIA
 217.12.206.160,81,PL,GREEN FLOID LLC
-217.12.206.83,8443,PL,GREEN FLOID LLC
-217.12.207.27,8443,PL,GREEN FLOID LLC
-217.12.207.29,8443,PL,GREEN FLOID LLC
 217.182.79.55,443,PL,OVH Sp z o o
 217.182.79.55,8443,PL,OVH Sp z o o
-217.30.10.55,2087,PL,Melbikomas UAB
-217.30.10.55,2096,PL,Melbikomas UAB
 217.30.10.55,443,PL,Melbikomas UAB
 217.30.10.55,8443,PL,Melbikomas UAB
-217.30.10.55,2053,PL,Melbikomas UAB
 217.30.10.55,2083,PL,Melbikomas UAB
+217.30.10.55,2096,PL,Melbikomas UAB
+217.30.10.55,2087,PL,Melbikomas UAB
+217.30.10.55,2053,PL,Melbikomas UAB
 217.60.33.218,443,PL,ExpressHost LTD
 222.167.248.37,443,PL,Vladislav Novitskii
 23.27.24.101,443,PL,Evoxtcom
 31.133.0.133,2053,PL,BARTOSZ WASZAK trading as HOSTEAM SC TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
 31.133.1.8,2053,PL,BARTOSZ WASZAK trading as HOSTEAM SC TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
 31.169.126.145,443,PL,Baykov Ilya Sergeevich
-31.169.126.66,443,PL,Baykov Ilya Sergeevich
 31.169.126.66,8443,PL,Baykov Ilya Sergeevich
+31.169.126.66,443,PL,Baykov Ilya Sergeevich
 31.59.143.122,443,PL,ExpressHost LTD
 31.76.22.109,443,PL,1Cent Host
 31.76.22.15,443,PL,1Cent Host
-31.76.22.28,8443,PL,1Cent Host
 31.76.22.28,443,PL,1Cent Host
+31.76.22.28,8443,PL,1Cent Host
 31.76.94.169,8443,PL,VPSPay  vpspaycloud
 31.77.228.84,443,PL,Great Flower
 34.116.216.59,443,PL,Google LLC
@@ -204,26 +199,26 @@
 64.176.73.77,443,PL,The Constant Company LLC
 70.34.242.81,443,PL,The Constant Company LLC
 70.34.243.123,443,PL,The Constant Company LLC
+70.34.243.176,443,PL,The Constant Company LLC
 70.34.243.176,2087,PL,The Constant Company LLC
 70.34.243.176,8443,PL,The Constant Company LLC
-70.34.243.176,443,PL,The Constant Company LLC
 70.34.243.2,443,PL,The Constant Company LLC
-70.34.244.243,8443,PL,The Constant Company LLC
-70.34.244.250,27000,PL,The Constant Company LLC
 70.34.244.250,53062,PL,The Constant Company LLC
+70.34.244.250,27000,PL,The Constant Company LLC
 70.34.244.250,12531,PL,The Constant Company LLC
 70.34.251.88,443,PL,The Constant Company LLC
 70.34.252.186,443,PL,The Constant Company LLC
 77.37.238.5,443,PL,VPSPay  vpspaycloud
 77.83.246.153,8443,PL,GLOBAL CONNECTIVITY SOLUTIONS LLP
 78.11.241.61,443,PL,Netia SA
+78.17.43.6,2053,PL,Snowd Security OU
 78.17.8.231,2053,PL,OVH Sp z o o
-80.211.249.240,2053,PL,Aruba SpA  Cloud Services PL1
 80.211.249.240,8443,PL,Aruba SpA  Cloud Services PL1
+80.211.249.240,2053,PL,Aruba SpA  Cloud Services PL1
 80.211.249.68,2053,PL,Aruba SpA  Cloud Services PL1
 80.211.249.68,8443,PL,Aruba SpA  Cloud Services PL1
-80.211.250.20,8443,PL,Aruba SpA  Cloud Services PL1
 80.211.250.20,2053,PL,Aruba SpA  Cloud Services PL1
+80.211.250.20,8443,PL,Aruba SpA  Cloud Services PL1
 81.27.102.88,443,PL,UpCloud Cloud Servers
 81.85.73.76,443,PL,Anton Levin
 81.90.17.201,8443,PL,nodehost
@@ -246,8 +241,8 @@
 82.22.41.241,2053,PL,Newserverlife LLC
 82.38.65.237,8443,PL,HOSTKEY BV
 82.38.65.242,2087,PL,HOSTKEY BV
-82.40.37.125,8443,PL,HOSTKEY BV
 82.40.37.125,443,PL,HOSTKEY BV
+82.40.37.125,8443,PL,HOSTKEY BV
 82.40.38.216,443,PL,HOSTKEY BV
 83.168.78.129,443,PL,Korbank S A
 83.168.89.9,443,PL,Korbank S A
@@ -255,11 +250,7 @@
 87.239.135.188,8443,PL,Raul Ghita trading as Ghita Telekom
 89.125.27.97,2053,PL,Snowd Security OU
 89.125.93.222,8443,PL,Snowd Security OU
-89.46.235.14,8443,PL,EDIS IPv6 Infrastructure in Poland
-89.46.235.32,8443,PL,EDIS Infrastructure in Poland
-89.46.235.32,2053,PL,EDIS Infrastructure in Poland
 91.108.237.23,443,PL,interlir citytelecom 07 12 2025
-91.108.249.113,8443,PL,KVANTA LLC
 91.149.253.249,443,PL,Cloudflare London LLC
 91.149.253.26,443,PL,Baxet Group Inc
 91.193.18.144,443,PL,HZ Hosting Ltd
@@ -269,8 +260,8 @@
 91.196.163.129,443,PL,Local NCC Ltd
 91.196.163.185,443,PL,Local NCC Ltd
 91.224.75.127,2053,PL,3HCLoud LLC
-91.224.75.242,2053,PL,3HCLoud LLC
 91.224.75.242,443,PL,3HCLoud LLC
+91.224.75.242,2053,PL,3HCLoud LLC
 91.224.75.49,2053,PL,Newserverlife LLC
 91.92.46.117,443,PL,Baykov Ilya Sergeevich
 91.92.46.238,443,PL,Baykov Ilya Sergeevich
@@ -278,6 +269,7 @@
 92.118.150.57,443,PL,Friendhosting LTD
 92.118.150.93,8443,PL,Friendhosting LTD
 92.118.150.93,443,PL,Friendhosting LTD
+92.62.251.175,443,PL,freakhostingcom
 93.95.97.23,443,PL,Hurricane Electric LLC
 94.103.0.67,443,PL,GLOBAL CONNECTIVITY SOLUTIONS LLP
 94.142.255.4,443,PL,Friendhosting LTD
