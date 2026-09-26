@@ -3,7 +3,7 @@
 103.169.206.131,443,ID,PT Deneva
 103.169.206.90,2053,ID,CV Pajar Utama Sejahtera
 103.169.207.189,443,ID,CV Pajar Utama Sejahtera
-103.193.179.158,443,ID,PT Cloud Hosting Indonesia
+103.193.179.158,443,ID,PT Nara Cakra Studio
 103.196.155.151,443,ID,PT Biznet Gio Nusantara
 103.54.217.41,10688,ID,PT Mora Telematika Indonesia
 110.232.84.159,2053,ID,PT Media Antar Nusa
@@ -15,9 +15,9 @@
 130.94.92.91,80,ID,LIGHT NODE LIMITED
 139.190.97.223,443,ID,PT Biznet Gio Nusantara
 147.139.139.151,587,ID,Alibaba Cloud  ID
+147.139.169.7,15939,ID,Alibaba Cloud  ID
 147.139.181.84,14918,ID,Alibaba Cloud  ID
 147.139.189.225,443,ID,Alibaba Cloud  ID
-147.90.200.71,24443,ID,Private Customer
 149.129.218.213,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
 16.79.55.124,443,ID,Amazon Data Services Jakarta
 162.128.66.235,24443,ID,Zenlayer Singapore PTE LTD
