@@ -3,7 +3,7 @@
 103.169.206.131,443,ID,PT Deneva
 103.169.206.90,2053,ID,CV Pajar Utama Sejahtera
 103.169.207.189,443,ID,CV Pajar Utama Sejahtera
-103.193.179.158,443,ID,PT Nara Cakra Studio
+103.193.179.158,443,ID,PT Cloud Hosting Indonesia
 103.196.155.151,443,ID,PT Biznet Gio Nusantara
 103.54.217.41,10688,ID,PT Mora Telematika Indonesia
 110.232.84.159,2053,ID,PT Media Antar Nusa
@@ -28,10 +28,9 @@
 172.232.246.133,8443,ID,Linode
 202.155.95.132,443,ID,PT Deneva
 202.74.74.137,443,ID,PT Global Port Binekatara
-203.175.11.90,9443,ID,Rumahweb Indonesia
+203.175.11.90,9443,ID,CV Rumahweb Indonesia
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 43.173.1.153,8443,ID,PT Telekomunikasi Indonesia
 43.229.254.182,443,ID,PT Media Antar Nusa
 43.229.254.71,443,ID,PT Media Antar Nusa
-70.153.84.111,55018,ID,Microsoft Corporation
 8.215.62.115,4443,ID,Alibaba Cloud Singapore Private Limited
