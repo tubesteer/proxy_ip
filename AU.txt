@@ -8,9 +8,8 @@
 139.84.205.230,443,AU,The Constant Company LLC
 139.99.134.170,443,AU,OVH SYD DC
 139.99.155.180,443,AU,OVH SYD DC
-149.28.171.207,443,AU,Vultr Holdings LLC
 152.67.101.72,23010,AU,Oracle Public Cloud
-152.67.104.23,443,AU,Cloudflare London LLC
+152.67.104.23,443,AU,Oracle Corporation
 152.67.125.161,443,AU,Oracle Public Cloud
 152.67.126.254,443,AU,Oracle Corporation
 152.67.99.162,443,AU,Oracle Public Cloud
@@ -22,6 +21,7 @@
 160.187.110.199,443,AU,SUPERLOOP AUSTRALIA PTY LTD
 161.33.90.181,443,AU,Oracle Corporation
 168.138.110.138,443,AU,Oracle Corporation
+168.138.15.48,443,AU,Oracle Public Cloud
 170.64.152.77,7443,AU,DigitalOcean LLC
 170.64.163.39,443,AU,Digital Ocean Inc
 170.64.170.226,443,AU,Digital Ocean Inc
