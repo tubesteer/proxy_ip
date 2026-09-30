@@ -1,6 +1,4 @@
-103.30.211.34,443,AU,GCore Labs SA
 103.43.75.82,443,AU,The Constant Company LLC
-119.9.134.7,443,AU,RSPC AU IPv6 Space
 123.51.23.113,443,AU,Level 6 913 Young Street
 125.7.24.251,443,AU,Macquarie Telecom
 130.162.193.183,15401,AU,Oracle Public Cloud
@@ -9,7 +7,6 @@
 139.99.134.170,443,AU,OVH SYD DC
 139.99.155.180,443,AU,OVH SYD DC
 152.67.101.72,23010,AU,Oracle Public Cloud
-152.67.104.23,443,AU,Oracle Corporation
 152.67.125.161,443,AU,Oracle Public Cloud
 152.67.126.254,443,AU,Oracle Corporation
 152.67.99.162,443,AU,Oracle Public Cloud
@@ -17,15 +14,14 @@
 154.26.156.24,443,AU,Contabo Asia Private Limited
 158.180.5.171,443,AU,oracle
 16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
-160.187.110.199,8443,AU,SUPERLOOP AUSTRALIA PTY LTD
 160.187.110.199,443,AU,SUPERLOOP AUSTRALIA PTY LTD
+160.187.110.199,8443,AU,SUPERLOOP AUSTRALIA PTY LTD
 161.33.90.181,443,AU,Oracle Corporation
 168.138.110.138,443,AU,Oracle Corporation
 168.138.15.48,443,AU,Oracle Public Cloud
 170.64.152.77,7443,AU,DigitalOcean LLC
-170.64.163.39,443,AU,Digital Ocean Inc
-170.64.170.226,443,AU,Digital Ocean Inc
 170.64.197.150,443,AU,Digital Ocean Inc
+170.64.229.30,443,AU,Digital Ocean Inc
 170.64.232.210,443,AU,Digital Ocean Inc
 170.64.237.192,443,AU,Digital Ocean Inc
 172.105.173.161,443,AU,Akamai Connected Cloud  Linode
@@ -43,7 +39,6 @@
 207.148.81.4,443,AU,Vultr Holdings LLC
 207.211.153.234,443,AU,Oracle Corporation
 207.211.157.214,443,AU,Oracle Corporation
-209.38.22.182,443,AU,Digital Ocean Inc
 209.38.82.114,443,AU,Digital Ocean Inc
 3.27.159.64,443,AU,Amazoncom Inc
 45.32.243.13,443,AU,The Constant Company LLC

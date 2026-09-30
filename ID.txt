@@ -15,6 +15,7 @@
 130.94.92.91,80,ID,LIGHT NODE LIMITED
 139.190.97.223,443,ID,PT Biznet Gio Nusantara
 147.139.139.151,587,ID,Alibaba Cloud  ID
+147.139.169.7,15939,ID,Alibaba Cloud  ID
 147.139.181.84,14918,ID,Alibaba Cloud  ID
 147.139.189.225,443,ID,Alibaba Cloud  ID
 149.129.218.213,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
