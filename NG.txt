@@ -1,3 +1,2 @@
-102.130.48.155,2053,NG,Misaka Network Inc
 169.255.57.210,443,NG,Host Africa Pty Ltd
 176.97.192.162,443,NG,Melbikomas UAB

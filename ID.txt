@@ -11,7 +11,6 @@
 117.54.231.228,27949,ID,IndoInternet Network
 118.151.222.66,17317,ID,PT Centrin Online Prima
 119.235.252.35,46260,ID,PT Raja Sepadan Abadi
-122.248.33.39,25101,ID,PT PC24 Telekomunikasi Indonesia
 130.94.92.91,80,ID,LIGHT NODE LIMITED
 139.190.97.223,443,ID,PT Biznet Gio Nusantara
 147.139.139.151,587,ID,Alibaba Cloud  ID

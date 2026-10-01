@@ -1,8 +1,7 @@
-109.176.202.20,443,DK,Imad Nabil Daher trading as ID Performance
 185.111.109.47,443,DK,Datacamp Limited
+185.193.126.248,443,DK,Materialism srl
 192.36.27.150,8443,DK,EDIS Infrastructure in Denmark
 193.180.208.169,8443,DK,Webdockio ApS
-193.180.208.234,443,DK,Webdock AS44803
 193.180.209.21,443,DK,Webdockio ApS
 193.180.209.28,443,DK,Webdockio ApS
 193.180.210.125,8443,DK,Webdockio ApS
@@ -49,8 +48,8 @@
 89.28.236.192,8443,DK,Webdockio ApS
 91.132.92.231,443,DK,EDIS Infrastructure in Denmark
 92.113.146.34,443,DK,Webdockio ApS
-92.113.146.87,8443,DK,Webdockio ApS
 92.113.146.87,443,DK,Webdockio ApS
+92.113.146.87,8443,DK,Webdockio ApS
 92.113.148.239,8443,DK,Webdockio ApS
 92.113.149.59,443,DK,Webdockio ApS
 92.113.150.186,8443,DK,Webdockio ApS

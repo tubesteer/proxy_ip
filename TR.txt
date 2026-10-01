@@ -1,6 +1,5 @@
 103.83.86.172,443,TR,White Label Services LLC
 103.83.87.219,8443,TR,IPv4Centercom Partition  Order 4
-104.143.204.62,443,TR,Baxet Group Inc
 104.239.87.51,443,TR,Baxet Group Inc
 130.94.0.228,443,TR,LIGHT NODE LIMITED
 130.94.1.150,443,TR,LIGHT NODE LIMITED
@@ -10,33 +9,32 @@
 153.52.92.18,2083,TR,Netlen Internet Hizmetleri Ltd Sti
 155.103.69.91,8443,TR,White Label Services LLC
 155.103.70.240,2083,TR,White Label Services LLC
-155.103.70.71,443,TR,White Label Services LLC
 155.103.71.111,443,TR,White Label Services LLC
-155.103.71.142,443,TR,White Label Services LLC
 155.103.71.142,8443,TR,White Label Services LLC
+155.103.71.142,443,TR,White Label Services LLC
 155.103.71.159,443,TR,White Label Services LLC
 155.103.71.80,443,TR,White Label Services LLC
-167.104.219.81,443,TR,YottaSrc Hosting and Cloud Services
 176.223.66.73,8443,TR,RCS Technologies FZE LLC
 176.223.66.73,2053,TR,RCS Technologies FZE LLC
 176.42.68.134,2053,TR,Tellcom Adana Fiber Dynamic
-176.42.68.134,2083,TR,Tellcom Adana Fiber Dynamic
 176.42.68.134,2087,TR,Tellcom Adana Fiber Dynamic
+176.42.68.134,2083,TR,Tellcom Adana Fiber Dynamic
 178.157.15.73,443,TR,CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
 185.113.223.183,8443,TR,SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI
 185.181.208.241,8443,TR,hostiggerdatacenterTR
 185.200.36.36,443,TR,High Speed Telekomunikasyon ve Hab Hiz Ltd Sti
-185.219.132.27,443,TR,hostiggerdatacenterTR
 185.219.133.106,443,TR,hostiggerdatacenterTR
 185.219.134.25,31564,TR,hostiggerdatacenterTR
 185.255.93.189,443,TR,2E TELEKOMUNIKASYON LTD STI
 185.39.204.117,8443,TR,GLOBAL CONNECTIVITY SOLUTIONS LLP
+185.71.219.66,443,TR,YottaSrc Hosting and Cloud Service
 188.132.174.82,2053,TR,Netlen Internet Hizmetleri Ltd Sti
 188.132.192.145,2087,TR,TradeZone LLC
 188.132.232.192,8443,TR,SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI
 188.132.232.192,2053,TR,SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI
 193.124.46.93,443,TR,Baxet Group Inc
 193.187.132.11,2053,TR,Private Customer
+194.135.34.198,443,TR,GLB Bulut Teknolojisi Limited Sirketi
 194.36.85.113,443,TR,TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi
 194.87.39.224,8443,TR,Baxet Group Inc
 201.50.115.20,443,TR,GLB Bulut Teknolojisi Limited Sirketi
@@ -49,9 +47,8 @@
 213.238.182.13,443,TR,Markahost Telekomunikasyon Ve Ticaret Limited Sirketi
 31.40.204.131,443,TR,White Label Services LLC
 31.40.204.200,443,TR,White Label Services LLC
-31.40.204.243,443,TR,White Label Services LLC
-31.40.204.243,2083,TR,White Label Services LLC
 31.40.204.243,2053,TR,White Label Services LLC
+31.40.204.243,2083,TR,White Label Services LLC
 31.57.225.181,2053,TR,Private Customer
 37.221.79.43,443,TR,Netlen Internet Hizmetleri Ltd Sti
 37.221.79.54,8443,TR,Netlen Internet Hizmetleri Ltd Sti
@@ -70,6 +67,7 @@
 82.26.198.89,443,TR,HOSTKEY BV
 83.217.9.70,443,TR,GLOBAL CONNECTIVITY SOLUTIONS LLP
 84.51.54.101,8443,TR,Superonline Iletisim Hizmetleri AS
+84.51.54.101,2053,TR,Superonline Iletisim Hizmetleri AS
 87.120.106.194,8443,TR,GCore Labs SA
 89.45.45.110,443,TR,2E Telekomunikasyon LTD STI
 89.45.45.144,443,TR,2E Telekomunikasyon LTD STI
