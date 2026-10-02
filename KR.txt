@@ -3,11 +3,11 @@
 110.10.178.240,443,KR,SK Broadband Co Ltd
 119.205.235.58,443,KR,Korea Telecom
 123.111.169.70,2096,KR,SK Broadband Co Ltd
-123.111.169.70,8443,KR,SK Broadband Co Ltd
 123.111.169.70,2083,KR,SK Broadband Co Ltd
-123.111.169.70,2087,KR,SK Broadband Co Ltd
-123.111.169.70,2053,KR,SK Broadband Co Ltd
+123.111.169.70,8443,KR,SK Broadband Co Ltd
 123.111.169.70,443,KR,SK Broadband Co Ltd
+123.111.169.70,2053,KR,SK Broadband Co Ltd
+123.111.169.70,2087,KR,SK Broadband Co Ltd
 129.154.197.113,443,KR,Cloudflare London LLC
 130.162.137.247,443,KR,Oracle Corporation
 130.94.29.155,443,KR,LIGHT NODE LIMITED
@@ -73,4 +73,3 @@
 64.110.79.66,8443,KR,Oracle Corporation
 64.110.82.71,443,KR,Oracle Corporation
 64.176.226.26,8443,KR,The Constant Company LLC
-64.176.230.12,443,KR,The Constant Company LLC
