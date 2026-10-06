@@ -23,8 +23,8 @@
 185.252.177.115,8443,EE,EENetwork
 185.255.178.131,443,EE,Baykov Ilya Sergeevich
 185.36.140.119,443,EE,Brainoza OU
-185.36.140.228,8443,EE,Brainoza OU
 185.36.140.228,2053,EE,Brainoza OU
+185.36.140.228,8443,EE,Brainoza OU
 185.36.140.244,443,EE,Brainoza OU
 185.36.140.86,2083,EE,Brainoza OU
 185.36.141.193,443,EE,Brainoza OU
@@ -35,8 +35,6 @@
 185.4.72.110,8443,EE,IPv6 network for hosting services
 185.4.72.18,2083,EE,IPv6 network for hosting services
 185.4.74.111,443,EE,IPv6 network for hosting services
-188.255.236.84,8443,EE,TAKEHOST OU
-188.255.236.84,2087,EE,TAKEHOST OU
 209.131.70.109,443,EE,HexCore cloud sro
 209.131.70.198,8443,EE,HexCore cloud sro
 209.131.70.51,443,EE,HexCore cloud sro
@@ -44,7 +42,6 @@
 212.7.7.155,8443,EE,AS INFONET
 213.111.181.20,8443,EE,EDIS IPv6 Infrastructure in Estonia
 31.56.187.21,443,EE,ExpressHost LTD
-31.56.187.223,8443,EE,ExpressHost LTD
 31.56.187.26,443,EE,ExpressHost LTD
 31.76.70.41,443,EE,SERVHOST GROUP LTD
 38.180.10.173,443,EE,3NT SOLUTIONS LLP
@@ -61,7 +58,6 @@
 45.12.28.108,443,EE,Brainoza OU
 45.12.28.129,443,EE,Brainoza OU
 45.12.28.134,443,EE,Brainoza OU
-45.12.28.170,443,EE,Brainoza OU
 45.12.28.202,443,EE,Brainoza OU
 45.12.28.95,443,EE,Brainoza OU
 45.12.28.96,443,EE,Brainoza OU
@@ -74,7 +70,6 @@
 46.36.219.229,8443,EE,IPv6 network for hosting services
 46.36.220.183,8443,EE,IPv6 network for hosting services
 46.36.221.203,443,EE,IPv6 network for hosting services
-5.101.114.105,443,EE,IPv6 network for hosting services
 5.101.114.177,443,EE,IPv6 network for hosting services
 5.101.114.88,8443,EE,IPv6 network for hosting services
 5.101.115.117,8443,EE,IPv6 network for hosting services
@@ -87,14 +82,11 @@
 5.101.118.60,8443,EE,IPv6 network for hosting services
 5.101.122.59,443,EE,IPv6 network for hosting services
 5.101.126.33,8443,EE,IPv6 network for hosting services
-5.101.180.112,443,EE,IPv6 network for hosting services
-5.101.180.125,2053,EE,Network for hosting services
 5.101.180.125,8443,EE,Network for hosting services
+5.101.180.125,2053,EE,Network for hosting services
 5.181.202.134,443,EE,Brainoza OU
 5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
-5.188.21.38,443,EE,Network for hosting services
-5.188.21.38,8443,EE,Network for hosting services
 5.188.27.163,443,EE,Network for hosting services
 5.189.254.168,443,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
@@ -106,8 +98,8 @@
 5.45.112.139,443,EE,IPv6 network for hosting services
 5.45.112.149,443,EE,IPv6 network for hosting services
 5.45.112.211,443,EE,IPv6 network for hosting services
-5.45.115.162,2083,EE,IPv6 network for hosting services
 5.45.115.162,2087,EE,IPv6 network for hosting services
+5.45.115.162,2083,EE,IPv6 network for hosting services
 5.45.115.168,2053,EE,IPv6 network for hosting services
 5.45.115.168,8443,EE,Network for hosting services
 5.45.115.238,8443,EE,IPv6 network for hosting services
