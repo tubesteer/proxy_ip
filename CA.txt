@@ -16,6 +16,7 @@
 15.157.60.182,443,CA,Amazon Data Services Canada
 15.235.104.68,8443,CA,OVH Hosting Inc
 150.230.27.23,16504,CA,Oracle Corporation
+150.242.90.144,8443,CA,IT7 Networks Inc
 151.145.33.145,443,CA,Oracle Corporation
 152.42.146.174,443,CA,DigitalOcean LLC
 155.138.128.135,443,CA,Vultr Holdings LLC
@@ -27,11 +28,11 @@
 158.69.219.232,8443,CA,OVH Hosting Inc
 158.69.219.232,443,CA,OVH Hosting Inc
 158.69.220.106,8443,CA,OVH Hosting Inc
-158.69.220.24,8443,CA,OVH Hosting Inc
 158.69.220.24,443,CA,OVH Hosting Inc
+158.69.220.24,8443,CA,OVH Hosting Inc
 158.69.220.76,8443,CA,OVH Hosting Inc
-158.69.220.85,443,CA,OVH Hosting Inc
 158.69.220.85,8443,CA,OVH Hosting Inc
+158.69.220.85,443,CA,OVH Hosting Inc
 159.203.18.237,443,CA,DigitalOcean LLC
 159.203.35.153,443,CA,DigitalOcean LLC
 165.227.41.38,443,CA,DigitalOcean LLC
@@ -43,12 +44,11 @@
 172.105.27.172,443,CA,Linode
 172.93.167.175,443,CA,Amanah Tech Inc
 172.93.167.45,443,CA,Amanah Tech Inc
-172.93.32.125,443,CA,Cluster Logic Inc
 172.98.207.58,443,CA,CENTRILOGICCANADA
 174.4.69.68,443,CA,Shaw Communications
 178.128.231.7,443,CA,DigitalOcean LLC
-184.107.141.142,443,CA,Leaseweb Canada Inc
 184.107.141.142,2053,CA,Leaseweb Canada Inc
+184.107.141.142,443,CA,Leaseweb Canada Inc
 184.107.156.96,8443,CA,Leaseweb Canada Inc
 184.107.156.96,2083,CA,Leaseweb Canada Inc
 184.107.156.96,2053,CA,Leaseweb Canada Inc
@@ -57,8 +57,8 @@
 192.99.55.53,8443,CA,OVH Hosting Inc
 198.199.106.194,443,CA,DigitalOcean LLC
 207.90.192.164,8443,CA,Rica Web Services
-213.255.209.61,2053,CA,Cloud Web Manage
 213.255.209.61,8443,CA,Cloud Web Manage
+213.255.209.61,2053,CA,Cloud Web Manage
 216.128.176.190,443,CA,Vultr Holdings LLC
 216.128.177.185,8443,CA,The Constant Company LLC
 216.128.178.26,443,CA,Vultr Holdings LLC
@@ -87,12 +87,13 @@
 51.222.30.98,8443,CA,OVH Hosting Inc
 51.79.50.234,8443,CA,OVH Hosting Inc
 54.39.17.220,8443,CA,OVH Hosting Inc
+65.49.231.108,443,CA,TELUSHSIABNBYBC01
 65.49.232.101,443,CA,IT7 Networks Inc
 68.183.207.130,443,CA,DigitalOcean LLC
 68.233.122.42,443,CA,Oracle Corporation
 70.79.240.221,443,CA,Shaw Communications
 72.11.150.104,443,CA,HostPapa
-96.44.136.186,2053,CA,Graeme Tee
 96.44.136.186,8443,CA,Graeme Tee
+96.44.136.186,2053,CA,Graeme Tee
 99.229.67.145,443,CA,Rogers Communications Canada Inc
 99.79.123.86,443,CA,Amazon Data Services Canada

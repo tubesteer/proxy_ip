@@ -23,8 +23,8 @@
 185.252.177.115,8443,EE,EENetwork
 185.255.178.131,443,EE,Baykov Ilya Sergeevich
 185.36.140.119,443,EE,Brainoza OU
-185.36.140.228,2053,EE,Brainoza OU
 185.36.140.228,8443,EE,Brainoza OU
+185.36.140.228,2053,EE,Brainoza OU
 185.36.140.244,443,EE,Brainoza OU
 185.36.140.86,2083,EE,Brainoza OU
 185.36.141.193,443,EE,Brainoza OU
@@ -35,6 +35,7 @@
 185.4.72.110,8443,EE,IPv6 network for hosting services
 185.4.72.18,2083,EE,IPv6 network for hosting services
 185.4.74.111,443,EE,IPv6 network for hosting services
+2.27.170.209,443,EE,RAKAR INVESTMENTS HOLDING BV
 209.131.70.109,443,EE,HexCore cloud sro
 209.131.70.198,8443,EE,HexCore cloud sro
 209.131.70.51,443,EE,HexCore cloud sro
@@ -82,14 +83,13 @@
 5.101.118.60,8443,EE,IPv6 network for hosting services
 5.101.122.59,443,EE,IPv6 network for hosting services
 5.101.126.33,8443,EE,IPv6 network for hosting services
-5.101.180.125,8443,EE,Network for hosting services
 5.101.180.125,2053,EE,Network for hosting services
+5.101.180.125,8443,EE,Network for hosting services
 5.181.202.134,443,EE,Brainoza OU
-5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
 5.188.27.163,443,EE,Network for hosting services
-5.189.254.168,443,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
+5.189.254.168,443,EE,Brainoza OU
 5.189.254.168,2053,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
@@ -98,8 +98,8 @@
 5.45.112.139,443,EE,IPv6 network for hosting services
 5.45.112.149,443,EE,IPv6 network for hosting services
 5.45.112.211,443,EE,IPv6 network for hosting services
-5.45.115.162,2087,EE,IPv6 network for hosting services
 5.45.115.162,2083,EE,IPv6 network for hosting services
+5.45.115.162,2087,EE,IPv6 network for hosting services
 5.45.115.168,2053,EE,IPv6 network for hosting services
 5.45.115.168,8443,EE,Network for hosting services
 5.45.115.238,8443,EE,IPv6 network for hosting services
@@ -115,7 +115,6 @@
 80.77.25.228,443,EE,servingacom  Estonia
 80.79.123.100,443,EE,Aktsiaselts WaveCom
 82.47.22.11,8443,EE,RAKAR INVESTMENTS HOLDING BV
-82.47.22.177,8443,EE,HostSlim OU
 93.123.39.11,443,EE,QWINS Hosting
 93.123.39.34,443,EE,QWINS Hosting
 93.123.39.44,8443,EE,Andris Jakovlevs
