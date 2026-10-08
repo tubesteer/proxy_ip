@@ -1,4 +1,3 @@
-130.12.171.173,443,LT,SOLID Lithuania
 130.12.171.63,443,LT,SOLID Lithuania
 176.118.198.175,8443,LT,PROGRESYVUS SPRENDIMAI UAB
 176.118.198.24,8443,LT,PROGRESYVUS SPRENDIMAI UAB
@@ -22,15 +21,15 @@
 213.252.246.17,8443,LT,SolusVM priskirti adresai
 45.93.137.149,443,LT,Hostinger International Limited
 46.29.234.91,8443,LT,GLOBAL CONNECTIVITY SOLUTIONS LLP
+46.39.255.99,8443,LT,UAB Baltnetos komunikacijos
 5.199.162.130,443,LT,UAB Cherry Servers
 5.199.173.195,443,LT,UAB Cherry Servers
-72.56.5.222,443,LT,UAB Interneto vizija
 80.208.227.162,443,LT,UAB Interneto vizija
 80.209.231.51,443,LT,UAB Interneto vizija
 80.209.232.78,443,LT,UAB Interneto vizija
 80.209.237.38,2053,LT,UAB Interneto vizija
-84.32.149.158,8443,LT,Private Customer
 84.32.149.158,443,LT,Private Customer
+84.32.149.158,8443,LT,Private Customer
 84.32.209.76,443,LT,Private Customer
 84.32.97.162,443,LT,Private Customer
 85.206.161.198,443,LT,Pirma alokacija

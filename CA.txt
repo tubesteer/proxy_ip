@@ -28,17 +28,18 @@
 158.69.219.232,8443,CA,OVH Hosting Inc
 158.69.219.232,443,CA,OVH Hosting Inc
 158.69.220.106,8443,CA,OVH Hosting Inc
-158.69.220.24,443,CA,OVH Hosting Inc
 158.69.220.24,8443,CA,OVH Hosting Inc
+158.69.220.24,443,CA,OVH Hosting Inc
 158.69.220.76,8443,CA,OVH Hosting Inc
-158.69.220.85,8443,CA,OVH Hosting Inc
 158.69.220.85,443,CA,OVH Hosting Inc
+158.69.220.85,8443,CA,OVH Hosting Inc
 159.203.18.237,443,CA,DigitalOcean LLC
 159.203.35.153,443,CA,DigitalOcean LLC
 165.227.41.38,443,CA,DigitalOcean LLC
 166.1.228.218,443,CA,Baxet Group Inc
 167.114.67.25,443,CA,OVH Hosting Inc
 167.160.188.156,443,CA,HostPapa
+167.160.190.137,443,CA,HostPapa
 167.99.183.13,443,CA,DigitalOcean LLC
 172.105.26.26,2053,CA,Linode
 172.105.27.172,443,CA,Linode
@@ -50,8 +51,8 @@
 184.107.141.142,2053,CA,Leaseweb Canada Inc
 184.107.141.142,443,CA,Leaseweb Canada Inc
 184.107.156.96,8443,CA,Leaseweb Canada Inc
-184.107.156.96,2083,CA,Leaseweb Canada Inc
 184.107.156.96,2053,CA,Leaseweb Canada Inc
+184.107.156.96,2083,CA,Leaseweb Canada Inc
 192.99.169.176,443,CA,OVH Hosting Inc
 192.99.245.146,8443,CA,OVH Hosting Inc
 192.99.55.53,8443,CA,OVH Hosting Inc
@@ -65,6 +66,7 @@
 24.109.36.190,8443,CA,Shaw Communications
 24.141.96.92,8443,CA,Cogeco Cable Canada Inc
 24.150.16.183,8443,CA,Cogeco Connexion Inc
+24.78.21.213,443,CA,Shaw Communications
 24.84.0.55,443,CA,Shaw Communications
 24.84.0.55,8443,CA,Shaw Communications
 35.182.59.30,443,CA,Amazon Data Services Canada

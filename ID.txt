@@ -1,5 +1,4 @@
 103.150.192.28,443,ID,PT Biznet Gio Nusantara
-103.169.206.131,443,ID,PT Deneva
 103.169.206.90,2053,ID,CV Pajar Utama Sejahtera
 103.169.207.189,443,ID,CV Pajar Utama Sejahtera
 103.193.179.158,443,ID,PT Cloud Hosting Indonesia
