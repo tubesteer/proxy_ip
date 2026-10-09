@@ -10,8 +10,8 @@
 159.253.21.82,443,EE,IPv6 network for hosting services
 159.253.23.52,443,EE,IPv6 network for hosting services
 176.124.32.39,443,EE,BlueVPS OU
-176.97.74.41,8443,EE,IROKO Networks Corporation
 176.97.74.41,2053,EE,IROKO Networks Corporation
+176.97.74.41,8443,EE,IROKO Networks Corporation
 185.114.116.54,443,EE,3nt solutions LLP
 185.123.53.176,443,EE,BlueVPS OU
 185.223.168.172,2053,EE,Brainoza OU
@@ -40,7 +40,6 @@
 212.7.7.155,8443,EE,AS INFONET
 213.111.181.20,8443,EE,EDIS IPv6 Infrastructure in Estonia
 31.56.187.21,443,EE,ExpressHost LTD
-31.56.187.223,8443,EE,ExpressHost LTD
 31.56.187.26,443,EE,ExpressHost LTD
 31.76.70.41,443,EE,SERVHOST GROUP LTD
 38.180.10.173,443,EE,3NT SOLUTIONS LLP
@@ -54,10 +53,11 @@
 38.180.45.235,443,EE,3NT SOLUTIONS LLP
 38.244.154.141,443,EE,3NT SOLUTIONS LLP
 38.244.154.149,443,EE,3NT SOLUTIONS LLP
-45.12.28.108,443,EE,Brainoza OU
 45.12.28.129,443,EE,Brainoza OU
+45.12.28.134,443,EE,Brainoza OU
 45.12.28.202,443,EE,Brainoza OU
 45.12.28.95,443,EE,Brainoza OU
+45.12.28.96,443,EE,Brainoza OU
 45.129.199.117,443,EE,BlueVPS OU
 45.83.182.80,443,EE,BlueVPS OU
 46.22.211.155,8443,EE,Aktsiaselts WaveCom
@@ -78,12 +78,13 @@
 5.101.118.60,8443,EE,IPv6 network for hosting services
 5.101.122.59,443,EE,IPv6 network for hosting services
 5.101.126.33,8443,EE,IPv6 network for hosting services
-5.101.180.125,2053,EE,Network for hosting services
 5.101.180.125,8443,EE,Network for hosting services
+5.101.180.125,2053,EE,Network for hosting services
 5.181.202.134,443,EE,Brainoza OU
+5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
-5.189.254.168,443,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
+5.189.254.168,443,EE,Brainoza OU
 5.189.254.168,2053,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
@@ -92,10 +93,10 @@
 5.45.112.139,443,EE,IPv6 network for hosting services
 5.45.112.149,443,EE,IPv6 network for hosting services
 5.45.112.211,443,EE,IPv6 network for hosting services
-5.45.115.162,2087,EE,IPv6 network for hosting services
 5.45.115.162,2083,EE,IPv6 network for hosting services
-5.45.115.168,8443,EE,Network for hosting services
+5.45.115.162,2087,EE,IPv6 network for hosting services
 5.45.115.168,2053,EE,IPv6 network for hosting services
+5.45.115.168,8443,EE,Network for hosting services
 5.45.115.238,8443,EE,IPv6 network for hosting services
 5.45.115.77,443,EE,IPv6 network for hosting services
 5.45.117.125,443,EE,IPv6 network for hosting services
@@ -104,7 +105,6 @@
 5.45.127.148,8443,EE,IPv6 network for hosting services
 5.45.127.84,443,EE,IPv6 network for hosting services
 5.45.127.87,8443,EE,IPv6 network for hosting services
-80.77.25.142,443,EE,servingacom  Estonia
 80.77.25.228,443,EE,servingacom  Estonia
 80.79.123.100,443,EE,Aktsiaselts WaveCom
 82.47.22.11,8443,EE,RAKAR INVESTMENTS HOLDING BV

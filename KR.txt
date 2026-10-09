@@ -17,12 +17,10 @@
 132.145.91.135,443,KR,Oracle Corporation
 132.145.91.181,8443,KR,Oracle Public Cloud
 132.226.21.116,6056,KR,Oracle Public Cloud
-134.185.114.16,443,KR,Oracle Corporation
 134.185.99.52,443,KR,Oracle Corporation
 140.238.15.158,443,KR,Cloudflare London LLC
 140.238.30.217,443,KR,Oracle Corporation
 140.238.5.75,13644,KR,Oracle Public Cloud
-140.238.5.86,443,KR,Oracle Public Cloud
 140.245.65.122,443,KR,Oracle Corporation
 141.164.34.161,8443,KR,The Constant Company LLC
 141.164.35.158,443,KR,The Constant Company LLC
