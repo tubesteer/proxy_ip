@@ -1,5 +1,4 @@
 114.32.9.249,443,TW,Chunghwa Telecom Data Communication Business Group
-140.235.38.47,443,TW,Akari Networks Taipei
 140.235.38.78,443,TW,Akari Networks Taipei
 140.235.39.162,443,TW,ByteVirt LLC
 140.235.39.19,443,TW,ByteVirt LLC
@@ -13,5 +12,4 @@
 78.105.183.11,8443,TW,Private Customer
 82.152.91.210,443,TW,Akari Networks Taipei
 83.147.13.193,443,TW,Akari Networks Taipei
-83.147.13.49,443,TW,Akari Networks Taipei
 83.147.15.253,443,TW,Akari Networks Taipei
