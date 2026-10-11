@@ -6,6 +6,8 @@
 146.235.59.153,8443,BR,Oracle Corporation
 152.67.41.217,443,BR,Oracle Public Cloud
 157.151.4.93,443,BR,Oracle Corporation
+172.233.1.106,443,BR,Linode
+172.233.16.23,443,BR,Linode
 201.16.130.6,443,BR,ALGAR TELECOM SA
 216.128.168.232,8443,BR,The Constant Company LLC
 216.238.110.198,8443,BR,The Constant Company LLC
