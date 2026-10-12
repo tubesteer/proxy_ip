@@ -1,13 +1,14 @@
 101.33.68.172,443,KR,ACEVILLE PTELTD
 101.33.80.58,8443,KR,ACEVILLE PTELTD
+103.218.173.218,443,KR,PacketStream Hosting Network
 119.205.235.58,443,KR,Korea Telecom
 119.28.162.98,443,KR,ACEVILLE PTELTD
-123.111.169.70,2087,KR,SK Broadband Co Ltd
-123.111.169.70,443,KR,SK Broadband Co Ltd
-123.111.169.70,2053,KR,SK Broadband Co Ltd
-123.111.169.70,2083,KR,SK Broadband Co Ltd
-123.111.169.70,2096,KR,SK Broadband Co Ltd
 123.111.169.70,8443,KR,SK Broadband Co Ltd
+123.111.169.70,2096,KR,SK Broadband Co Ltd
+123.111.169.70,2083,KR,SK Broadband Co Ltd
+123.111.169.70,2087,KR,SK Broadband Co Ltd
+123.111.169.70,2053,KR,SK Broadband Co Ltd
+123.111.169.70,443,KR,SK Broadband Co Ltd
 129.154.61.118,443,KR,Oracle Corporation
 13.125.141.213,443,KR,Amazoncom Inc
 13.125.9.223,443,KR,Amazoncom Inc
@@ -28,14 +29,16 @@
 140.238.15.158,443,KR,Cloudflare London LLC
 140.238.30.217,443,KR,Oracle Corporation
 140.238.5.75,13644,KR,Oracle Public Cloud
+140.238.5.86,443,KR,Oracle Public Cloud
 140.245.65.12,2053,KR,Oracle Corporation
 140.245.65.122,443,KR,Oracle Corporation
 140.245.70.145,443,KR,Oracle Corporation
 141.164.34.161,8443,KR,The Constant Company LLC
 141.164.34.193,443,KR,The Constant Company LLC
 141.164.35.4,443,KR,The Constant Company LLC
-141.164.44.60,443,KR,The Constant Company LLC
 141.164.44.60,2053,KR,The Constant Company LLC
+141.164.44.60,443,KR,The Constant Company LLC
+141.164.48.141,443,KR,The Constant Company LLC
 141.164.52.204,443,KR,The Constant Company LLC
 141.164.56.22,443,KR,The Constant Company LLC
 144.24.68.111,443,KR,Oracle Corp UK Ltd
@@ -45,7 +48,6 @@
 144.24.87.69,50001,KR,Oracle Corporation
 144.24.90.178,443,KR,Oracle Corporation
 144.24.93.66,8443,KR,Oracle Corp UK Ltd
-146.56.106.214,443,KR,Oracle Corporation
 146.56.116.59,443,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.135.196,443,KR,Cloudflare London LLC
 146.56.151.92,443,KR,Oracle Corporation
@@ -66,6 +68,7 @@
 152.69.229.175,22558,KR,Oracle Corporation
 152.70.237.30,8443,KR,Oracle Corporation
 152.70.239.74,443,KR,Oracle Corporation
+152.70.89.135,587,KR,Oracle Corporation
 158.247.201.201,8443,KR,The Constant Company LLC
 158.247.210.172,443,KR,The Constant Company LLC
 158.247.220.241,443,KR,The Constant Company LLC
@@ -82,7 +85,6 @@
 168.107.59.24,443,KR,Oracle Corporation
 168.107.9.88,443,KR,Oracle Corporation
 168.110.110.16,443,KR,Oracle Corporation
-168.110.110.236,443,KR,Oracle Corporation
 193.122.115.184,443,KR,Oracle Corporation
 193.122.119.241,443,KR,Oracle Public Cloud
 193.122.96.190,443,KR,Oracle Corporation
@@ -92,8 +94,8 @@
 27.102.132.186,443,KR,KCInfra Inc
 3.37.58.69,443,KR,Amazoncom Inc
 3.38.190.222,443,KR,Amazoncom Inc
-34.47.87.111,443,KR,Google LLC
 43.108.46.150,443,KR,Alibaba Cloud Singapore Private Limited
+43.128.130.130,8443,KR,ACEVILLE PTELTD
 43.133.251.155,443,KR,ACEVILLE PTELTD
 43.155.208.254,443,KR,ACEVILLE PTELTD
 43.155.221.27,8443,KR,Cloudflare London LLC

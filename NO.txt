@@ -9,6 +9,7 @@
 212.147.234.124,443,NO,UpCloud Cloud Servers
 5.83.129.219,443,NO,IPv6 Customers Internal Servers
 81.29.149.210,443,NO,Baxet Group Inc
-81.29.149.219,2053,NO,Baxet Group Inc
 81.29.149.219,8443,NO,Baxet Group Inc
+81.29.149.219,2053,NO,Baxet Group Inc
 89.46.233.62,2096,NO,EDIS IPv6 Infrastructure in Norway
+91.190.155.173,2083,NO,Prinode AB

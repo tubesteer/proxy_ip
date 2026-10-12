@@ -1,4 +1,3 @@
-101.108.49.121,443,TH,Dynamic IP assignment for broadband service
 103.107.53.42,443,TH,ReadyIDC COLTD
 103.114.201.154,443,TH,ReadyIDC COLTD
 103.114.203.189,443,TH,ReadyIDC COLTD
