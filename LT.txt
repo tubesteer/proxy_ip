@@ -19,7 +19,6 @@
 194.135.83.166,8443,LT,UAB Interneto vizija
 194.135.91.96,443,LT,UAB Interneto vizija
 194.5.157.62,8443,LT,Hostinger International Limited
-194.87.106.121,443,LT,Baxet Group Inc
 194.87.106.196,8443,LT,Baxet Group Inc
 194.87.106.222,8443,LT,Baxet Group Inc
 194.87.106.8,8443,LT,Baxet Group Inc
@@ -30,8 +29,8 @@
 2.59.162.27,443,LT,GLOBAL CONNECTIVITY SOLUTIONS LLP
 212.192.23.30,443,LT,Baxet Group Inc
 212.192.23.91,443,LT,Baxet Group Inc
-212.24.104.79,2053,LT,UAB Interneto vizija
 212.24.104.79,8443,LT,UAB Interneto vizija
+212.24.104.79,2053,LT,UAB Interneto vizija
 213.252.246.17,8443,LT,SolusVM priskirti adresai
 45.93.137.149,443,LT,Hostinger International Limited
 46.29.234.91,8443,LT,GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -48,13 +47,14 @@
 84.32.149.158,8443,LT,Private Customer
 84.32.149.41,443,LT,Private Customer
 84.32.149.60,443,LT,Private Customer
-84.32.209.76,443,LT,Private Customer
 84.32.209.76,8443,LT,Private Customer
+84.32.209.76,443,LT,Private Customer
 84.32.97.162,443,LT,Private Customer
 85.206.161.198,443,LT,Pirma alokacija
 85.206.161.200,443,LT,Pirma alokacija
 85.206.161.208,443,LT,Pirma alokacija
 85.206.161.209,443,LT,Pirma alokacija
+85.209.231.43,443,LT,Space Hosting
 88.119.161.15,443,LT,SolusVM priskirti adresai
 89.116.23.145,8443,LT,Hostinger International Limited
 89.125.248.243,443,LT,Baxet Group Inc

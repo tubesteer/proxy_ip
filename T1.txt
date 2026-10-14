@@ -1,1 +1,1 @@
-54.151.240.255,443,T1,Gigahost AS
+54.151.240.255,443,T1,Network for TorExit traffic

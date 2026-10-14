@@ -35,8 +35,8 @@
 185.175.58.196,443,AT,HostHatch LLC
 185.75.241.170,443,AT,Hosteroid  Vienna
 193.219.97.183,443,AT,Alwyzon a trading name of Hohl IT eU
-193.219.97.198,8443,AT,Alwyzon a trading name of Hohl IT eU
 193.219.97.198,443,AT,Alwyzon a trading name of Hohl IT eU
+193.219.97.198,8443,AT,Alwyzon a trading name of Hohl IT eU
 193.233.128.14,2053,AT,AEZA GROUP LLC
 193.233.233.188,2053,AT,AEZA GROUP LLC
 193.233.233.188,8443,AT,AEZA GROUP LLC
