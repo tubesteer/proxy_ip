@@ -4,7 +4,6 @@
 103.54.217.41,10688,ID,PT Mora Telematika Indonesia
 110.232.84.159,2053,ID,PT Media Antar Nusa
 116.212.73.46,443,ID,PT Deneva
-117.54.231.228,27949,ID,IndoInternet Network
 118.151.222.66,17317,ID,PT Centrin Online Prima
 119.235.252.35,46260,ID,PT Raja Sepadan Abadi
 130.94.92.91,80,ID,LIGHT NODE LIMITED

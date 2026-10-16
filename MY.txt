@@ -1,3 +1,4 @@
+108.165.65.185,443,MY,Evoxtcom
 136.0.254.132,443,MY,Evoxtcom
 149.118.155.105,8443,MY,Oracle Corporation
 166.88.194.74,2087,MY,Evoxtcom
@@ -5,10 +6,9 @@
 166.88.7.117,443,MY,Evoxtcom
 187.52.114.103,8443,MY,Hostinger International Limited
 187.52.127.204,8443,MY,Hostinger International Limited
-202.61.75.38,443,MY,Evoxtcom
 216.173.67.119,443,MY,Evoxtcom
-216.173.67.144,8443,MY,Evoxtcom
 216.173.67.144,443,MY,Evoxtcom
+216.173.67.144,8443,MY,Evoxtcom
 216.173.67.159,443,MY,Evoxtcom
 216.173.67.59,443,MY,Evoxtcom
 43.216.2.240,443,MY,Amazoncom Inc
@@ -24,3 +24,4 @@
 72.60.236.128,8443,MY,Hostinger International Limited
 76.13.188.13,8443,MY,Hostinger International Limited
 76.13.218.192,8443,MY,Hostinger International Limited
+87.76.160.237,8443,MY,BRANDON MAXWELL LOOI

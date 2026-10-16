@@ -41,7 +41,6 @@
 203.98.67.146,443,AT,Alwyzon a trading name of Hohl IT eU
 203.98.67.48,8443,AT,Alwyzon a trading name of Hohl IT eU
 205.147.201.29,443,AT,Alwyzon a trading name of Hohl IT eU
-205.147.201.53,8443,AT,Alwyzon a trading name of Hohl IT eU
 37.235.56.86,443,AT,EDIS IPv6 Infrastructure in Austria
 37.252.189.207,443,AT,IPAX GmbH
 46.102.156.142,443,AT,Alwyzon a trading name of Hohl IT eU
@@ -53,6 +52,7 @@
 83.243.122.219,443,AT,EDIS IPv6 Infrastructure in Austria
 86.106.183.27,443,AT,Alwyzon a trading name of Hohl IT eU
 87.251.69.20,8443,AT,GLOBAL CONNECTIVITY SOLUTIONS LLP
+87.251.69.44,443,AT,GLOBAL CONNECTIVITY SOLUTIONS LLP
 89.58.17.201,443,AT,netcup GmbH
 89.58.61.12,2053,AT,netcup GmbH
 91.244.70.33,443,AT,Evolus IT Solutions GmbH
