@@ -1,5 +1,4 @@
 103.136.146.169,443,AU,xTom Pty Ltd
-103.30.211.34,443,AU,GCore Labs SA
 103.43.75.82,443,AU,The Constant Company LLC
 108.165.64.186,8443,AU,Evoxt AU
 123.51.23.113,443,AU,Level 6 913 Young Street
@@ -30,7 +29,7 @@
 170.64.237.192,443,AU,Digital Ocean Inc
 172.105.173.161,443,AU,Akamai Connected Cloud  Linode
 172.236.62.238,443,AU,Linode
-176.97.68.17,443,AU,3nt solutions LLP
+176.97.68.17,443,AU,3NT Solutions LLP
 192.9.162.124,8443,AU,Oracle Corporation
 192.9.190.80,23862,AU,Oracle Corporation
 193.177.220.44,443,AU,365 Group LLC
