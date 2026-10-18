@@ -17,8 +17,8 @@
 152.53.44.126,443,AT,netcup GmbH
 152.53.45.247,443,AT,netcup GmbH
 152.53.45.49,443,AT,netcup GmbH
-152.53.47.184,8443,AT,netcup GmbH
 152.53.47.184,443,AT,netcup GmbH
+152.53.47.184,8443,AT,netcup GmbH
 152.53.67.190,443,AT,netcup GmbH
 152.53.67.83,443,AT,netcup GmbH
 157.173.25.96,443,AT,Evolus IT Solutions GmbH
@@ -59,7 +59,6 @@
 91.244.70.45,8443,AT,Evolus IT Solutions GmbH
 92.112.48.142,8443,AT,Alpenhost eU
 92.112.48.149,443,AT,Alpenhost eU
-94.16.31.30,443,AT,powered by ANX
 94.177.8.237,443,AT,Alwyzon a trading name of Hohl IT eU
 94.177.8.78,2053,AT,Alwyzon a trading name of Hohl IT eU
 94.177.9.33,8443,AT,Alwyzon a trading name of Hohl IT eU
