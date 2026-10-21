@@ -25,8 +25,6 @@
 168.144.70.236,443,IN,DigitalOcean LLC
 168.144.91.212,443,IN,DigitalOcean LLC
 170.187.237.10,443,IN,Akamai Connected Cloud  Linode
-170.187.237.195,443,IN,Akamai Connected Cloud  Linode
-170.187.237.198,443,IN,Akamai Connected Cloud  Linode
 172.104.206.25,443,IN,Akamai Connected Cloud  Linode
 172.104.207.171,443,IN,Akamai Connected Cloud  Linode
 172.105.50.77,443,IN,Akamai Connected Cloud  Linode
@@ -45,8 +43,8 @@
 219.65.73.81,443,IN,Reliance Jio Infocomm Limited
 35.154.184.88,443,IN,Amazoncom Inc
 4.240.110.47,443,IN,Microsoft Corporation
-5.253.28.82,8443,IN,BEAFORT LIMITED
 5.253.28.82,2053,IN,BEAFORT LIMITED
+5.253.28.82,8443,IN,BEAFORT LIMITED
 5.253.29.241,2053,IN,BEAFORT LIMITED
 5.253.29.83,443,IN,BEAFORT LIMITED
 5.253.30.171,8443,IN,BEAFORT LIMITED
@@ -63,9 +61,11 @@
 65.2.215.47,443,IN,Amazoncom Inc
 65.20.80.121,443,IN,The Constant Company LLC
 65.20.80.227,443,IN,The Constant Company LLC
+65.20.85.14,443,IN,The Constant Company LLC
 65.20.87.219,443,IN,The Constant Company LLC
 68.233.107.29,443,IN,Oracle Corporation
 68.233.109.59,2087,IN,Oracle Corporation
+72.60.223.48,8443,IN,HOSTINGER IN
 86.107.100.126,443,IN,Baxet Group Inc
 94.136.185.7,8443,IN,Contabo Asia Private Limited
 98.70.26.236,443,IN,Microsoft Corporation

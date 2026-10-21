@@ -33,8 +33,8 @@
 185.23.236.29,443,EE,HexCore cloud sro
 185.255.178.131,443,EE,Baykov Ilya Sergeevich
 185.36.140.119,443,EE,Brainoza OU
-185.36.140.228,2053,EE,Brainoza OU
 185.36.140.228,8443,EE,Brainoza OU
+185.36.140.228,2053,EE,Brainoza OU
 185.36.140.244,443,EE,Brainoza OU
 185.36.140.86,2083,EE,Brainoza OU
 185.36.141.4,8443,EE,Brainoza OU
@@ -55,6 +55,7 @@
 209.131.70.51,443,EE,HexCore cloud sro
 209.131.70.96,8443,EE,HexCore cloud sro
 212.2.36.91,2096,EE,HZ Hosting Ltd
+212.7.7.155,8443,EE,AS INFONET
 212.87.190.142,8443,EE,ASTRANETWORKSLTD
 213.111.181.20,8443,EE,EDIS IPv6 Infrastructure in Estonia
 217.60.182.77,443,EE,ExpressHost LTD
@@ -64,11 +65,10 @@
 31.56.187.163,443,EE,ExpressHost LTD
 31.56.187.184,443,EE,ExpressHost LTD
 31.56.187.21,443,EE,ExpressHost LTD
-31.56.187.223,8443,EE,ExpressHost LTD
 31.56.187.26,443,EE,ExpressHost LTD
 31.76.70.229,8443,EE,SERVHOST GROUP LTD
-31.76.70.41,443,EE,SERVHOST GROUP LTD
 31.76.70.41,8443,EE,SERVHOST GROUP LTD
+31.76.70.41,443,EE,SERVHOST GROUP LTD
 38.180.10.173,443,EE,3NT SOLUTIONS LLP
 38.180.10.202,443,EE,3NT SOLUTIONS LLP
 38.180.10.48,443,EE,3NT SOLUTIONS LLP
@@ -116,19 +116,19 @@
 5.181.202.134,443,EE,Brainoza OU
 5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
-5.188.20.54,8443,EE,Network for hosting services
 5.188.20.54,443,EE,Network for hosting services
-5.189.254.168,443,EE,Brainoza OU
+5.188.20.54,8443,EE,Network for hosting services
 5.189.254.168,2053,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
+5.189.254.168,443,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
 5.42.221.155,443,EE,HostWorld OU
 5.42.221.16,443,EE,HostWorld OU
 5.45.112.149,443,EE,IPv6 network for hosting services
 5.45.112.211,443,EE,IPv6 network for hosting services
-5.45.115.168,2053,EE,IPv6 network for hosting services
 5.45.115.168,8443,EE,Network for hosting services
+5.45.115.168,2053,EE,IPv6 network for hosting services
 5.45.115.238,8443,EE,IPv6 network for hosting services
 5.45.115.77,443,EE,IPv6 network for hosting services
 5.45.119.170,8443,EE,IPv6 network for hosting services
@@ -139,10 +139,9 @@
 80.77.25.228,443,EE,servingacom  Estonia
 80.79.123.100,443,EE,Aktsiaselts WaveCom
 82.47.22.11,8443,EE,RAKAR INVESTMENTS HOLDING BV
-89.150.40.228,443,EE,HZ Hosting Ltd
 89.169.15.253,443,EE,Baykov Ilya Sergeevich
-89.40.104.169,443,EE,EDIS Global Infrastructure in Estonia
 89.40.104.169,2083,EE,EDIS Global Infrastructure in Estonia
+89.40.104.169,443,EE,EDIS Global Infrastructure in Estonia
 89.40.104.169,2053,EE,EDIS Global Infrastructure in Estonia
 93.123.39.11,443,EE,QWINS Hosting
 93.123.39.34,443,EE,QWINS Hosting

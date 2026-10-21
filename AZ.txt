@@ -1,5 +1,4 @@
 180.149.44.124,8443,AZ,GCore Labs SA
 180.149.44.6,2053,AZ,GCore Labs Customer assignment
 180.149.45.16,443,AZ,GCore Labs SA
-185.135.231.175,8443,AZ,Leased IPv4 Blocks
 94.20.154.66,443,AZ,Leased IPv4 Blocks
