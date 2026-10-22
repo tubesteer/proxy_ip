@@ -1,6 +1,4 @@
 103.131.189.111,443,TW,SoftShell Hosting
-103.137.22.71,8443,TW,Imcloud Technology Co Ltd
-103.137.22.71,443,TW,Imcloud Technology Co Ltd
 103.61.139.196,443,TW,Xiang Ao Communications Co Ltd
 114.32.43.140,2087,TW,Chunghwa Telecom Data Communication Business Group
 140.115.53.51,443,TW,TW NCU
@@ -10,6 +8,7 @@
 142.249.60.51,443,TW,Akari Networks Taipei
 151.242.188.249,443,TW,ByteVirt LLC
 151.242.189.40,443,TW,ByteVirt LLC
+156.227.28.24,443,TW,Antbox Network Limited
 188.253.6.249,443,TW,Akari Networks Taipei
 202.148.221.133,443,TW,Imcloud Technology Co Ltd
 207.56.137.174,443,TW,NTT America Inc
@@ -18,7 +17,6 @@
 35.185.136.126,443,TW,Google LLC
 45.207.158.194,8443,TW,Akari Networks Taipei
 45.207.159.187,443,TW,Akari Networks Taipei
-78.105.183.127,8443,TW,DATAWAVE GLOBAL LLC
 82.152.91.210,443,TW,Akari Networks Taipei
 83.147.13.193,443,TW,Akari Networks Taipei
 83.147.14.62,8443,TW,Akari Networks Taipei
