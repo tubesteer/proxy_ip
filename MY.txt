@@ -1,9 +1,9 @@
 136.0.110.221,8443,MY,Evoxtcom
 136.0.254.132,443,MY,Evoxtcom
-149.118.155.105,8443,MY,Oracle Corporation
 166.88.194.74,2087,MY,Evoxtcom
 166.88.35.242,443,MY,Evoxtcom
 166.88.7.117,443,MY,Evoxtcom
+168.93.198.95,443,MY,Evoxtcom
 187.52.114.103,8443,MY,Hostinger International Limited
 187.52.127.204,8443,MY,Hostinger International Limited
 205.186.64.131,443,MY,Evoxtcom
@@ -13,9 +13,8 @@
 216.173.67.159,443,MY,Evoxtcom
 216.173.67.59,443,MY,Evoxtcom
 45.194.27.99,443,MY,Evoxtcom
-45.195.76.138,443,MY,Evoxtcom
-47.250.212.59,443,MY,Alibaba Cloud LLC
 47.250.212.59,2053,MY,Alibaba Cloud LLC
+47.250.212.59,443,MY,Alibaba Cloud LLC
 47.250.81.46,2087,MY,Alibaba Cloud  MY
 56.68.92.77,443,MY,Amazoncom Inc
 58.27.117.24,443,MY,TMNET
@@ -23,3 +22,4 @@
 72.60.236.128,8443,MY,Hostinger International Limited
 76.13.188.13,8443,MY,Hostinger International Limited
 76.13.218.192,8443,MY,Hostinger International Limited
+87.76.160.237,8443,MY,BRANDON MAXWELL LOOI
