@@ -3,7 +3,6 @@
 185.179.82.201,443,BY,Reliable Software Ltd
 185.179.82.246,443,BY,Reliable Software Ltd
 212.60.4.134,443,BY,SPRINTHOST LLP
-87.232.67.133,8443,BY,Reliable Software Ltd
 91.149.167.147,8443,BY,Besthostby network
-95.130.84.36,8443,BY,LLC Raccoon technology
 95.130.84.36,2053,BY,LLC Raccoon technology
+95.130.84.36,8443,BY,LLC Raccoon technology

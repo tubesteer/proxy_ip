@@ -5,12 +5,11 @@
 140.235.39.162,443,TW,ByteVirt LLC
 140.235.39.19,443,TW,ByteVirt LLC
 141.11.86.150,8443,TW,Akari Networks Taipei
-141.11.86.163,443,TW,Akari Networks Taipei
 142.249.60.51,443,TW,Akari Networks Taipei
 151.242.188.249,443,TW,ByteVirt LLC
 151.242.189.40,443,TW,ByteVirt LLC
+156.227.28.24,443,TW,Antbox Network Limited
 188.253.6.249,443,TW,Akari Networks Taipei
-202.148.221.133,443,TW,Imcloud Technology Co Ltd
 207.56.137.174,443,TW,NTT America Inc
 23.146.248.149,443,TW,NCSE NETWORK LLC
 34.80.199.41,443,TW,Google LLC
