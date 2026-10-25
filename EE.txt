@@ -44,8 +44,8 @@
 185.4.75.170,443,EE,IPv6 network for hosting services
 188.119.112.148,443,EE,HexCore cloud sro
 188.119.112.52,8443,EE,HexCore cloud sro
-188.214.37.137,8443,EE,EDIS IPv6 Infrastructure in Estonia
 188.214.37.137,443,EE,EDIS IPv6 Infrastructure in Estonia
+188.214.37.137,8443,EE,EDIS IPv6 Infrastructure in Estonia
 188.214.37.231,443,EE,EDIS IPv6 Infrastructure in Estonia
 209.131.70.109,443,EE,HexCore cloud sro
 209.131.70.198,8443,EE,HexCore cloud sro
@@ -61,11 +61,10 @@
 31.56.187.163,443,EE,ExpressHost LTD
 31.56.187.184,443,EE,ExpressHost LTD
 31.56.187.21,443,EE,ExpressHost LTD
-31.56.187.223,8443,EE,ExpressHost LTD
 31.56.187.26,443,EE,ExpressHost LTD
 31.76.70.229,8443,EE,SERVHOST GROUP LTD
-31.76.70.41,443,EE,SERVHOST GROUP LTD
 31.76.70.41,8443,EE,SERVHOST GROUP LTD
+31.76.70.41,443,EE,SERVHOST GROUP LTD
 38.180.10.173,443,EE,3NT SOLUTIONS LLP
 38.180.10.202,443,EE,3NT SOLUTIONS LLP
 38.180.10.48,443,EE,3NT SOLUTIONS LLP
@@ -113,9 +112,9 @@
 5.181.202.75,443,EE,Brainoza OU
 5.188.20.54,443,EE,Network for hosting services
 5.188.20.54,8443,EE,Network for hosting services
-5.189.254.168,2053,EE,Brainoza OU
 5.189.254.168,443,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
+5.189.254.168,2053,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
 5.42.221.16,443,EE,HostWorld OU
@@ -133,8 +132,8 @@
 80.79.123.100,443,EE,Aktsiaselts WaveCom
 82.47.22.11,8443,EE,RAKAR INVESTMENTS HOLDING BV
 89.169.15.253,443,EE,Baykov Ilya Sergeevich
-89.40.104.169,2053,EE,EDIS Global Infrastructure in Estonia
 89.40.104.169,2083,EE,EDIS Global Infrastructure in Estonia
+89.40.104.169,2053,EE,EDIS Global Infrastructure in Estonia
 89.40.104.169,443,EE,EDIS Global Infrastructure in Estonia
 93.123.39.11,443,EE,QWINS Hosting
 93.123.39.34,443,EE,QWINS Hosting
