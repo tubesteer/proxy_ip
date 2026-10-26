@@ -12,7 +12,7 @@
 162.128.66.235,24443,ID,Zenlayer Singapore PTE LTD
 168.110.200.146,443,ID,Oracle Corporation
 202.155.95.132,443,ID,PT Deneva
-203.175.11.90,9443,ID,CV Rumahweb Indonesia
+203.175.11.90,9443,ID,Rumahweb Indonesia
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 43.173.1.153,8443,ID,PT Telekomunikasi Indonesia
 43.229.254.182,443,ID,PT Media Antar Nusa

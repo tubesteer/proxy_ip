@@ -2,9 +2,7 @@
 166.88.194.74,2087,MY,Evoxtcom
 166.88.35.242,443,MY,Evoxtcom
 166.88.7.117,443,MY,Evoxtcom
-168.93.198.95,443,MY,Evoxtcom
 187.52.114.103,8443,MY,Hostinger International Limited
-187.52.127.204,8443,MY,Hostinger International Limited
 205.186.64.131,443,MY,Evoxtcom
 216.173.67.119,443,MY,Evoxtcom
 216.173.67.144,443,MY,Evoxtcom
