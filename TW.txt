@@ -6,7 +6,6 @@
 140.235.39.162,443,TW,ByteVirt LLC
 140.235.39.19,443,TW,ByteVirt LLC
 141.11.86.150,8443,TW,Akari Networks Taipei
-141.11.86.163,443,TW,Akari Networks Taipei
 142.249.60.51,443,TW,Akari Networks Taipei
 151.242.188.249,443,TW,ByteVirt LLC
 151.242.189.40,443,TW,ByteVirt LLC
