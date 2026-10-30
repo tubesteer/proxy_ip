@@ -33,7 +33,6 @@
 207.148.80.190,443,AU,The Constant Company LLC
 207.148.81.4,443,AU,Vultr Holdings LLC
 207.211.157.214,443,AU,Oracle Corporation
-209.38.22.182,443,AU,Digital Ocean Inc
 209.38.82.114,443,AU,Digital Ocean Inc
 3.27.159.64,443,AU,Amazoncom Inc
 45.32.243.13,443,AU,The Constant Company LLC

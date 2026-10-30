@@ -34,7 +34,6 @@
 45.93.137.149,443,LT,Hostinger International Limited
 5.199.162.130,443,LT,UAB Cherry Servers
 5.199.173.195,443,LT,UAB Cherry Servers
-62.77.155.16,443,LT,UAB Interneto vizija
 80.208.227.162,443,LT,UAB Interneto vizija
 80.209.231.51,443,LT,UAB Interneto vizija
 80.209.232.78,443,LT,UAB Interneto vizija

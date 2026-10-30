@@ -11,4 +11,3 @@
 81.29.149.219,8443,NO,Baxet Group Inc
 84.208.211.208,8443,NO,Telia Norge AS
 89.46.233.62,2096,NO,EDIS IPv6 Infrastructure in Norway
-91.190.155.173,2083,NO,Prinode AB
