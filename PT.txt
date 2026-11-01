@@ -2,4 +2,3 @@
 195.133.92.20,443,PT,Baxet Group Inc
 195.133.92.228,443,PT,Baxet Group Inc
 195.133.92.71,443,PT,Baxet Group Inc
-62.129.141.79,8443,PT,Euronodes Ltd

@@ -13,7 +13,6 @@
 185.80.129.84,443,LT,UAB ESNET
 185.80.131.40,443,LT,UAB ESNET
 185.80.131.84,443,LT,UAB ESNET
-188.190.3.106,443,LT,EDIS IPv6 Infrastructure in Lithuania
 188.190.3.42,443,LT,EDIS IPv6 Infrastructure in Lithuania
 194.135.91.96,443,LT,UAB Interneto vizija
 194.5.157.62,8443,LT,Hostinger International Limited
@@ -33,6 +32,7 @@
 5.199.162.130,443,LT,UAB Cherry Servers
 5.199.173.195,443,LT,UAB Cherry Servers
 62.77.155.16,443,LT,UAB Interneto vizija
+72.56.5.222,443,LT,UAB Interneto vizija
 80.208.227.162,443,LT,UAB Interneto vizija
 80.209.231.51,443,LT,UAB Interneto vizija
 80.209.232.78,443,LT,UAB Interneto vizija

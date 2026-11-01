@@ -1,10 +1,10 @@
 103.131.189.111,443,TW,SoftShell Hosting
 103.61.139.196,443,TW,Xiang Ao Communications Co Ltd
-114.34.210.159,443,TW,Chunghwa Telecom Data Communication Business Group
 140.115.53.51,443,TW,TW NCU
 140.235.39.162,443,TW,ByteVirt LLC
 140.235.39.19,443,TW,ByteVirt LLC
 141.11.86.150,8443,TW,Akari Networks Taipei
+141.11.86.163,443,TW,Akari Networks Taipei
 151.242.188.249,443,TW,ByteVirt LLC
 154.40.60.193,443,TW,STARVERSE POLOCLOUD 2
 188.253.6.249,443,TW,Akari Networks Taipei
@@ -21,4 +21,3 @@
 83.147.15.84,443,TW,Akari Networks Taipei
 85.237.207.101,443,TW,Akari Networks Taipei
 85.237.207.141,443,TW,Akari Networks Taipei
-85.237.207.78,443,TW,Akari Networks Taipei
