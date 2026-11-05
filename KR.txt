@@ -2,14 +2,13 @@
 101.33.80.58,8443,KR,ACEVILLE PTELTD
 103.218.173.218,443,KR,PacketStream Hosting Network
 119.205.235.58,443,KR,Korea Telecom
-123.111.169.70,2053,KR,SK Broadband Co Ltd
-123.111.169.70,443,KR,SK Broadband Co Ltd
-123.111.169.70,2083,KR,SK Broadband Co Ltd
-123.111.169.70,2087,KR,SK Broadband Co Ltd
-123.111.169.70,2096,KR,SK Broadband Co Ltd
 123.111.169.70,8443,KR,SK Broadband Co Ltd
+123.111.169.70,2096,KR,SK Broadband Co Ltd
+123.111.169.70,443,KR,SK Broadband Co Ltd
+123.111.169.70,2053,KR,SK Broadband Co Ltd
+123.111.169.70,2087,KR,SK Broadband Co Ltd
+123.111.169.70,2083,KR,SK Broadband Co Ltd
 13.125.141.213,443,KR,Amazoncom Inc
-13.125.9.223,443,KR,Amazoncom Inc
 130.94.29.155,443,KR,LIGHT NODE LIMITED
 131.186.16.166,443,KR,Oracle Public Cloud
 131.186.24.124,587,KR,Oracle Public Cloud
@@ -26,9 +25,8 @@
 140.245.70.145,443,KR,Oracle Corporation
 141.164.34.161,8443,KR,The Constant Company LLC
 141.164.34.193,443,KR,The Constant Company LLC
-141.164.35.158,443,KR,The Constant Company LLC
-141.164.44.60,2053,KR,The Constant Company LLC
 141.164.44.60,443,KR,The Constant Company LLC
+141.164.44.60,2053,KR,The Constant Company LLC
 141.164.52.204,443,KR,The Constant Company LLC
 144.24.71.172,443,KR,Oracle Corporation
 144.24.73.232,443,KR,Oracle Corp UK Ltd
