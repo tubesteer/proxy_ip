@@ -1,3 +1,2 @@
 111.125.75.92,443,PH,Converge ICT Corporate Customer
-61.245.10.8,443,PH,RR Managed Telecom Services
 61.245.11.45,443,PH,RR Managed Telecom Services
