@@ -10,8 +10,8 @@
 159.253.21.82,443,EE,IPv6 network for hosting services
 159.253.23.52,443,EE,IPv6 network for hosting services
 176.112.152.134,443,EE,Astrec Data OU
-176.97.74.41,2053,EE,3NT Solutions LLP
 176.97.74.41,8443,EE,3NT Solutions LLP
+176.97.74.41,2053,EE,3NT Solutions LLP
 185.114.116.181,8443,EE,Aktsiaselts WaveCom
 185.114.116.54,443,EE,3NT Solutions LLP
 185.123.53.176,443,EE,BlueVPS OU
@@ -78,16 +78,16 @@
 5.101.118.60,8443,EE,IPv6 network for hosting services
 5.101.122.59,443,EE,IPv6 network for hosting services
 5.101.126.33,8443,EE,IPv6 network for hosting services
-5.101.180.125,2053,EE,Network for hosting services
 5.101.180.125,8443,EE,Network for hosting services
+5.101.180.125,2053,EE,Network for hosting services
 5.181.202.134,443,EE,Brainoza OU
 5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
 5.188.20.54,8443,EE,Network for hosting services
 5.188.20.54,443,EE,Network for hosting services
 5.189.254.168,443,EE,Brainoza OU
-5.189.254.168,8443,EE,Brainoza OU
 5.189.254.168,2053,EE,Brainoza OU
+5.189.254.168,8443,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
 5.42.221.16,443,EE,HostWorld OU

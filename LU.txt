@@ -1,1 +1,2 @@
 45.80.209.25,81,LU,GCore Labs Customer assignment
+95.165.79.244,8443,LU,root SA
