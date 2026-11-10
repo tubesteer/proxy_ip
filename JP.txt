@@ -1,5 +1,3 @@
-103.173.179.184,8443,JP,HostHatch Tokyo
-103.173.179.184,443,JP,HostHatch Tokyo
 103.201.130.126,443,JP,xTom Japan Corporation
 103.201.130.31,443,JP,xTom Japan Corporation
 103.201.131.215,443,JP,xTom Limited
@@ -41,7 +39,6 @@
 13.192.236.148,443,JP,Amazoncom Inc
 13.192.5.38,443,JP,Amazoncom Inc
 13.193.106.143,443,JP,Amazoncom Inc
-13.193.212.73,443,JP,Amazoncom Inc
 13.193.29.106,443,JP,Amazoncom Inc
 13.196.179.169,443,JP,Amazoncom Inc
 13.230.191.90,443,JP,Amazoncom Inc
@@ -115,8 +112,8 @@
 141.11.138.201,443,JP,ByteVirt LLC
 141.11.138.202,8443,JP,ByteVirt LLC
 141.11.138.72,443,JP,ByteVirt LLC
-141.11.138.72,8443,JP,ByteVirt LLC
 141.11.138.72,2053,JP,ByteVirt LLC
+141.11.138.72,8443,JP,ByteVirt LLC
 141.11.139.128,443,JP,ByteVirt LLC
 141.11.139.215,443,JP,ByteVirt LLC
 141.147.152.9,443,JP,Cloudflare London LLC
@@ -132,6 +129,7 @@
 142.91.109.17,2087,JP,Leaseweb Japan KK
 142.91.109.197,443,JP,Leaseweb Japan KK
 142.91.109.211,443,JP,Leaseweb Japan KK
+147.45.49.205,443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
 147.79.20.177,443,JP,ByteVirt LLC
 147.79.20.191,443,JP,ByteVirt LLC
 147.79.59.19,443,JP,Private Customer
@@ -217,7 +215,6 @@
 161.33.15.101,443,JP,Oracle Corporation
 161.33.172.160,443,JP,Oracle Corporation
 161.33.205.206,8443,JP,Oracle Corporation
-161.33.215.154,443,JP,Oracle Corporation
 161.33.215.245,2083,JP,Oracle Corporation
 161.33.29.51,443,JP,Oracle Corporation
 161.33.31.228,443,JP,Oracle Corporation
@@ -236,7 +233,6 @@
 167.179.117.9,443,JP,The Constant Company LLC
 167.179.119.229,443,JP,Vultr Holdings LLC
 167.179.75.237,443,JP,TYOVULTRCUST
-167.179.77.42,443,JP,The Constant Company LLC
 167.179.77.74,443,JP,The Constant Company LLC
 167.179.86.6,8443,JP,Vultr Holdings LLC
 167.179.90.137,443,JP,Vultr Holdings LLC
@@ -251,7 +247,6 @@
 168.138.52.221,443,JP,Oracle Corporation
 168.93.214.109,443,JP,Evoxtcom
 168.93.214.71,443,JP,Evoxtcom
-168.93.214.90,443,JP,Evoxtcom
 172.104.120.30,443,JP,Akamai Connected Cloud  Linode
 172.104.120.92,443,JP,Akamai Connected Cloud  Linode
 172.104.80.248,443,JP,Akamai Connected Cloud  Linode
@@ -307,7 +302,6 @@
 198.13.59.163,443,JP,The Constant Company LLC
 198.13.60.163,443,JP,The Constant Company LLC
 200.180.163.38,443,JP,Private Customer
-202.144.195.77,8443,JP,Techavenue International Ltd
 202.182.118.182,443,JP,Vultr Holdings LLC
 202.182.121.70,443,JP,The Constant Company LLC
 202.182.122.249,8443,JP,The Constant Company LLC
@@ -321,7 +315,6 @@
 207.148.90.139,443,JP,Vultr Holdings LLC
 207.148.99.230,443,JP,TYOVULTRCUST
 207.65.189.9,443,JP,Sonet Service
-209.33.172.78,8443,JP,BAGE CLOUD LLC
 210.138.37.53,443,JP,CDNetworks co Ltd
 212.135.210.210,443,JP,CYBERJET PTE LTD
 212.135.211.79,443,JP,CYBERJET PTE LTD
@@ -357,6 +350,7 @@
 35.78.243.103,443,JP,Amazoncom Inc
 38.47.52.252,443,JP,Silicon Cloud Tokyo LLC
 43.130.241.204,443,JP,6 COLLYER QUAY
+43.165.178.147,8443,JP,16 COLLYER QUAY  1829 INCOME AT RAFFLES
 43.170.8.95,443,JP,6 COLLYER QUAY
 45.11.1.4,443,JP,Datacamp Limited
 45.137.180.179,443,JP,Akari Networks Tokyo
@@ -364,8 +358,8 @@
 45.142.127.233,443,JP,xTom Japan Corporation
 45.153.245.221,443,JP,xTom Japan Corporation
 45.192.196.76,443,JP,ACCK LLC
-45.192.200.133,8443,JP,ACCK LLC
 45.192.200.133,443,JP,ACCK LLC
+45.192.200.133,8443,JP,ACCK LLC
 45.192.201.140,443,JP,ACCK LLC
 45.192.201.197,443,JP,ACCK LLC
 45.192.202.199,443,JP,ACCK LLC
@@ -374,8 +368,6 @@
 45.192.206.158,443,JP,AkileCloud LLC
 45.192.206.218,443,JP,AkileCloud LLC
 45.192.207.240,443,JP,AkileCloud LLC
-45.192.242.141,443,JP,ACCK LLC
-45.192.243.25,443,JP,ACCK LLC
 45.192.243.63,443,JP,ACCK LLC
 45.192.249.158,443,JP,AkileCloud LLC
 45.196.233.233,8443,JP,AkileCloud LLC
@@ -394,7 +386,6 @@
 45.32.54.55,443,JP,Vultr Holdings LLC
 45.32.54.55,8443,JP,Vultr Holdings LLC
 45.63.124.130,443,JP,The Constant Company LLC
-45.66.129.128,443,JP,xTom Japan Corporation
 45.66.216.47,443,JP,Virtual Machine Solutions LLC
 45.76.195.48,443,JP,The Constant Company LLC
 45.76.198.204,443,JP,The Constant Company LLC
@@ -410,15 +401,14 @@
 45.77.130.24,443,JP,Vultr Holdings LLC
 45.77.130.93,443,JP,The Constant Company LLC
 45.77.131.33,8443,JP,The Constant Company LLC
+45.77.134.188,443,JP,The Constant Company LLC
 45.77.180.114,443,JP,The Constant Company LLC
 45.77.183.15,443,JP,The Constant Company LLC
 45.77.21.148,443,JP,Vultr Holdings LLC
-45.77.25.6,48828,JP,Vultr Holdings LLC
-45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.30.168,443,JP,The Constant Company LLC
 45.77.9.114,443,JP,Vultr Holdings LLC
-45.78.54.153,8443,JP,IT7 Networks Inc
 45.78.58.239,443,JP,IT7 Networks Inc
+45.8.115.202,443,JP,xTom GmbH
 45.8.173.11,443,JP,PANSTAR CLOUD LIMITED  Tokyo JPP
 45.8.173.136,443,JP,PANSTAR CLOUD LIMITED  Tokyo JPP
 45.8.173.15,443,JP,PANSTAR CLOUD LIMITED  Tokyo JPP
@@ -427,9 +417,8 @@
 45.8.173.253,8443,JP,PANSTAR CLOUD LIMITED  Tokyo JPP
 45.8.173.99,443,JP,PANSTAR CLOUD LIMITED  Tokyo JPP
 45.89.232.111,443,JP,xTom Japan Corporation
+45.92.159.141,443,JP,xTom Japan Corporation
 45.92.159.236,443,JP,xTom Japan Corporation
-45.94.40.102,443,JP,xTom Japan Corporation
-45.95.212.186,443,JP,ISIF Network Japan Tokyo
 45.95.212.215,443,JP,ISIF Network Japan Tokyo
 46.250.248.210,443,JP,Contabo Asia Private Limited
 46.250.250.48,8443,JP,Contabo Asia Private Limited
@@ -441,19 +430,16 @@
 5.104.81.35,443,JP,Contabo Asia Private Limited
 5.104.83.202,443,JP,Contabo Asia Private Limited
 5.104.86.1,443,JP,Contabo Asia Private Limited
-5.34.220.80,443,JP,Akari Networks Tokyo
 50.114.113.43,443,JP,Evoxtcom
 50.114.113.74,443,JP,Evoxtcom
 52.192.191.112,443,JP,Amazoncom Inc
 52.193.226.127,443,JP,Amazoncom Inc
-52.193.53.17,443,JP,Amazoncom Inc
 52.194.191.128,443,JP,Amazoncom Inc
 52.194.215.93,443,JP,Amazoncom Inc
 52.194.44.56,443,JP,Amazoncom Inc
 52.195.211.96,443,JP,Amazoncom Inc
 52.197.219.243,443,JP,Amazoncom Inc
 52.197.247.0,443,JP,Amazoncom Inc
-52.198.181.9,443,JP,Amazoncom Inc
 52.199.170.52,443,JP,Amazoncom Inc
 54.150.132.91,443,JP,Amazoncom Inc
 54.150.192.0,443,JP,Amazoncom Inc
@@ -480,8 +466,8 @@
 64.176.38.23,2083,JP,Cloudflare London LLC
 64.176.39.242,443,JP,The Constant Company LLC
 64.176.44.23,443,JP,The Constant Company LLC
-64.176.53.200,443,JP,The Constant Company LLC
 64.176.53.200,8443,JP,The Constant Company LLC
+64.176.53.200,443,JP,The Constant Company LLC
 64.176.54.102,443,JP,The Constant Company LLC
 64.176.54.186,443,JP,The Constant Company LLC
 64.176.54.200,443,JP,The Constant Company LLC
@@ -492,14 +478,12 @@
 64.176.62.94,443,JP,The Constant Company LLC
 64.204.48.68,443,JP,Cornseed Limited
 64.204.49.136,8443,JP,Cornseed Limited
-64.204.49.136,443,JP,Cornseed Limited
 64.204.49.68,443,JP,Private Customer
 64.83.40.57,443,JP,NetLab Global
 66.245.216.41,443,JP,The Constant Company LLC
 66.245.219.37,443,JP,The Constant Company LLC
 66.245.219.45,443,JP,The Constant Company LLC
 66.245.221.10,443,JP,The Constant Company LLC
-69.8.128.82,443,JP,ByteVirt LLC
 69.8.131.142,443,JP,ByteVirt LLC
 69.8.131.28,443,JP,ByteVirt LLC
 74.113.96.69,443,JP,DDPS Networks LLC

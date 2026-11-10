@@ -5,6 +5,6 @@
 194.5.98.83,8443,NO,WebHorizon Norway
 194.68.32.99,443,NO,EDIS IPv6 Infrastructure in Norway
 202.50.55.76,443,NO,H4FNET
-81.29.149.219,8443,NO,Baxet Group Inc
 81.29.149.219,2053,NO,Baxet Group Inc
+81.29.149.219,8443,NO,Baxet Group Inc
 84.208.211.208,8443,NO,Telia Norge AS
