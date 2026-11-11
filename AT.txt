@@ -24,10 +24,9 @@
 185.175.58.196,443,AT,HostHatch LLC
 185.75.241.170,443,AT,Cloudflare London LLC
 193.219.97.183,443,AT,Alwyzon a trading name of Hohl IT eU
-193.219.97.198,443,AT,Alwyzon a trading name of Hohl IT eU
 193.219.97.198,8443,AT,Alwyzon a trading name of Hohl IT eU
+193.219.97.198,443,AT,Alwyzon a trading name of Hohl IT eU
 203.98.67.146,443,AT,Alwyzon a trading name of Hohl IT eU
-203.98.67.48,8443,AT,Alwyzon a trading name of Hohl IT eU
 205.147.201.29,443,AT,Alwyzon a trading name of Hohl IT eU
 37.235.56.86,443,AT,EDIS IPv6 Infrastructure in Austria
 37.252.189.207,443,AT,IPAX GmbH
@@ -40,7 +39,6 @@
 83.243.122.219,443,AT,EDIS IPv6 Infrastructure in Austria
 85.192.42.198,443,AT,AEZA GROUP LLC
 89.58.17.201,443,AT,netcup GmbH
-91.244.70.33,443,AT,Evolus IT Solutions GmbH
 91.244.70.45,8443,AT,Evolus IT Solutions GmbH
 92.112.48.142,8443,AT,Alpenhost eU
 94.177.8.237,443,AT,Alwyzon a trading name of Hohl IT eU

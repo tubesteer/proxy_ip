@@ -18,8 +18,6 @@
 168.138.15.48,443,AU,Oracle Public Cloud
 170.64.135.128,443,AU,Digital Ocean Inc
 170.64.152.77,7443,AU,DigitalOcean LLC
-170.64.163.39,443,AU,Digital Ocean Inc
-170.64.170.226,443,AU,Digital Ocean Inc
 170.64.197.150,443,AU,Digital Ocean Inc
 170.64.232.210,443,AU,Digital Ocean Inc
 170.64.237.192,443,AU,Digital Ocean Inc
@@ -44,5 +42,4 @@
 46.250.244.12,443,AU,Contabo Asia Private Limited
 51.161.131.192,443,AU,OVH SYD DC
 54.253.246.242,8443,AU,Amazoncom Inc
-58.96.64.83,443,AU,SUPERLOOP AUSTRALIA PTY LTD
 66.226.145.131,443,AU,Mammoth Media Pty Ltd

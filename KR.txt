@@ -1,10 +1,10 @@
 101.33.80.58,8443,KR,ACEVILLE PTELTD
-123.111.169.70,2083,KR,SK Broadband Co Ltd
 123.111.169.70,2096,KR,SK Broadband Co Ltd
 123.111.169.70,8443,KR,SK Broadband Co Ltd
+123.111.169.70,2083,KR,SK Broadband Co Ltd
+123.111.169.70,2087,KR,SK Broadband Co Ltd
 123.111.169.70,2053,KR,SK Broadband Co Ltd
 123.111.169.70,443,KR,SK Broadband Co Ltd
-123.111.169.70,2087,KR,SK Broadband Co Ltd
 13.125.141.213,443,KR,Amazoncom Inc
 130.94.29.155,443,KR,LIGHT NODE LIMITED
 131.186.16.166,443,KR,Oracle Public Cloud
@@ -47,8 +47,6 @@
 158.247.210.172,443,KR,The Constant Company LLC
 158.247.220.241,443,KR,The Constant Company LLC
 158.247.250.157,81,KR,The Constant Company LLC
-158.247.253.111,8443,KR,The Constant Company LLC
-158.247.253.111,2087,KR,The Constant Company LLC
 161.118.153.136,443,KR,Cloudflare London LLC
 168.107.36.135,443,KR,Oracle Corporation
 168.107.36.254,443,KR,Oracle Corporation
