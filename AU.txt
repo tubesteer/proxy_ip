@@ -2,7 +2,6 @@
 103.43.75.82,443,AU,The Constant Company LLC
 123.51.23.113,443,AU,Level 6 913 Young Street
 125.7.24.251,443,AU,Macquarie Telecom
-130.162.193.183,15401,AU,Oracle Public Cloud
 134.199.164.250,443,AU,Digital Ocean Inc
 139.99.134.170,443,AU,OVH SYD DC
 139.99.155.180,443,AU,OVH SYD DC
@@ -20,7 +19,6 @@
 170.64.135.128,443,AU,Digital Ocean Inc
 170.64.152.77,7443,AU,DigitalOcean LLC
 170.64.197.150,443,AU,Digital Ocean Inc
-170.64.228.130,443,AU,Digital Ocean Inc
 170.64.232.210,443,AU,Digital Ocean Inc
 170.64.237.192,443,AU,Digital Ocean Inc
 172.105.173.161,443,AU,Akamai Connected Cloud  Linode
