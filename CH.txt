@@ -1,5 +1,5 @@
 103.63.30.163,443,CH,HostHatch
-103.63.30.230,443,CH,Prinode AB
+103.63.30.19,443,CH,Prinode AB
 107.189.2.206,8443,CH,FranTech Solutions
 107.189.30.77,443,CH,BuyVM
 107.189.7.124,2053,CH,BuyVM
@@ -7,7 +7,6 @@
 131.123.34.22,8443,CH,ALEXHOST SRL
 132.243.161.215,2053,CH,ALEXHOST SRL
 135.106.130.62,8443,CH,Prinode AB
-140.238.170.32,443,CH,Oracle Public Cloud
 140.238.208.240,443,CH,Oracle Public Cloud
 140.238.209.8,443,CH,Oracle Public Cloud
 140.238.214.95,443,CH,Oracle Corporation
@@ -40,8 +39,8 @@
 176.10.125.114,443,CH,Datasource AG
 179.237.100.143,2053,CH,Infomaniak Network SA
 179.237.104.22,2053,CH,Infomaniak Network SA
-179.237.108.163,8443,CH,Infomaniak Network SA
 179.237.108.163,443,CH,Infomaniak Network SA
+179.237.108.163,8443,CH,Infomaniak Network SA
 179.237.111.118,443,CH,Infomaniak Network SA
 179.237.64.55,2053,CH,Infomaniak Network SA
 179.237.82.177,8443,CH,Infomaniak Network SA
@@ -92,7 +91,6 @@
 45.148.102.244,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.148.118.224,443,CH,Baxet Group Inc
 45.154.145.13,443,CH,Host4Biz sp z oo
-45.154.145.14,443,CH,Host4Biz sp z oo
 45.59.117.171,443,CH,RouterHosting LLC
 45.59.123.132,443,CH,RouterHosting LLC
 45.59.124.103,443,CH,RouterHosting LLC
@@ -114,16 +112,16 @@
 80.68.159.43,443,CH,Friendhosting LTD
 82.21.4.172,443,CH,UPNETWORK Srl
 82.38.64.162,443,CH,HOSTKEY BV
-83.228.193.162,8443,CH,Infomaniak Network SA
 83.228.193.162,443,CH,Infomaniak Network SA
-83.228.193.177,8443,CH,Infomaniak Network SA
+83.228.193.162,8443,CH,Infomaniak Network SA
 83.228.193.177,443,CH,Infomaniak Network SA
+83.228.193.177,8443,CH,Infomaniak Network SA
 83.228.193.188,8443,CH,Infomaniak Network SA
 83.228.193.188,443,CH,Infomaniak Network SA
-83.228.193.229,443,CH,Infomaniak Network SA
 83.228.193.229,8443,CH,Infomaniak Network SA
-83.228.198.53,8443,CH,Infomaniak Network SA
+83.228.193.229,443,CH,Infomaniak Network SA
 83.228.198.53,443,CH,Infomaniak Network SA
+83.228.198.53,8443,CH,Infomaniak Network SA
 83.228.199.3,443,CH,Infomaniak Network SA
 83.228.207.11,443,CH,Infomaniak Network SA
 83.228.207.179,443,CH,Infomaniak Network SA
@@ -132,8 +130,8 @@
 83.228.222.61,443,CH,Infomaniak Network SA
 83.228.240.71,443,CH,Infomaniak Network SA
 83.228.242.220,443,CH,Infomaniak Network SA
-84.234.17.132,8443,CH,Infomaniak Network SA
 84.234.17.132,443,CH,Infomaniak Network SA
+84.234.17.132,8443,CH,Infomaniak Network SA
 84.234.31.84,443,CH,Infomaniak Network SA
 87.120.222.125,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 87.120.222.168,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP

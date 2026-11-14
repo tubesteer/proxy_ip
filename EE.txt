@@ -31,8 +31,8 @@
 185.4.72.110,8443,EE,IPv6 network for hosting services
 185.4.72.18,2083,EE,IPv6 network for hosting services
 188.119.112.148,443,EE,HexCore cloud sro
-188.214.37.137,8443,EE,EDIS IPv6 Infrastructure in Estonia
 188.214.37.137,443,EE,EDIS IPv6 Infrastructure in Estonia
+188.214.37.137,8443,EE,EDIS IPv6 Infrastructure in Estonia
 188.214.37.231,443,EE,EDIS IPv6 Infrastructure in Estonia
 209.131.70.109,443,EE,HexCore cloud sro
 209.131.70.198,8443,EE,HexCore cloud sro
@@ -54,7 +54,6 @@
 38.180.230.178,443,EE,3NT SOLUTIONS LLP
 38.180.248.108,443,EE,3NT SOLUTIONS LLP
 45.12.28.129,443,EE,Brainoza OU
-45.12.28.134,443,EE,Brainoza OU
 45.12.28.202,443,EE,Brainoza OU
 45.12.28.95,443,EE,Brainoza OU
 45.129.199.117,443,EE,BlueVPS OU
@@ -98,14 +97,12 @@
 80.77.25.228,443,EE,servingacom  Estonia
 80.79.123.100,443,EE,Aktsiaselts WaveCom
 82.47.22.11,8443,EE,RAKAR INVESTMENTS HOLDING BV
-89.150.40.228,443,EE,HZ Hosting Ltd
 89.169.15.253,443,EE,Baykov Ilya Sergeevich
+89.40.104.169,2053,EE,EDIS Global Infrastructure in Estonia
 89.40.104.169,443,EE,EDIS Global Infrastructure in Estonia
 89.40.104.169,2083,EE,EDIS Global Infrastructure in Estonia
-89.40.104.169,2053,EE,EDIS Global Infrastructure in Estonia
 94.126.224.146,443,EE,HZ Hosting Ltd
 94.126.224.238,443,EE,HZ Hosting Ltd
 94.156.236.118,443,EE,Baykov Ilya Sergeevich
 94.156.236.193,443,EE,Baykov Ilya Sergeevich
 94.156.236.200,443,EE,Baykov Ilya Sergeevich
-95.85.243.122,443,EE,1Cent Host

@@ -9,7 +9,6 @@
 155.103.70.240,2083,TR,White Label Services LLC
 155.103.70.33,443,TR,White Label Services LLC
 155.103.71.111,443,TR,White Label Services LLC
-155.103.71.207,443,TR,White Label Services LLC
 156.67.62.115,443,TR,HOSTKEY BV
 158.94.216.100,443,TR,Netlen Internet Hizmetleri Ltd Sti
 158.94.216.125,8443,TR,Netlen Internet Hizmetleri Ltd Sti
@@ -28,8 +27,8 @@
 188.132.232.192,8443,TR,SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI
 193.187.132.11,2053,TR,Private Customer
 194.36.85.113,443,TR,TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi
-194.55.136.247,443,TR,BEAFORT LIMITED
 194.87.39.224,8443,TR,Baxet Group Inc
+198.105.123.86,8443,TR,YottaSrc Hosting and Cloud Service
 201.50.115.20,443,TR,GLB Bulut Teknolojisi Limited Sirketi
 203.202.232.110,443,TR,IPv4Centercom Partition  Order 5
 203.202.232.154,443,TR,IPv4Centercom Partition  Order 5
@@ -39,7 +38,6 @@
 213.142.156.246,443,TR,TEKNOSOS BILISIM HIZMETLERI VE TIC LTD STI
 213.155.119.28,443,TR,DorukCloud network block
 213.238.182.13,443,TR,Markahost Telekomunikasyon Ve Ticaret Limited Sirketi
-31.40.204.119,443,TR,White Label Services LLC
 31.40.204.238,443,TR,White Label Services LLC
 31.40.204.243,2096,TR,White Label Services LLC
 31.40.204.243,2083,TR,White Label Services LLC
@@ -52,6 +50,7 @@
 5.180.32.101,443,TR,Private Customer
 5.188.190.84,443,TR,GCore Labs Customer assignment
 77.83.245.48,443,TR,GLOBAL CONNECTIVITY SOLUTIONS LLP
+78.135.77.192,443,TR,Netlen Internet Hizmetleri Ltd Sti
 78.135.83.8,443,TR,HostLAB Bilisim Teknolojileri AS
 82.26.136.195,8443,TR,HOSTKEY BV
 82.26.136.32,443,TR,HOSTKEY BV
