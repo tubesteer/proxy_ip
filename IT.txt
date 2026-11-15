@@ -8,13 +8,14 @@
 194.87.47.165,8443,IT,Baxet Group Inc
 194.87.47.165,443,IT,Baxet Group Inc
 194.87.47.70,443,IT,Baxet Group Inc
-194.87.47.9,443,IT,Baxet Group Inc
 194.87.47.9,2053,IT,Baxet Group Inc
+194.87.47.9,443,IT,Baxet Group Inc
 195.231.38.220,443,IT,Aruba SpA  Cloud Services IT3
 212.237.6.194,443,IT,Aruba SpA
 213.109.192.6,8443,IT,BlueVPS OU
 4.232.64.201,443,IT,Microsoft Corporation
 45.144.172.33,443,IT,Baxet Group Inc
+45.144.172.42,443,IT,Baxet Group Inc
 45.147.250.39,443,IT,Kamatera Inc
 57.131.32.25,2053,IT,OVH Srl
 72.146.234.10,443,IT,Microsoft Corporation
