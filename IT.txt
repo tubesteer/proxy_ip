@@ -22,7 +22,6 @@
 72.146.234.10,443,IT,Microsoft Corporation
 80.211.134.75,443,IT,Aruba SpA
 80.211.238.61,443,IT,Aruba SpA  Cloud Services Farm2
-80.211.24.141,443,IT,Aruba SpA
 80.211.24.32,443,IT,Aruba SpA
 80.211.27.249,443,IT,Aruba SpA  Cloud Services DC1
 80.211.79.108,443,IT,Aruba SpA
