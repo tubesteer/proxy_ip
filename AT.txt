@@ -30,7 +30,6 @@
 205.147.201.29,443,AT,Alwyzon a trading name of Hohl IT eU
 37.252.189.207,443,AT,IPAX GmbH
 46.102.156.142,443,AT,Alwyzon a trading name of Hohl IT eU
-46.102.157.136,443,AT,Alwyzon a trading name of Hohl IT eU
 62.83.11.210,443,AT,netcup GmbH
 62.83.11.212,443,AT,netcup GmbH
 62.83.17.22,8443,AT,netcup GmbH
