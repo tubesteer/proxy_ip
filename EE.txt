@@ -1,9 +1,10 @@
 114.129.9.132,8443,EE,3NT Solutions LLP
+13.143.182.82,443,EE,Cloudflare London LLC
 138.124.4.38,443,EE,Baykov Ilya Sergeevich
 138.124.4.70,443,EE,Baykov Ilya Sergeevich
 150.241.101.102,8443,EE,SERVHOST GROUP LTD
 150.241.101.185,443,EE,SERVHOST GROUP LTD
-150.241.74.1,443,EE,SERVHOST GROUP LTD
+150.241.101.194,443,EE,Cloudflare London LLC
 154.59.225.158,443,EE,HexCore cloud sro
 159.253.20.80,8443,EE,IPv6 network for hosting services
 159.253.21.151,8443,EE,IPv6 network for hosting services
@@ -25,7 +26,6 @@
 185.36.141.4,8443,EE,Brainoza OU
 185.36.141.81,443,EE,Brainoza OU
 185.36.142.21,8443,EE,Brainoza OU
-185.36.142.55,443,EE,Brainoza OU
 185.4.72.110,8443,EE,IPv6 network for hosting services
 185.4.72.18,2083,EE,IPv6 network for hosting services
 188.119.112.148,443,EE,HexCore cloud sro
@@ -52,6 +52,7 @@
 38.180.230.178,443,EE,3NT SOLUTIONS LLP
 38.180.248.108,443,EE,3NT SOLUTIONS LLP
 45.12.28.129,443,EE,Brainoza OU
+45.12.28.134,443,EE,Brainoza OU
 45.12.28.202,443,EE,Brainoza OU
 45.12.28.95,443,EE,Brainoza OU
 45.129.199.117,443,EE,BlueVPS OU
@@ -73,12 +74,13 @@
 5.101.180.125,2053,EE,Network for hosting services
 5.101.180.125,8443,EE,Network for hosting services
 5.181.202.134,443,EE,Brainoza OU
+5.181.202.60,443,EE,Brainoza OU
 5.181.202.75,443,EE,Brainoza OU
-5.188.20.54,8443,EE,Network for hosting services
 5.188.20.54,443,EE,Network for hosting services
+5.188.20.54,8443,EE,Network for hosting services
+5.189.254.168,2053,EE,Brainoza OU
 5.189.254.168,443,EE,Brainoza OU
 5.189.254.168,8443,EE,Brainoza OU
-5.189.254.168,2053,EE,Brainoza OU
 5.189.254.185,443,EE,Brainoza OU
 5.42.221.131,443,EE,HostWorld OU
 5.42.221.16,443,EE,HostWorld OU
@@ -91,11 +93,11 @@
 80.77.25.228,443,EE,servingacom  Estonia
 80.79.123.100,443,EE,Aktsiaselts WaveCom
 82.47.22.11,8443,EE,RAKAR INVESTMENTS HOLDING BV
-89.150.40.228,443,EE,HZ Hosting Ltd
+82.47.22.177,8443,EE,HostSlim OU
 89.169.15.253,443,EE,Baykov Ilya Sergeevich
-89.40.104.169,2053,EE,EDIS Global Infrastructure in Estonia
 89.40.104.169,443,EE,EDIS Global Infrastructure in Estonia
 89.40.104.169,2083,EE,EDIS Global Infrastructure in Estonia
+89.40.104.169,2053,EE,EDIS Global Infrastructure in Estonia
 94.126.224.146,443,EE,HZ Hosting Ltd
 94.126.224.238,443,EE,HZ Hosting Ltd
 94.156.236.118,443,EE,Baykov Ilya Sergeevich
