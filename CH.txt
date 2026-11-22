@@ -15,8 +15,8 @@
 146.70.233.11,2083,CH,M247 LTD Zurich Infrastructure
 146.70.233.11,443,CH,M247 LTD Zurich Infrastructure
 146.70.233.25,443,CH,M247 Europe  Zurich Infrastructure
-146.70.233.51,443,CH,M247 LTD Zurich Infrastructure
 146.70.233.51,2083,CH,M247 LTD Zurich Infrastructure
+146.70.233.51,443,CH,M247 LTD Zurich Infrastructure
 146.70.71.157,443,CH,M247 LTD Zurich
 151.241.252.42,443,CH,WebPros International GmbH
 151.241.254.22,443,CH,WebPros International GmbH
@@ -34,8 +34,8 @@
 171.22.16.201,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 171.22.16.237,443,CH,GLOBAL CONNECTIVITY SOLUTIONS LLP
 179.237.100.143,2053,CH,Infomaniak Network SA
-179.237.108.163,443,CH,Infomaniak Network SA
 179.237.108.163,8443,CH,Infomaniak Network SA
+179.237.108.163,443,CH,Infomaniak Network SA
 179.237.111.118,443,CH,Infomaniak Network SA
 179.237.64.55,2053,CH,Infomaniak Network SA
 179.237.82.177,8443,CH,Infomaniak Network SA
@@ -106,10 +106,10 @@
 82.21.4.172,443,CH,UPNETWORK Srl
 83.228.193.162,443,CH,Infomaniak Network SA
 83.228.193.162,8443,CH,Infomaniak Network SA
-83.228.193.177,8443,CH,Infomaniak Network SA
 83.228.193.177,443,CH,Infomaniak Network SA
-83.228.193.188,443,CH,Infomaniak Network SA
+83.228.193.177,8443,CH,Infomaniak Network SA
 83.228.193.188,8443,CH,Infomaniak Network SA
+83.228.193.188,443,CH,Infomaniak Network SA
 83.228.193.229,443,CH,Infomaniak Network SA
 83.228.193.229,8443,CH,Infomaniak Network SA
 83.228.198.53,443,CH,Infomaniak Network SA
