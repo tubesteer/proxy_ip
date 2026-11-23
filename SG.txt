@@ -35,8 +35,6 @@
 128.1.186.62,443,SG,ZENLA1
 128.1.186.63,443,SG,ZENLA1
 128.199.128.117,443,SG,DigitalOcean LLC
-128.199.245.43,443,SG,Zenlayer Singapore PTE LTD
-128.199.245.50,443,SG,Zenlayer Singapore PTE LTD
 129.121.129.25,443,SG,Oso Grande IP Services LLC
 129.150.36.188,53435,SG,Oracle Corporation
 129.150.49.34,443,SG,Oracle Corporation
@@ -81,7 +79,6 @@
 139.59.118.255,443,SG,DigitalOcean LLC
 139.59.231.131,443,SG,DigitalOcean LLC
 139.59.246.228,443,SG,DigitalOcean LLC
-139.59.252.206,443,SG,Zenlayer Singapore PTE LTD
 140.245.107.0,8443,SG,Oracle Corporation
 140.245.114.190,443,SG,Oracle Corporation
 140.245.97.215,443,SG,Oracle Corporation
@@ -103,11 +100,12 @@
 146.190.95.17,443,SG,Zenlayer Singapore PTE LTD
 146.190.97.53,443,SG,DigitalOcean LLC
 146.235.18.248,45137,SG,Oracle Corporation
+146.70.29.29,443,SG,Zenlayer Singapore PTE LTD
 147.90.200.71,24443,SG,Private Customer
 149.118.48.187,443,SG,Oracle Corporation
 149.118.55.215,2096,SG,Oracle Corporation
-149.118.55.215,2053,SG,Oracle Corporation
 149.118.55.215,8443,SG,Oracle Corporation
+149.118.55.215,2053,SG,Oracle Corporation
 149.28.129.123,443,SG,The Constant Company LLC
 149.28.135.30,443,SG,The Constant Company LLC
 149.28.137.52,443,SG,The Constant Company LLC
@@ -137,7 +135,6 @@
 152.42.232.186,443,SG,DigitalOcean LLC
 152.42.235.119,443,SG,DigitalOcean LLC
 152.42.237.192,443,SG,Zenlayer Singapore PTE LTD
-152.42.237.195,443,SG,Zenlayer Singapore PTE LTD
 152.42.246.237,443,SG,DigitalOcean LLC
 152.42.247.235,443,SG,DigitalOcean LLC
 152.42.250.166,443,SG,Zenlayer Singapore PTE LTD
@@ -166,7 +163,6 @@
 158.178.230.113,8443,SG,Oracle Svenska AB
 159.195.95.152,443,SG,netcup GmbH
 159.223.33.4,443,SG,DigitalOcean LLC
-159.223.68.25,443,SG,Zenlayer Singapore PTE LTD
 159.223.71.229,443,SG,DigitalOcean LLC
 159.223.77.34,443,SG,DigitalOcean LLC
 159.223.78.76,443,SG,DigitalOcean LLC
@@ -213,7 +209,6 @@
 165.245.184.76,443,SG,DigitalOcean LLC
 165.245.190.53,443,SG,DigitalOcean LLC
 167.150.100.46,443,SG,BrainStorm Network Inc
-167.172.65.133,443,SG,Zenlayer Singapore PTE LTD
 167.172.67.51,443,SG,DigitalOcean LLC
 167.172.68.31,443,SG,DigitalOcean LLC
 167.172.75.2,443,SG,DigitalOcean LLC
@@ -249,10 +244,8 @@
 168.144.45.134,8443,SG,DigitalOcean LLC
 168.144.47.94,443,SG,DigitalOcean LLC
 168.144.96.147,443,SG,DigitalOcean LLC
-172.104.161.205,443,SG,Zenlayer Singapore PTE LTD
 172.104.185.40,443,SG,Akamai Connected Cloud  Linode
 172.104.57.237,443,SG,Akamai Connected Cloud  Linode
-172.104.59.103,443,SG,
 172.104.60.54,443,SG,Akamai Connected Cloud  Linode
 172.104.60.54,8443,SG,Akamai Connected Cloud  Linode
 172.236.132.46,443,SG,Linode
@@ -406,9 +399,9 @@
 47.131.106.251,443,SG,Amazoncom Inc
 47.131.155.232,443,SG,Amazoncom Inc
 47.74.254.191,8900,SG,Alibaba Cloud  SG
-47.82.155.79,443,SG,Alibaba Cloud LLC
-47.82.155.79,8443,SG,Alibaba Cloud LLC
 47.82.155.79,2053,SG,Alibaba Cloud LLC
+47.82.155.79,8443,SG,Alibaba Cloud LLC
+47.82.155.79,443,SG,Alibaba Cloud LLC
 5.223.21.240,443,SG,Hetzner Online GmbH
 5.223.51.2,443,SG,Hetzner Online GmbH
 5.223.51.84,443,SG,Hetzner Online GmbH
@@ -447,8 +440,6 @@
 68.183.225.227,443,SG,DigitalOcean LLC
 68.183.230.164,443,SG,Zenlayer Singapore PTE LTD
 68.183.231.228,443,SG,DigitalOcean LLC
-68.183.235.64,443,SG,Zenlayer Singapore PTE LTD
-68.183.235.94,443,SG,Zenlayer Singapore PTE LTD
 68.183.239.3,443,SG,DigitalOcean LLC
 69.161.221.225,443,SG,LEASEWEB SINGAPORE PTE LTD
 69.161.221.236,443,SG,LEASEWEB SINGAPORE PTE LTD
@@ -472,6 +463,6 @@
 89.34.227.245,443,SG,Akari Networks Singapore
 94.237.65.232,443,SG,UpCloud Ltd
 94.237.66.99,443,SG,UpCloud Ltd
-96.9.210.191,2053,SG,LEASEWEB SINGAPORE PTE LTD
 96.9.210.191,443,SG,LEASEWEB SINGAPORE PTE LTD
+96.9.210.191,2053,SG,LEASEWEB SINGAPORE PTE LTD
 96.9.213.89,443,SG,xTom Pty Ltd

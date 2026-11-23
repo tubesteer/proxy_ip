@@ -20,8 +20,8 @@
 146.70.71.157,443,CH,M247 LTD Zurich
 151.241.252.42,443,CH,WebPros International GmbH
 151.241.254.22,443,CH,WebPros International GmbH
-151.243.190.222,8443,CH,HOSTKEY BV
 151.243.190.222,2053,CH,HOSTKEY BV
+151.243.190.222,8443,CH,HOSTKEY BV
 152.67.64.55,443,CH,Oracle Public Cloud
 152.67.70.113,2053,CH,Oracle Public Cloud
 152.67.74.247,443,CH,Oracle Public Cloud
@@ -46,12 +46,12 @@
 179.255.191.20,443,CH,IT Hostline Ltd
 179.255.191.82,443,CH,IT Hostline Ltd
 179.43.156.121,443,CH,PRIVATE LAYER INC
-185.103.164.216,443,CH,ALEXHOST SRL
 185.167.234.169,443,CH,Private Customer
 185.167.234.192,443,CH,Private Customer
 185.189.151.111,8443,CH,servinga GmbH
 185.191.239.218,443,CH,Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting Geronimo Ramirez
 185.195.69.158,443,CH,Datasource AG
+185.195.69.200,8443,CH,Datasource AG
 185.195.69.209,2053,CH,Datasource AG
 185.195.69.72,443,CH,Datasource AG
 185.218.204.205,443,CH,HOSTKEY BV
@@ -108,8 +108,8 @@
 83.228.193.162,8443,CH,Infomaniak Network SA
 83.228.193.177,443,CH,Infomaniak Network SA
 83.228.193.177,8443,CH,Infomaniak Network SA
-83.228.193.188,8443,CH,Infomaniak Network SA
 83.228.193.188,443,CH,Infomaniak Network SA
+83.228.193.188,8443,CH,Infomaniak Network SA
 83.228.193.229,443,CH,Infomaniak Network SA
 83.228.193.229,8443,CH,Infomaniak Network SA
 83.228.198.53,443,CH,Infomaniak Network SA
