@@ -39,6 +39,5 @@
 89.40.15.168,443,LT,UAB Interneto vizija
 93.115.25.111,443,LT,UAB Cherry Servers
 94.176.234.61,443,LT,UAB Interneto vizija
-94.176.235.22,443,LT,UAB Interneto vizija
 94.176.237.240,443,LT,UAB Interneto vizija
 94.176.239.98,2083,LT,UAB Interneto vizija
