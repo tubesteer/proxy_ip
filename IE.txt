@@ -4,5 +4,5 @@
 5.157.30.18,8443,IE,Angelnet Limited
 5.157.30.2,8443,IE,Angelnet Limited
 5.157.30.3,8443,IE,Angelnet Limited
-54.229.164.147,8443,IE,Amazoncom Inc
 54.229.164.147,2053,IE,Amazoncom Inc
+54.229.164.147,8443,IE,Amazoncom Inc
