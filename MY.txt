@@ -1,5 +1,4 @@
 136.0.254.132,443,MY,Evoxtcom
-168.93.198.95,443,MY,Evoxtcom
 187.52.114.103,8443,MY,Hostinger Operations UAB
 202.61.75.38,443,MY,Evoxtcom
 216.173.67.119,443,MY,Evoxtcom
