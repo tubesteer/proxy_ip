@@ -11,7 +11,6 @@
 152.67.99.162,443,AU,Oracle Public Cloud
 154.26.156.24,443,AU,Contabo Asia Private Limited
 158.180.5.171,443,AU,oracle
-16.176.42.97,443,AU,Amazon Corporate Services Pty Ltd
 161.33.90.181,443,AU,Oracle Corporation
 168.138.110.138,443,AU,Oracle Corporation
 168.138.15.48,443,AU,Oracle Public Cloud

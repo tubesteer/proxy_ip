@@ -18,6 +18,7 @@
 212.192.23.91,443,LT,Baxet Group Inc
 212.24.104.79,2053,LT,UAB Interneto vizija
 212.24.104.79,8443,LT,UAB Interneto vizija
+213.189.221.242,8443,LT,Baxet Group Inc
 213.252.246.17,8443,LT,SolusVM priskirti adresai
 5.199.162.130,443,LT,UAB Cherry Servers
 5.199.173.195,443,LT,UAB Cherry Servers
